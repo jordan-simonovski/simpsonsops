@@ -1,10 +1,36 @@
 import type { Metadata } from "next";
 import "./globals.css";
 
+const siteUrl =
+  process.env.NEXT_PUBLIC_SITE_URL ?? "https://simpsonsops.dev";
+
+const description =
+  "The complete archive of every Simpsons Against DevOps (@SimpsonsOps) tweet. Browse all the memes, replies, and shitposts in one place.";
+
 export const metadata: Metadata = {
+  metadataBase: new URL(siteUrl),
   title: "Simpsons Against DevOps (@SimpsonsOps)",
-  description:
-    "Simpsons Against DevOps | DMs Open | Send Memes | New memes posted once a day-ish. An archive of the @SimpsonsOps meme account.",
+  description,
+  openGraph: {
+    type: "website",
+    url: siteUrl,
+    title: "Simpsons Against DevOps (@SimpsonsOps)",
+    description,
+    images: [
+      {
+        url: "/simpsonsops-pp.jpg",
+        width: 400,
+        height: 400,
+        alt: "Simpsons Against DevOps",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary",
+    title: "Simpsons Against DevOps (@SimpsonsOps)",
+    description,
+    images: ["/simpsonsops-pp.jpg"],
+  },
 };
 
 const themeInit = `(function(){try{var t=localStorage.getItem('theme');if(t==='light'||t==='dark'){document.documentElement.dataset.theme=t;}}catch(e){}})();`;
