@@ -9,7 +9,7 @@
   --accent: #1d9bf0;
   --accent-hover: #1a8cd8;
   --on-accent: #ffffff;
-  --scrim: rgba(0, 0, 0, 0.65);
+  --header-bg: rgba(0, 0, 0, 0.65);
   --simpsons-yellow: #ffd521;
   --simpsons-outline: #1a1a1a;
 }
@@ -25,7 +25,7 @@
   --accent: #1d9bf0;
   --accent-hover: #1a8cd8;
   --on-accent: #ffffff;
-  --scrim: rgba(0, 0, 0, 0.45);
+  --header-bg: rgba(255, 255, 255, 0.85);
   --simpsons-yellow: #ffd521;
   --simpsons-outline: #1a1a1a;
 }
@@ -185,7 +185,7 @@ a {
   padding: 0 16px;
   height: 53px;
   backdrop-filter: blur(12px);
-  background: var(--scrim);
+  background: var(--header-bg);
   border-bottom: 1px solid transparent;
 }
 

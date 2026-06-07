@@ -7,6 +7,7 @@ import LeftNav from "@/app/components/LeftNav";
 import Tweet from "@/app/components/Tweet";
 import ShareDelegate from "@/app/components/ShareDelegate";
 import MediaLightbox from "@/app/components/MediaLightbox";
+import VideoAutoPause from "@/app/components/VideoAutoPause";
 import ThemeToggle from "@/app/components/ThemeToggle";
 import { BackArrow, ShareIcon } from "@/app/components/icons";
 
@@ -104,6 +105,7 @@ export default async function StatusPage({
       </aside>
       <ShareDelegate />
       <MediaLightbox />
+      <VideoAutoPause />
     </div>
   );
 }

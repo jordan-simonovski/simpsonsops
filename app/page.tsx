@@ -10,6 +10,7 @@ import ShareDelegate from "./components/ShareDelegate";
 import MediaLightbox from "./components/MediaLightbox";
 import MemeOfTheDay from "./components/MemeOfTheDay";
 import KeyboardShortcuts from "./components/KeyboardShortcuts";
+import VideoAutoPause from "./components/VideoAutoPause";
 
 // Re-render hourly so the date-seeded "meme of the day" rolls over without a
 // redeploy. The archive itself is static, so this is the only moving part.
@@ -44,6 +45,7 @@ export default async function Page() {
       <ShareDelegate />
       <MediaLightbox />
       <KeyboardShortcuts />
+      <VideoAutoPause />
     </div>
   );
 }
