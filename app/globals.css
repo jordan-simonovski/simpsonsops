@@ -10,6 +10,8 @@
   --accent-hover: #1a8cd8;
   --on-accent: #ffffff;
   --scrim: rgba(0, 0, 0, 0.65);
+  --simpsons-yellow: #ffd521;
+  --simpsons-outline: #1a1a1a;
 }
 
 :root[data-theme="light"] {
@@ -24,6 +26,8 @@
   --accent-hover: #1a8cd8;
   --on-accent: #ffffff;
   --scrim: rgba(0, 0, 0, 0.45);
+  --simpsons-yellow: #ffd521;
+  --simpsons-outline: #1a1a1a;
 }
 
 * {
@@ -886,7 +890,42 @@ a {
 
 .response-filter input {
   cursor: pointer;
-  accent-color: var(--accent);
+  appearance: none;
+  -webkit-appearance: none;
+  margin: 0;
+  width: 18px;
+  height: 18px;
+  border-radius: 4px;
+  border: 2px solid var(--simpsons-yellow);
+  background: var(--bg);
+  display: inline-grid;
+  place-content: center;
+  transition: background 0.12s ease, border-color 0.12s ease;
+}
+
+.response-filter input::after {
+  content: "";
+  width: 10px;
+  height: 10px;
+  transform: scale(0);
+  transition: transform 0.12s ease;
+  /* Simpsons-yellow checkmark drawn with clip-path */
+  background: var(--simpsons-outline);
+  clip-path: polygon(14% 44%, 0 65%, 50% 100%, 100% 16%, 80% 0, 43% 62%);
+}
+
+.response-filter input:checked {
+  background: var(--simpsons-yellow);
+  border-color: var(--simpsons-outline);
+}
+
+.response-filter input:checked::after {
+  transform: scale(1);
+}
+
+.response-filter input:focus-visible {
+  outline: 2px solid var(--simpsons-yellow);
+  outline-offset: 2px;
 }
 
 .back-to-all {
