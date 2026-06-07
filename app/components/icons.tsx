@@ -114,6 +114,14 @@ export function VideoOffIcon(props: IconProps) {
   );
 }
 
+export function ShuffleIcon(props: IconProps) {
+  return (
+    <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true" {...props}>
+      <path d="M16 3h5v5h-2V6.41l-3.3 3.3-1.4-1.42L17.58 5H16V3zM3 5h4.07c1.2 0 2.34.53 3.12 1.45l5.62 6.7c.4.47.98.74 1.6.74H19v-1.58l3 2.79-3 2.79V17.4h-1.59c-1.2 0-2.34-.53-3.12-1.45l-5.62-6.7A2.07 2.07 0 007.07 8.6H3V5zm9.9 9.79l1.4 1.42-1.18 1.4c-.78.92-1.92 1.45-3.12 1.45H3v-3.4h4c.62 0 1.2-.27 1.6-.74l1.3-1.55 1.4 1.42-.4.47z" />
+    </svg>
+  );
+}
+
 export function ShareIcon(props: IconProps) {
   return (
     <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true" {...props}>

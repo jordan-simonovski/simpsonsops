@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import { SearchIcon } from "./icons";
+import { SearchIcon, ShuffleIcon } from "./icons";
 
 // Full-text search over the server-rendered timeline. Each tweet article
 // carries a lowercased data-search-text attribute; we toggle visibility
@@ -42,6 +42,10 @@ export default function SearchBar() {
             onChange={(e) => apply(e.target.value)}
           />
         </div>
+        <a className="random-btn" href="/random">
+          <ShuffleIcon width={18} height={18} />
+          Random post
+        </a>
       </div>
     </aside>
   );

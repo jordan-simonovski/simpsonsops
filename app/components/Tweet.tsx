@@ -1,5 +1,6 @@
 import type { Tweet as TweetType } from "@/lib/tweets";
 import { linkify } from "@/lib/linkify";
+import { mediaUrl } from "@/lib/blob";
 import { VerifiedBadge, VideoOffIcon, ShareIcon } from "./icons";
 import MediaGrid from "./MediaGrid";
 import QuotedTweet from "./QuotedTweet";
@@ -14,9 +15,18 @@ function formatDate(iso: string): string {
   });
 }
 
-export default function Tweet({ tweet }: { tweet: TweetType }) {
+export default function Tweet({
+  tweet,
+  filterable = false,
+}: {
+  tweet: TweetType;
+  filterable?: boolean;
+}) {
   const showReplyLine = tweet.reply_to && !tweet.reply_to.text;
   const showQuote = tweet.reply_to && tweet.reply_to.text;
+
+  const isReply = filterable && Boolean(showReplyLine);
+  const isQuote = filterable && Boolean(showQuote);
 
   const searchText = [
     tweet.text,
@@ -28,7 +38,14 @@ export default function Tweet({ tweet }: { tweet: TweetType }) {
     .toLowerCase();
 
   return (
-    <article className="tweet" data-search-text={searchText}>
+    <article
+      className={`tweet${isReply ? " hidden-by-reply" : ""}${
+        isQuote ? " hidden-by-quote" : ""
+      }`}
+      data-search-text={searchText}
+      data-reply={isReply ? "true" : undefined}
+      data-quote={isQuote ? "true" : undefined}
+    >
       <img
         className="tweet-avatar"
         src="/simpsonsops-pp.jpg"
@@ -73,7 +90,15 @@ export default function Tweet({ tweet }: { tweet: TweetType }) {
 
         {tweet.media.length > 0 ? <MediaGrid media={tweet.media} /> : null}
 
-        {tweet.has_video ? (
+        {tweet.video ? (
+          <video
+            className="tweet-video"
+            src={mediaUrl(tweet.video)}
+            controls
+            playsInline
+            preload="metadata"
+          />
+        ) : tweet.has_video ? (
           <div className="video-placeholder">
             <VideoOffIcon />
             <span className="vp-text">Video unavailable</span>

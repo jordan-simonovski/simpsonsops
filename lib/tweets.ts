@@ -18,6 +18,7 @@ export interface Tweet {
   media: string[];
   snapshot_url: string;
   has_video?: boolean;
+  video?: string;
   reply_to?: ReplyTo;
 }
 

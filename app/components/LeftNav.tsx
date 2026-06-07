@@ -1,10 +1,11 @@
 import Link from "next/link";
-import { HomeIcon, SearchIcon, UserIcon } from "./icons";
+import { HomeIcon, SearchIcon, ShuffleIcon, UserIcon } from "./icons";
 
 const items = [
-  { label: "Home", Icon: HomeIcon, active: true },
-  { label: "Explore", Icon: SearchIcon, active: false },
-  { label: "Profile", Icon: UserIcon, active: false },
+  { label: "Home", Icon: HomeIcon, href: "/", active: true },
+  { label: "Explore", Icon: SearchIcon, href: "/", active: false },
+  { label: "Random", Icon: ShuffleIcon, href: "/random", active: false },
+  { label: "Profile", Icon: UserIcon, href: "/", active: false },
 ];
 
 export default function LeftNav() {
@@ -17,9 +18,9 @@ export default function LeftNav() {
           alt="Simpsons Against DevOps"
         />
       </Link>
-      {items.map(({ label, Icon, active }) => (
+      {items.map(({ label, Icon, href, active }) => (
         <Link
-          href="/"
+          href={href}
           key={label}
           className={`nav-item${active ? " active" : ""}`}
         >
