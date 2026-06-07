@@ -122,6 +122,14 @@ export function ShuffleIcon(props: IconProps) {
   );
 }
 
+export function ChartIcon(props: IconProps) {
+  return (
+    <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true" {...props}>
+      <path d="M3 3h2v16h16v2H3V3zm5 9h2v5H8v-5zm4-5h2v10h-2V7zm4 3h2v7h-2v-7z" />
+    </svg>
+  );
+}
+
 export function ShareIcon(props: IconProps) {
   return (
     <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true" {...props}>

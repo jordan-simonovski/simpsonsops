@@ -1,6 +1,7 @@
 import type { Tweet as TweetType } from "@/lib/tweets";
 import { linkify } from "@/lib/linkify";
 import { mediaUrl } from "@/lib/blob";
+import { tagsFor } from "@/lib/tags";
 import { VerifiedBadge, VideoOffIcon, ShareIcon } from "./icons";
 import MediaGrid from "./MediaGrid";
 import QuotedTweet from "./QuotedTweet";
@@ -37,6 +38,8 @@ export default function Tweet({
     .join(" ")
     .toLowerCase();
 
+  const tags = filterable ? tagsFor(tweet) : [];
+
   return (
     <article
       className={`tweet${isReply ? " hidden-by-reply" : ""}${
@@ -45,6 +48,7 @@ export default function Tweet({
       data-search-text={searchText}
       data-reply={isReply ? "true" : undefined}
       data-quote={isQuote ? "true" : undefined}
+      data-tags={tags.length ? tags.join(" ") : undefined}
     >
       <img
         className="tweet-avatar"

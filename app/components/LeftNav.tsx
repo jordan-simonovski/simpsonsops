@@ -1,10 +1,11 @@
 import Link from "next/link";
-import { HomeIcon, SearchIcon, ShuffleIcon, UserIcon } from "./icons";
+import { HomeIcon, SearchIcon, ShuffleIcon, ChartIcon, UserIcon } from "./icons";
 
 const items = [
   { label: "Home", Icon: HomeIcon, href: "/", active: true },
   { label: "Explore", Icon: SearchIcon, href: "/", active: false },
   { label: "Random", Icon: ShuffleIcon, href: "/random", active: false },
+  { label: "Stats", Icon: ChartIcon, href: "/stats", active: false },
   { label: "Profile", Icon: UserIcon, href: "/", active: false },
 ];
 
