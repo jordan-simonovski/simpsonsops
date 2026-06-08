@@ -106,18 +106,12 @@ a {
   .col-main {
     border-right: none;
   }
-  /* The -10% pull-up is a fraction of the narrow viewport, too small to lift
-     the 133px avatar fully into the 67px row, so it bled into the name below.
-     Use fixed sizes so the avatar bottom lands exactly on the row bottom. */
   .avatar {
     width: 88px;
     height: 88px;
   }
-  .avatar-wrap {
-    margin-top: -44px;
-  }
   .profile-top-row {
-    height: 44px;
+    margin-top: -44px;
   }
 }
 
@@ -294,11 +288,9 @@ a {
   display: flex;
   justify-content: space-between;
   align-items: flex-start;
-  height: 67px;
-}
-
-.avatar-wrap {
-  margin-top: -10%;
+  /* Pull the whole row up over the cover. The avatar keeps its natural height
+     in normal flow, so the name always lands below it regardless of size. */
+  margin-top: -66px;
 }
 
 .avatar {
