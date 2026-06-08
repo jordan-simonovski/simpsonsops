@@ -1,30 +1,13 @@
 "use client";
 
-import { useState } from "react";
+import { useFeedFilters, setFilters } from "@/lib/feedStore";
 import { SearchIcon, ShuffleIcon } from "./icons";
 
-// Full-text search over the server-rendered timeline. Each tweet article
-// carries a lowercased data-search-text attribute; we toggle visibility
-// rather than re-rendering, so the timeline stays static.
+// Full-text search over the whole archive. Writes the query to the shared feed
+// store; <Timeline> filters the data array and re-windows. Searches every post,
+// not just the ones currently scrolled into view.
 export default function SearchBar() {
-  const [value, setValue] = useState("");
-
-  function apply(raw: string) {
-    setValue(raw);
-    const query = raw.trim().toLowerCase();
-    const nodes = document.querySelectorAll<HTMLElement>("[data-search-text]");
-    let visible = 0;
-
-    nodes.forEach((node) => {
-      const haystack = node.getAttribute("data-search-text") ?? "";
-      const match = !query || haystack.includes(query);
-      node.classList.toggle("hidden-by-search", !match);
-      if (match) visible += 1;
-    });
-
-    const empty = document.getElementById("search-empty");
-    if (empty) empty.hidden = !(query.length > 0 && visible === 0);
-  }
+  const { query } = useFeedFilters();
 
   return (
     <aside className="col-right" aria-label="Search">
@@ -38,8 +21,8 @@ export default function SearchBar() {
             type="search"
             placeholder="Search posts"
             aria-label="Search posts"
-            value={value}
-            onChange={(e) => apply(e.target.value)}
+            value={query}
+            onChange={(e) => setFilters({ query: e.target.value })}
           />
         </div>
         <a className="random-btn" href="/random">

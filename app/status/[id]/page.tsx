@@ -13,6 +13,8 @@ import { BackArrow, ShareIcon } from "@/app/components/icons";
 
 type Params = { id: string };
 
+export const revalidate = 3600;
+
 export async function generateStaticParams(): Promise<Params[]> {
   const tweets = await loadTweets();
   return tweets.map((t) => ({ id: t.tweet_id }));

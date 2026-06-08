@@ -1,24 +1,16 @@
 import ThemeToggle from "./ThemeToggle";
-import { BackArrow, VerifiedBadge, CalendarIcon, LinkIcon } from "./icons";
+import ProfileTabs from "./ProfileTabs";
+import { VerifiedBadge, CalendarIcon, LinkIcon } from "./icons";
 
-const TABS = ["Posts", "Replies", "Highlights", "Articles", "Media", "Likes"];
-
-function formatPostCount(n: number): string {
-  return `${n.toLocaleString("en-US")} posts`;
-}
-
-export default function ProfileHeader({ postCount }: { postCount: number }) {
+export default function ProfileHeader() {
   return (
     <header>
       <div className="top-bar">
-        <div className="back" role="button" aria-label="Back">
-          <BackArrow width={20} height={20} />
-        </div>
-        <div className="top-bar-titles">
-          <span className="top-bar-title">Simpsons Against DevOps</span>
-          <span className="top-bar-sub">{formatPostCount(postCount)}</span>
-        </div>
-        <div className="top-bar-spacer" />
+        <img
+          className="top-bar-logo"
+          src="/simpsonsops-logo.png"
+          alt="Simpsons Against DevOps"
+        />
         <ThemeToggle />
       </div>
 
@@ -99,17 +91,7 @@ export default function ProfileHeader({ postCount }: { postCount: number }) {
         </div>
       </div>
 
-      <div className="tabs" role="tablist">
-        {TABS.map((tab) => (
-          <div
-            key={tab}
-            role="tab"
-            className={`tab${tab === "Posts" ? " active" : ""}`}
-          >
-            {tab}
-          </div>
-        ))}
-      </div>
+      <ProfileTabs />
     </header>
   );
 }

@@ -106,6 +106,19 @@ a {
   .col-main {
     border-right: none;
   }
+  /* The -10% pull-up is a fraction of the narrow viewport, too small to lift
+     the 133px avatar fully into the 67px row, so it bled into the name below.
+     Use fixed sizes so the avatar bottom lands exactly on the row bottom. */
+  .avatar {
+    width: 88px;
+    height: 88px;
+  }
+  .avatar-wrap {
+    margin-top: -44px;
+  }
+  .profile-top-row {
+    height: 44px;
+  }
 }
 
 /* ---------- Left nav ---------- */
@@ -187,6 +200,25 @@ a {
   backdrop-filter: blur(12px);
   background: var(--header-bg);
   border-bottom: 1px solid transparent;
+}
+
+.top-bar-logo {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  height: 34px;
+  width: auto;
+  pointer-events: none;
+}
+
+[data-theme="light"] .top-bar-logo {
+  filter: drop-shadow(0 0 1px rgba(0, 0, 0, 0.35));
+}
+
+/* Logo is absolutely centred; push the theme toggle to the right edge. */
+.top-bar-logo + * {
+  margin-left: auto;
 }
 
 .top-bar .back {
@@ -378,8 +410,12 @@ a {
   color: var(--text-secondary);
   font-size: 15px;
   font-weight: 600;
+  font-family: inherit;
   cursor: pointer;
   position: relative;
+  appearance: none;
+  background: none;
+  border: none;
 }
 
 .tab:hover {
@@ -858,20 +894,9 @@ a {
   border-bottom: 1px solid var(--border);
 }
 
-.hidden-by-search {
-  display: none !important;
-}
-
-.hidden-by-reply {
-  display: none !important;
-}
-
-.hidden-by-quote {
-  display: none !important;
-}
-
-.hidden-by-tag {
-  display: none !important;
+/* Infinite-scroll trigger; the IntersectionObserver watches this. */
+.feed-sentinel {
+  height: 1px;
 }
 
 /* ---------- Tag filter ---------- */
@@ -1123,64 +1148,6 @@ a {
 .tweet {
   content-visibility: auto;
   contain-intrinsic-size: auto 320px;
-}
-
-.response-filter {
-  display: flex;
-  align-items: center;
-  gap: 20px;
-  padding: 12px 16px;
-  border-bottom: 1px solid var(--border);
-  color: var(--text-secondary);
-  font-size: 14px;
-}
-
-.response-filter-item {
-  display: flex;
-  align-items: center;
-  gap: 8px;
-  cursor: pointer;
-  user-select: none;
-}
-
-.response-filter input {
-  cursor: pointer;
-  appearance: none;
-  -webkit-appearance: none;
-  margin: 0;
-  width: 18px;
-  height: 18px;
-  border-radius: 4px;
-  border: 2px solid var(--simpsons-yellow);
-  background: var(--bg);
-  display: inline-grid;
-  place-content: center;
-  transition: background 0.12s ease, border-color 0.12s ease;
-}
-
-.response-filter input::after {
-  content: "";
-  width: 10px;
-  height: 10px;
-  transform: scale(0);
-  transition: transform 0.12s ease;
-  /* Simpsons-yellow checkmark drawn with clip-path */
-  background: var(--simpsons-outline);
-  clip-path: polygon(14% 44%, 0 65%, 50% 100%, 100% 16%, 80% 0, 43% 62%);
-}
-
-.response-filter input:checked {
-  background: var(--simpsons-yellow);
-  border-color: var(--simpsons-outline);
-}
-
-.response-filter input:checked::after {
-  transform: scale(1);
-}
-
-.response-filter input:focus-visible {
-  outline: 2px solid var(--simpsons-yellow);
-  outline-offset: 2px;
 }
 
 .back-to-all {

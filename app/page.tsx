@@ -2,8 +2,7 @@ import { loadTweets } from "@/lib/tweets";
 import { tagCounts } from "@/lib/tags";
 import LeftNav from "./components/LeftNav";
 import ProfileHeader from "./components/ProfileHeader";
-import Tweet from "./components/Tweet";
-import ResponseFilter from "./components/ResponseFilter";
+import Timeline from "./components/Timeline";
 import TagFilter from "./components/TagFilter";
 import SearchBar from "./components/SearchBar";
 import ShareDelegate from "./components/ShareDelegate";
@@ -27,18 +26,10 @@ export default async function Page() {
       </div>
 
       <main className="col-main">
-        <ProfileHeader postCount={tweets.length} />
+        <ProfileHeader />
         <MemeOfTheDay tweets={tweets} />
-        <ResponseFilter />
         <TagFilter tags={tags} />
-        <p id="search-empty" className="search-empty" hidden>
-          No posts match your search.
-        </p>
-        <section aria-label="Posts">
-          {tweets.map((tweet) => (
-            <Tweet key={tweet.tweet_id} tweet={tweet} filterable />
-          ))}
-        </section>
+        <Timeline tweets={tweets} />
       </main>
 
       <SearchBar />

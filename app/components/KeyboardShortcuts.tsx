@@ -3,11 +3,11 @@
 import { useEffect } from "react";
 
 // One keydown listener for the whole timeline, in keeping with the delegated
-// listener style used elsewhere. j/k step through currently-visible posts,
+// listener style used elsewhere. j/k step through currently-rendered posts,
 // r jumps to a random post, "/" focuses search. Typing in an input is never
 // hijacked (except nothing here binds Escape; the lightbox owns that).
-const VISIBLE_SELECTOR =
-  ".tweet:not(.hidden-by-search):not(.hidden-by-reply):not(.hidden-by-quote):not(.hidden-by-tag)";
+// Filtering now removes posts from the DOM, so every rendered .tweet is visible.
+const VISIBLE_SELECTOR = ".tweet";
 
 export default function KeyboardShortcuts() {
   useEffect(() => {
