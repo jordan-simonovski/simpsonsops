@@ -878,6 +878,34 @@ a {
   opacity: 0.9;
 }
 
+/* Mobile fallback: the left nav and search column (both routes to /random) are
+   hidden below 700px, so surface a floating action button there instead. */
+.random-fab {
+  display: none;
+}
+
+@media (max-width: 700px) {
+  .random-fab {
+    position: fixed;
+    right: 16px;
+    bottom: calc(16px + env(safe-area-inset-bottom));
+    z-index: 20;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 56px;
+    height: 56px;
+    border-radius: 9999px;
+    background: var(--accent);
+    color: #fff;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+  }
+
+  .random-fab:hover {
+    opacity: 0.9;
+  }
+}
+
 .search-empty {
   padding: 32px 16px;
   text-align: center;

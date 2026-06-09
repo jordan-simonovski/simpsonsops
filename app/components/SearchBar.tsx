@@ -10,26 +10,31 @@ export default function SearchBar() {
   const { query } = useFeedFilters();
 
   return (
-    <aside className="col-right" aria-label="Search">
-      <div className="search-box">
-        <div className="search-field">
-          <span className="search-icon">
-            <SearchIcon width={18} height={18} />
-          </span>
-          <input
-            className="search-input"
-            type="search"
-            placeholder="Search posts"
-            aria-label="Search posts"
-            value={query}
-            onChange={(e) => setFilters({ query: e.target.value })}
-          />
+    <>
+      <aside className="col-right" aria-label="Search">
+        <div className="search-box">
+          <div className="search-field">
+            <span className="search-icon">
+              <SearchIcon width={18} height={18} />
+            </span>
+            <input
+              className="search-input"
+              type="search"
+              placeholder="Search posts"
+              aria-label="Search posts"
+              value={query}
+              onChange={(e) => setFilters({ query: e.target.value })}
+            />
+          </div>
+          <a className="random-btn" href="/random">
+            <ShuffleIcon width={18} height={18} />
+            Random post
+          </a>
         </div>
-        <a className="random-btn" href="/random">
-          <ShuffleIcon width={18} height={18} />
-          Random post
-        </a>
-      </div>
-    </aside>
+      </aside>
+      <a className="random-fab" href="/random" aria-label="Random post">
+        <ShuffleIcon width={24} height={24} />
+      </a>
+    </>
   );
 }
