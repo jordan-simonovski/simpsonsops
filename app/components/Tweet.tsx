@@ -1,7 +1,7 @@
 import type { Tweet as TweetType } from "@/lib/tweets";
 import { linkify } from "@/lib/linkify";
 import { mediaUrl } from "@/lib/blob";
-import { VerifiedBadge, VideoOffIcon, ShareIcon } from "./icons";
+import { VerifiedBadge, VideoOffIcon, ShareIcon, HeartIcon } from "./icons";
 import MediaGrid from "./MediaGrid";
 import QuotedTweet from "./QuotedTweet";
 
@@ -81,6 +81,16 @@ export default function Tweet({ tweet }: { tweet: TweetType }) {
         ) : null}
 
         {showQuote ? <QuotedTweet reply={tweet.reply_to!} /> : null}
+
+        {/* Only 95 posts have a recoverable count; the rest were archived too
+            early to have one, so they show nothing rather than a false 0. A
+            recovered 0 is real data and does render. */}
+        {tweet.likes != null ? (
+          <div className="tweet-likes" title="Likes at the time this post was archived">
+            <HeartIcon width={16} height={16} />
+            <span>{tweet.likes.toLocaleString("en-US")}</span>
+          </div>
+        ) : null}
       </div>
     </article>
   );

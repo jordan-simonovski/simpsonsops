@@ -19,16 +19,22 @@ export default function LeftNav() {
           alt="Simpsons Against DevOps"
         />
       </Link>
-      {items.map(({ label, Icon, href, active }) => (
-        <Link
-          href={href}
-          key={label}
-          className={`nav-item${active ? " active" : ""}`}
-        >
-          <Icon />
-          <span className="nav-label">{label}</span>
-        </Link>
-      ))}
+      {items.map(({ label, Icon, href, active }) => {
+        // /random is a redirect: the client router can replay it from cache and
+        // land on the same post twice, so it needs a real navigation. Same
+        // reason as the button on the status page.
+        const Nav = href === "/random" ? "a" : Link;
+        return (
+          <Nav
+            href={href}
+            key={label}
+            className={`nav-item${active ? " active" : ""}`}
+          >
+            <Icon />
+            <span className="nav-label">{label}</span>
+          </Nav>
+        );
+      })}
     </nav>
   );
 }

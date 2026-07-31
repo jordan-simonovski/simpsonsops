@@ -23,7 +23,7 @@
     "tweet_id": "1279571858107428865",
     "url": "https://twitter.com/SimpsonsOps/status/1279571858107428865",
     "posted_at": "2020-07-05T00:24:38.925Z",
-    "text": "Can",
+    "text": "Can't wait to spend my time figuring out one of the thousands of failure states of this legacy system I've adopted.",
     "media": [
       "EcHz0bkU8AAB9Nk.jpg"
     ],
@@ -33,7 +33,7 @@
     "tweet_id": "1279943069689737216",
     "url": "https://twitter.com/SimpsonsOps/status/1279943069689737216",
     "posted_at": "2020-07-06T00:59:42.663Z",
-    "text": "@terrajobst Bob isn",
+    "text": "@terrajobst Bob isn't bad at all 🙄",
     "media": [
       "EcNFbxpUMAARIPY.jpg"
     ],
@@ -55,17 +55,19 @@
     "media": [
       "EcO4zQeVAAAMzlM.jpg"
     ],
-    "snapshot_url": "https://web.archive.org/web/20200706105703/https://twitter.com/SimpsonsOps/status/1280069915580329984"
+    "snapshot_url": "https://web.archive.org/web/20200706105703/https://twitter.com/SimpsonsOps/status/1280069915580329984",
+    "likes": 4
   },
   {
     "tweet_id": "1280409606137638912",
     "url": "https://twitter.com/SimpsonsOps/status/1280409606137638912",
     "posted_at": "2020-07-07T07:53:33.620Z",
-    "text": "🌶️ meme right here. Don",
+    "text": "🌶️ meme right here. Don't @ me",
     "media": [
       "EcTtvz3UcAI0RLh.jpg"
     ],
-    "snapshot_url": "https://web.archive.org/web/20200707080428/https://twitter.com/SimpsonsOps/status/1280409606137638912"
+    "snapshot_url": "https://web.archive.org/web/20200707080428/https://twitter.com/SimpsonsOps/status/1280409606137638912",
+    "likes": 145
   },
   {
     "tweet_id": "1280412776402317313",
@@ -87,27 +89,29 @@
     "tweet_id": "1280701191786131456",
     "url": "https://twitter.com/SimpsonsOps/status/1280701191786131456",
     "posted_at": "2020-07-08T03:12:13.056Z",
-    "text": "When you use this during your next incident, don",
+    "text": "When you use this during your next incident, don't forget to mention me ❤️",
     "media": [
       "EcX28ShU8AAphuu.jpg"
     ],
-    "snapshot_url": "https://web.archive.org/web/20200708042739/https://twitter.com/SimpsonsOps/status/1280701191786131456"
+    "snapshot_url": "https://web.archive.org/web/20200708042739/https://twitter.com/SimpsonsOps/status/1280701191786131456",
+    "likes": 2
   },
   {
     "tweet_id": "1281034426957217792",
     "url": "https://twitter.com/SimpsonsOps/status/1281034426957217792",
     "posted_at": "2020-07-09T01:16:22.512Z",
-    "text": "Hey, at least it",
+    "text": "Hey, at least it's not TOML 🤷‍♀️",
     "media": [
       "EccmBakVAAEeFB1.jpg"
     ],
-    "snapshot_url": "https://web.archive.org/web/20200709012014/https://twitter.com/SimpsonsOps/status/1281034426957217792"
+    "snapshot_url": "https://web.archive.org/web/20200709012014/https://twitter.com/SimpsonsOps/status/1281034426957217792",
+    "likes": 170
   },
   {
     "tweet_id": "1281412350600335362",
     "url": "https://twitter.com/SimpsonsOps/status/1281412350600335362",
     "posted_at": "2020-07-10T02:18:06.530Z",
-    "text": "That",
+    "text": "That's a big oof right there @memenetes",
     "media": [
       "Ech9vQfVcAAQYw7.jpg"
     ],
@@ -181,7 +185,7 @@
     "tweet_id": "1281478924652785665",
     "url": "https://twitter.com/SimpsonsOps/status/1281478924652785665",
     "posted_at": "2020-07-10T06:42:39.021Z",
-    "text": "@ubdussamad @memenetes That",
+    "text": "@ubdussamad @memenetes That's rich hater to you https://t.co/dvJKeiVLtO",
     "media": [
       "Ech9vQfVcAAQYw7.jpg"
     ],
@@ -272,7 +276,8 @@
       "username": "SimpsonsOps",
       "text": null,
       "snapshot_url": null
-    }
+    },
+    "likes": 0
   },
   {
     "tweet_id": "1281767803389763584",
@@ -289,17 +294,19 @@
       "username": "david_obrien",
       "text": null,
       "snapshot_url": null
-    }
+    },
+    "likes": 0
   },
   {
     "tweet_id": "1281773351845810177",
     "url": "https://twitter.com/SimpsonsOps/status/1281773351845810177",
     "posted_at": "2020-07-11T02:12:35.934Z",
-    "text": "I",
+    "text": "I'm gonna need a security matrix for that 🕵️‍♂️",
     "media": [
       "EcnFmIgVAAENXVV.png"
     ],
-    "snapshot_url": "https://web.archive.org/web/20200711161613/https://twitter.com/SimpsonsOps/status/1281773351845810177"
+    "snapshot_url": "https://web.archive.org/web/20200711161613/https://twitter.com/SimpsonsOps/status/1281773351845810177",
+    "likes": 40
   },
   {
     "tweet_id": "1281800840911572992",
@@ -315,7 +322,8 @@
       "posted_at": "2020-07-11T03:50:18.270Z",
       "text": "Top five makeout songs - go!",
       "snapshot_url": "http://web.archive.org/web/20200711115527/https://twitter.com/mattstratton/status/1281797940265259008"
-    }
+    },
+    "likes": 1
   },
   {
     "tweet_id": "1282057719160041473",
@@ -340,7 +348,7 @@
     "tweet_id": "1282062549194690560",
     "url": "https://twitter.com/SimpsonsOps/status/1282062549194690560",
     "posted_at": "2020-07-11T21:21:45.955Z",
-    "text": "@mattstratton One of life",
+    "text": "@mattstratton One of life's unsolved mysteries.",
     "media": [
       "EcrNF6nVcAAwRzn.jpg"
     ],
@@ -356,7 +364,7 @@
     "tweet_id": "1282084378818908160",
     "url": "https://twitter.com/SimpsonsOps/status/1282084378818908160",
     "posted_at": "2020-07-11T22:48:30.543Z",
-    "text": "@QuinnyPig @mattstratton @Dixie3Flatline @TheJewberwocky What if it",
+    "text": "@QuinnyPig @mattstratton @Dixie3Flatline @TheJewberwocky What if it's reverse psychology? What if me typing this is reverse reverse psychology? https://t.co/fd1JvH18H2",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20200711225715/https://twitter.com/SimpsonsOps/status/1282084378818908160",
     "has_video": true,
@@ -372,7 +380,7 @@
     "tweet_id": "1282087189753368576",
     "url": "https://twitter.com/SimpsonsOps/status/1282087189753368576",
     "posted_at": "2020-07-11T22:59:40.722Z",
-    "text": "@mattstratton @QuinnyPig @Dixie3Flatline @TheJewberwocky Corey isn",
+    "text": "@mattstratton @QuinnyPig @Dixie3Flatline @TheJewberwocky Corey isn't as funny either",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20200711230223/https://twitter.com/SimpsonsOps/status/1282087189753368576",
     "reply_to": {
@@ -414,11 +422,12 @@
     "tweet_id": "1282494064059768833",
     "url": "https://twitter.com/SimpsonsOps/status/1282494064059768833",
     "posted_at": "2020-07-13T01:56:27.116Z",
-    "text": "It",
+    "text": "It's always DNS.",
     "media": [
       "EcxViZFUwAAj9-s.png"
     ],
-    "snapshot_url": "https://web.archive.org/web/20200713022000/https://twitter.com/SimpsonsOps/status/1282494064059768833"
+    "snapshot_url": "https://web.archive.org/web/20200713022000/https://twitter.com/SimpsonsOps/status/1282494064059768833",
+    "likes": 684
   },
   {
     "tweet_id": "1282665138038792197",
@@ -436,7 +445,8 @@
       "username": "andrewbrown",
       "text": null,
       "snapshot_url": null
-    }
+    },
+    "likes": 0
   },
   {
     "tweet_id": "1282859457672708096",
@@ -468,7 +478,7 @@
     "tweet_id": "1282877915894435840",
     "url": "https://twitter.com/SimpsonsOps/status/1282877915894435840",
     "posted_at": "2020-07-14T03:21:44.525Z",
-    "text": "If you haven",
+    "text": "If you haven't already, Lee Carvallo's Putting Challenge is available to play here https://t.co/h6jVLPeUuU",
     "media": [
       "Ec2hjJUUMAAiUjX.jpg"
     ],
@@ -495,7 +505,7 @@
     "tweet_id": "1283241963051859969",
     "url": "https://twitter.com/SimpsonsOps/status/1283241963051859969",
     "posted_at": "2020-07-15T03:28:20.131Z",
-    "text": "@vaficionado It",
+    "text": "@vaficionado It's ok, we still love you",
     "media": [
       "Ec7hiXMUcAEucaR.jpg"
     ],
@@ -613,7 +623,7 @@
     "tweet_id": "1283931898922713088",
     "url": "https://twitter.com/SimpsonsOps/status/1283931898922713088",
     "posted_at": "2020-07-17T01:09:53.661Z",
-    "text": "Don",
+    "text": "Don't pretend you've never taken down a prod database.\n\nCredit @ojkelly",
     "media": [
       "EdFxDgyUcAArw36.jpg"
     ],
@@ -663,7 +673,8 @@
       "posted_at": "2020-07-18T09:00:43.566Z",
       "text": "This was my entire week… with a small dab of AWS CLI https://t.co/ld2MmzaSpk",
       "snapshot_url": "http://web.archive.org/web/20200718092617/https://twitter.com/RAGSdale619/status/1284412775478042624"
-    }
+    },
+    "likes": 0
   },
   {
     "tweet_id": "1284499404049707008",
@@ -673,13 +684,14 @@
     "media": [
       "EdNqbOUXYAApCc-.jpg"
     ],
-    "snapshot_url": "https://web.archive.org/web/20200718165318/https://twitter.com/SimpsonsOps/status/1284499404049707008"
+    "snapshot_url": "https://web.archive.org/web/20200718165318/https://twitter.com/SimpsonsOps/status/1284499404049707008",
+    "likes": 56
   },
   {
     "tweet_id": "1284638411668639745",
     "url": "https://twitter.com/SimpsonsOps/status/1284638411668639745",
     "posted_at": "2020-07-18T23:57:19.426Z",
-    "text": "@bikthor Ah so you",
+    "text": "@bikthor Ah so you've never seen ruby syntax before",
     "media": [
       "EdLOY07U4AAEbRd.png"
     ],
@@ -691,13 +703,14 @@
       "posted_at": "2020-07-18T23:38:01.657Z",
       "text": "YAML is the most hideous thing ever invented https://t.co/DFDutNF3oP",
       "snapshot_url": "http://web.archive.org/web/20200719025536/https://twitter.com/bikthor/status/1284633555633688576"
-    }
+    },
+    "likes": 17
   },
   {
     "tweet_id": "1284679999862173696",
     "url": "https://twitter.com/SimpsonsOps/status/1284679999862173696",
     "posted_at": "2020-07-19T02:42:34.824Z",
-    "text": "Nothing that can",
+    "text": "Nothing that can't be fixed by a simple service mesh",
     "media": [
       "EdQZpcxVcAAvIjV.jpg"
     ],
@@ -707,21 +720,23 @@
     "tweet_id": "1285051890225405952",
     "url": "https://twitter.com/SimpsonsOps/status/1285051890225405952",
     "posted_at": "2020-07-20T03:20:20.396Z",
-    "text": "Well, we haven",
+    "text": "Well, we haven't had a security breach in a while so we figured it wasn't necessary 🕴️",
     "media": [
       "EdVr4emUMAAQnIA.jpg"
     ],
-    "snapshot_url": "https://web.archive.org/web/20200720085302/https://twitter.com/SimpsonsOps/status/1285051890225405952"
+    "snapshot_url": "https://web.archive.org/web/20200720085302/https://twitter.com/SimpsonsOps/status/1285051890225405952",
+    "likes": 119
   },
   {
     "tweet_id": "1285398406060367872",
     "url": "https://twitter.com/SimpsonsOps/status/1285398406060367872",
     "posted_at": "2020-07-21T02:17:16.209Z",
-    "text": "Good parents don",
+    "text": "Good parents don't let their kids use systemd",
     "media": [
       "EdanCLxVAAAxPPY.jpg"
     ],
-    "snapshot_url": "https://web.archive.org/web/20200721131623/https://twitter.com/SimpsonsOps/status/1285398406060367872"
+    "snapshot_url": "https://web.archive.org/web/20200721131623/https://twitter.com/SimpsonsOps/status/1285398406060367872",
+    "likes": 115
   },
   {
     "tweet_id": "1285401314445287424",
@@ -737,7 +752,8 @@
       "username": "SimpsonsOps",
       "text": null,
       "snapshot_url": null
-    }
+    },
+    "likes": 3
   },
   {
     "tweet_id": "1285712123155353605",
@@ -756,7 +772,8 @@
       "posted_at": "2020-07-21T17:34:18.973Z",
       "text": "@SimpsonsOps",
       "snapshot_url": "http://web.archive.org/web/20200721202521/https://twitter.com/NickBenthem/status/1285629188259680256"
-    }
+    },
+    "likes": 4
   },
   {
     "tweet_id": "1285754970315186176",
@@ -767,13 +784,14 @@
       "EdfqXzoUMAIjdWo.png",
       "Edf0Qo-XkAExgoP.jpg"
     ],
-    "snapshot_url": "https://web.archive.org/web/20200722051029/https://twitter.com/SimpsonsOps/status/1285754970315186176"
+    "snapshot_url": "https://web.archive.org/web/20200722051029/https://twitter.com/SimpsonsOps/status/1285754970315186176",
+    "likes": 49
   },
   {
     "tweet_id": "1285761166308851712",
     "url": "https://twitter.com/SimpsonsOps/status/1285761166308851712",
     "posted_at": "2020-07-22T02:18:44.992Z",
-    "text": "@Dixie3Flatline @QuinnyPig @mattstratton @austinlparker It",
+    "text": "@Dixie3Flatline @QuinnyPig @mattstratton @austinlparker It's not either of us!",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20200722041327/https://twitter.com/SimpsonsOps/status/1285761166308851712",
     "reply_to": {
@@ -781,7 +799,8 @@
       "username": "QuinnyPig",
       "text": null,
       "snapshot_url": null
-    }
+    },
+    "likes": 2
   },
   {
     "tweet_id": "1285761233614856192",
@@ -798,7 +817,8 @@
       "posted_at": "2020-07-22T02:18:44.992Z",
       "text": "@Dixie3Flatline @QuinnyPig @mattstratton @austinlparker It",
       "snapshot_url": "https://web.archive.org/web/20200722041327/https://twitter.com/SimpsonsOps/status/1285761166308851712"
-    }
+    },
+    "likes": 2
   },
   {
     "tweet_id": "1285761299406704643",
@@ -815,7 +835,8 @@
       "posted_at": "2020-07-22T02:19:01.039Z",
       "text": "@Dixie3Flatline @QuinnyPig @mattstratton @austinlparker them*",
       "snapshot_url": "https://web.archive.org/web/20200722065640/https://twitter.com/SimpsonsOps/status/1285761233614856192"
-    }
+    },
+    "likes": 3
   },
   {
     "tweet_id": "1286092120705495040",
@@ -823,13 +844,14 @@
     "posted_at": "2020-07-23T00:13:50.669Z",
     "text": "Wise move sir https://t.co/bas2KmaoaE",
     "media": [],
-    "snapshot_url": "https://web.archive.org/web/20200723063031/https://twitter.com/SimpsonsOps/status/1286092120705495040"
+    "snapshot_url": "https://web.archive.org/web/20200723063031/https://twitter.com/SimpsonsOps/status/1286092120705495040",
+    "likes": 5
   },
   {
     "tweet_id": "1286092392886657025",
     "url": "https://twitter.com/SimpsonsOps/status/1286092392886657025",
     "posted_at": "2020-07-23T00:14:55.562Z",
-    "text": "@ejstacey I see you",
+    "text": "@ejstacey I see you've noticed the purpose of this account 🏅",
     "media": [
       "EdanCLxVAAAxPPY.jpg"
     ],
@@ -839,17 +861,19 @@
       "username": "SimpsonsOps",
       "text": null,
       "snapshot_url": null
-    }
+    },
+    "likes": 1
   },
   {
     "tweet_id": "1286116510402932738",
     "url": "https://twitter.com/SimpsonsOps/status/1286116510402932738",
     "posted_at": "2020-07-23T01:50:45.626Z",
-    "text": "I may have to manage 1500 lambdas for user authentication with Cognito, but at least I don",
+    "text": "I may have to manage 1500 lambdas for user authentication with Cognito, but at least I don't need to run a server👉😎👉",
     "media": [
       "EdkzQNmUYAEciVd.png"
     ],
-    "snapshot_url": "https://web.archive.org/web/20200723154903/https://twitter.com/SimpsonsOps/status/1286116510402932738"
+    "snapshot_url": "https://web.archive.org/web/20200723154903/https://twitter.com/SimpsonsOps/status/1286116510402932738",
+    "likes": 180
   },
   {
     "tweet_id": "1286117670509666304",
@@ -867,7 +891,8 @@
       "posted_at": "2020-07-23T01:54:45.657Z",
       "text": "Something something Flanders",
       "snapshot_url": "http://web.archive.org/web/20200723133710/https://twitter.com/RAGSdale619/status/1286117517166022658"
-    }
+    },
+    "likes": 0
   },
   {
     "tweet_id": "1286486150991863810",
@@ -944,7 +969,7 @@
     "tweet_id": "1287556302378418178",
     "url": "https://twitter.com/SimpsonsOps/status/1287556302378418178",
     "posted_at": "2020-07-27T01:11:58.783Z",
-    "text": "@vaficionado @QuinnyPig Fuckin",
+    "text": "@vaficionado @QuinnyPig Fuckin' Milhouse.",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20200727012414/https://twitter.com/SimpsonsOps/status/1287556302378418178",
     "reply_to": {
@@ -976,7 +1001,7 @@
     "tweet_id": "1287936195909971969",
     "url": "https://twitter.com/SimpsonsOps/status/1287936195909971969",
     "posted_at": "2020-07-28T02:21:32.459Z",
-    "text": "Send proof of successful digital transformations. I",
+    "text": "Send proof of successful digital transformations. I'll wait.",
     "media": [
       "Ed-rI8TUwAAjpFc.jpg"
     ],
@@ -998,7 +1023,8 @@
     "media": [
       "EeCuUjOXsAQ2ZzU.jpg"
     ],
-    "snapshot_url": "https://web.archive.org/web/20200728225341/https://twitter.com/SimpsonsOps/status/1288227251964633088"
+    "snapshot_url": "https://web.archive.org/web/20200728225341/https://twitter.com/SimpsonsOps/status/1288227251964633088",
+    "likes": 30
   },
   {
     "tweet_id": "1288238303297200129",
@@ -1008,13 +1034,14 @@
     "media": [
       "EeC96M6UMAADPs8.jpg"
     ],
-    "snapshot_url": "https://web.archive.org/web/20200729001028/https://twitter.com/SimpsonsOps/status/1288238303297200129"
+    "snapshot_url": "https://web.archive.org/web/20200729001028/https://twitter.com/SimpsonsOps/status/1288238303297200129",
+    "likes": 8
   },
   {
     "tweet_id": "1288281350252843008",
     "url": "https://twitter.com/SimpsonsOps/status/1288281350252843008",
     "posted_at": "2020-07-29T01:13:03.667Z",
-    "text": "🌶️ Don",
+    "text": "🌶️ Don't @ me, or @kelseyhightower ever again https://t.co/LyFzevmEvm",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20200729013754/https://twitter.com/SimpsonsOps/status/1288281350252843008",
     "has_video": true,
@@ -1050,11 +1077,12 @@
     "tweet_id": "1288660610863915009",
     "url": "https://twitter.com/SimpsonsOps/status/1288660610863915009",
     "posted_at": "2020-07-30T02:20:06.443Z",
-    "text": "It",
+    "text": "It's always fun seeing a junior have their hopes and dreams crushed when starting out in DevOps",
     "media": [
       "EeI9_h0UEAArFgi.jpg"
     ],
-    "snapshot_url": "https://web.archive.org/web/20200730022018/https://twitter.com/SimpsonsOps/status/1288660610863915009"
+    "snapshot_url": "https://web.archive.org/web/20200730022018/https://twitter.com/SimpsonsOps/status/1288660610863915009",
+    "likes": 400
   },
   {
     "tweet_id": "1288781850014412801",
@@ -1071,7 +1099,8 @@
       "username": "SimpsonsOps",
       "text": null,
       "snapshot_url": null
-    }
+    },
+    "likes": 2
   },
   {
     "tweet_id": "1288943051352637441",
@@ -1085,17 +1114,18 @@
     "tweet_id": "1289028489845211136",
     "url": "https://twitter.com/SimpsonsOps/status/1289028489845211136",
     "posted_at": "2020-07-31T02:41:55.627Z",
-    "text": "Well obviously _we",
+    "text": "Well obviously _we're_ still allowed to do it, because we know what we're doing 🤧",
     "media": [
       "EeOMGVKU0AcLK1Z.png"
     ],
-    "snapshot_url": "https://web.archive.org/web/20200731082308/https://twitter.com/SimpsonsOps/status/1289028489845211136"
+    "snapshot_url": "https://web.archive.org/web/20200731082308/https://twitter.com/SimpsonsOps/status/1289028489845211136",
+    "likes": 41
   },
   {
     "tweet_id": "1289051566637330432",
     "url": "https://twitter.com/SimpsonsOps/status/1289051566637330432",
     "posted_at": "2020-07-31T04:13:37.563Z",
-    "text": "@bashtoni Error calculating response: TypeError: Unable to get property ",
+    "text": "@bashtoni Error calculating response: TypeError: Unable to get property 'response' of undefined or null reference",
     "media": [
       "EeOMGVKU0AcLK1Z.png"
     ],
@@ -1107,13 +1137,14 @@
       "posted_at": "2020-07-31T03:07:08.214Z",
       "text": "Calling it now; in a few weeks it",
       "snapshot_url": "http://web.archive.org/web/20200731061801/https://twitter.com/bashtoni/status/1289034834094854144"
-    }
+    },
+    "likes": 4
   },
   {
     "tweet_id": "1289288968601624577",
     "url": "https://twitter.com/SimpsonsOps/status/1289288968601624577",
     "posted_at": "2020-07-31T19:56:58.602Z",
-    "text": "@austinlparker @jaydestro @Dixie3Flatline We",
+    "text": "@austinlparker @jaydestro @Dixie3Flatline We're through the looking glass, people!",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20200731195742/https://twitter.com/SimpsonsOps/status/1289288968601624577",
     "reply_to": {
@@ -1213,7 +1244,7 @@
     "tweet_id": "1290109329589194752",
     "url": "https://twitter.com/SimpsonsOps/status/1290109329589194752",
     "posted_at": "2020-08-03T02:16:47.903Z",
-    "text": "Looks like we",
+    "text": "Looks like we've got some friendly competition! 👀\n\nWorth a follow 👇 https://t.co/XHnBQtw32r",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20200803021748/https://twitter.com/SimpsonsOps/status/1290109329589194752"
   },
@@ -1325,7 +1356,7 @@
     "tweet_id": "1291129523161849857",
     "url": "https://twitter.com/SimpsonsOps/status/1291129523161849857",
     "posted_at": "2020-08-05T21:50:41.005Z",
-    "text": "that",
+    "text": "that's a lot of variable name change suggestions incoming https://t.co/xL7fBLHGlA",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20200805215125/https://twitter.com/SimpsonsOps/status/1291129523161849857"
   },
@@ -1373,7 +1404,7 @@
     "tweet_id": "1291927568539557888",
     "url": "https://twitter.com/SimpsonsOps/status/1291927568539557888",
     "posted_at": "2020-08-08T02:41:49.850Z",
-    "text": "Hmmm this isn",
+    "text": "\"Hmmm this isn't working, maybe we should try t-shirt sizes next sprint\"",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20200808024214/https://twitter.com/SimpsonsOps/status/1291927568539557888",
     "reply_to": {
@@ -1388,7 +1419,7 @@
     "tweet_id": "1291938200882040834",
     "url": "https://twitter.com/SimpsonsOps/status/1291938200882040834",
     "posted_at": "2020-08-08T03:24:04.798Z",
-    "text": "@NickBenthem Hi ded, I",
+    "text": "@NickBenthem Hi ded, I'm dad",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20200808032500/https://twitter.com/SimpsonsOps/status/1291938200882040834",
     "reply_to": {
@@ -1402,7 +1433,7 @@
     "tweet_id": "1292281476013150208",
     "url": "https://twitter.com/SimpsonsOps/status/1292281476013150208",
     "posted_at": "2020-08-09T02:08:07.967Z",
-    "text": "Y",
+    "text": "Y'all really hate agile https://t.co/ixTwzvqkfX",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20200809020850/https://twitter.com/SimpsonsOps/status/1292281476013150208"
   },
@@ -1466,7 +1497,7 @@
     "tweet_id": "1293007663110840321",
     "url": "https://twitter.com/SimpsonsOps/status/1293007663110840321",
     "posted_at": "2020-08-11T02:13:44.463Z",
-    "text": "@hhopk now do \"old man yells at houston",
+    "text": "@hhopk now do \"old man yells at houston\"",
     "media": [
       "EfGiLBVUEAA75rA.jpg",
       "EfGvZPcWAAgMqv4.jpg"
@@ -1533,7 +1564,7 @@
     "tweet_id": "1293722916530425856",
     "url": "https://twitter.com/SimpsonsOps/status/1293722916530425856",
     "posted_at": "2020-08-13T01:35:54.167Z",
-    "text": "Didn",
+    "text": "Didn't want to mesh up this joke https://t.co/Dyzo5in8CF",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20200813013625/https://twitter.com/SimpsonsOps/status/1293722916530425856",
     "has_video": true,
@@ -1594,7 +1625,8 @@
     "media": [
       "EfWG5S_UMAAFCgr.jpg"
     ],
-    "snapshot_url": "https://web.archive.org/web/20200814015349/https://twitter.com/SimpsonsOps/status/1294089417561235456"
+    "snapshot_url": "https://web.archive.org/web/20200814015349/https://twitter.com/SimpsonsOps/status/1294089417561235456",
+    "likes": 231
   },
   {
     "tweet_id": "1294089547580497921",
@@ -1611,7 +1643,8 @@
       "posted_at": "2020-08-14T01:52:14.822Z",
       "text": "🔘polygraphs at every post-mortem   👋",
       "snapshot_url": "https://web.archive.org/web/20200814015349/https://twitter.com/SimpsonsOps/status/1294089417561235456"
-    }
+    },
+    "likes": 25
   },
   {
     "tweet_id": "1294243740987531264",
@@ -1633,7 +1666,7 @@
     "tweet_id": "1294441559748878337",
     "url": "https://twitter.com/SimpsonsOps/status/1294441559748878337",
     "posted_at": "2020-08-15T01:11:32.062Z",
-    "text": "When the overzealous ops person didn",
+    "text": "When the overzealous ops person didn't get alerted about the production issue you're trying to fix\n\nShould have alerted using SLOs 👀 https://t.co/2X0TcyR5fr",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20200815011209/https://twitter.com/SimpsonsOps/status/1294441559748878337",
     "has_video": true,
@@ -1671,7 +1704,7 @@
     "tweet_id": "1294822635759525888",
     "url": "https://twitter.com/SimpsonsOps/status/1294822635759525888",
     "posted_at": "2020-08-16T02:25:47.663Z",
-    "text": "@exakoustos Let",
+    "text": "@exakoustos Let's not gatekeep YAML dev",
     "media": [
       "EfgbRFIUwAAQY-0.jpg"
     ],
@@ -1687,7 +1720,7 @@
     "tweet_id": "1294912977221480450",
     "url": "https://twitter.com/SimpsonsOps/status/1294912977221480450",
     "posted_at": "2020-08-16T08:24:46.746Z",
-    "text": "@tbotnz This isn",
+    "text": "@tbotnz This isn't even its final form.",
     "media": [
       "EfgbRFIUwAAQY-0.jpg",
       "Efhq62DU4AMI3os.jpg"
@@ -1767,7 +1800,7 @@
     "tweet_id": "1295547235866775553",
     "url": "https://twitter.com/SimpsonsOps/status/1295547235866775553",
     "posted_at": "2020-08-18T02:25:05.791Z",
-    "text": "@slace hi where",
+    "text": "@slace hi where's mine",
     "media": [
       "Efqx1FxUYAE2Roe.jpg",
       "Efqx1hOUMAIEZBJ.jpg",
@@ -1842,7 +1875,7 @@
     "tweet_id": "1295906232885104640",
     "url": "https://twitter.com/SimpsonsOps/status/1295906232885104640",
     "posted_at": "2020-08-19T02:11:37.350Z",
-    "text": "It",
+    "text": "It's always fun being the incident manager",
     "media": [
       "Efv72b3U4AAk-tq.jpg"
     ],
@@ -1910,7 +1943,7 @@
     "tweet_id": "1296766175808860161",
     "url": "https://twitter.com/SimpsonsOps/status/1296766175808860161",
     "posted_at": "2020-08-21T11:08:43.720Z",
-    "text": "@NickJosevski I",
+    "text": "@NickJosevski I'll never forget you, Nick",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20200821111001/https://twitter.com/SimpsonsOps/status/1296766175808860161",
     "reply_to": {
@@ -1954,7 +1987,7 @@
     "tweet_id": "1296967509170479109",
     "url": "https://twitter.com/SimpsonsOps/status/1296967509170479109",
     "posted_at": "2020-08-22T00:28:45.334Z",
-    "text": "@mattstratton @crayzeigh @QuinnyPig 15k and I",
+    "text": "@mattstratton @crayzeigh @QuinnyPig 15k and I'll give you my account for a day",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20200822003008/https://twitter.com/SimpsonsOps/status/1296967509170479109",
     "reply_to": {
@@ -2006,7 +2039,7 @@
     "tweet_id": "1297355767033368576",
     "url": "https://twitter.com/SimpsonsOps/status/1297355767033368576",
     "posted_at": "2020-08-23T02:11:33.222Z",
-    "text": "I prefer @allspaw",
+    "text": "I prefer @allspaw's Infinite Hows though",
     "media": [
       "EgEiMOKU4AEc6WT.jpg"
     ],
@@ -2033,7 +2066,7 @@
     "tweet_id": "1297716437952245760",
     "url": "https://twitter.com/SimpsonsOps/status/1297716437952245760",
     "posted_at": "2020-08-24T02:04:43.870Z",
-    "text": "When you",
+    "text": "When you're not paying for enterprise-level support :( https://t.co/7iLl3zbgcG",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20200824020533/https://twitter.com/SimpsonsOps/status/1297716437952245760",
     "has_video": true,
@@ -2043,7 +2076,7 @@
     "tweet_id": "1297753063352963072",
     "url": "https://twitter.com/SimpsonsOps/status/1297753063352963072",
     "posted_at": "2020-08-24T04:30:16.046Z",
-    "text": "15k followers and I",
+    "text": "15k followers and I'll let your favorite Tech Shitposter do an account takeover for a day.",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20200824043127/https://twitter.com/SimpsonsOps/status/1297753063352963072"
   },
@@ -2097,7 +2130,7 @@
     "tweet_id": "1297784454165872640",
     "url": "https://twitter.com/SimpsonsOps/status/1297784454165872640",
     "posted_at": "2020-08-24T06:35:00.199Z",
-    "text": "@maltengo @SwiftOnSecurity Not sure we",
+    "text": "@maltengo @SwiftOnSecurity Not sure we'd get the account back if that happened 😅",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20200824063612/https://twitter.com/SimpsonsOps/status/1297784454165872640",
     "reply_to": {
@@ -2111,7 +2144,7 @@
     "tweet_id": "1297791570599526400",
     "url": "https://twitter.com/SimpsonsOps/status/1297791570599526400",
     "posted_at": "2020-08-24T07:03:16.889Z",
-    "text": "Fuck it, you know what? I don",
+    "text": "Fuck it, you know what? I don't care about getting more followers.\nI think we could have a lot of fun letting a different shitposter take over the account every day for a week.\n\nEveryone is my favorite ❤️ https://t.co/tQx2NCulLP",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20200824070407/https://twitter.com/SimpsonsOps/status/1297791570599526400"
   },
@@ -2134,7 +2167,7 @@
     "tweet_id": "1297792201460596737",
     "url": "https://twitter.com/SimpsonsOps/status/1297792201460596737",
     "posted_at": "2020-08-24T07:05:47.298Z",
-    "text": "@RobotTaylor I",
+    "text": "@RobotTaylor I'll probably regret this.",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20200824070613/https://twitter.com/SimpsonsOps/status/1297792201460596737",
     "reply_to": {
@@ -2245,7 +2278,7 @@
     "tweet_id": "1299136609271443457",
     "url": "https://twitter.com/SimpsonsOps/status/1299136609271443457",
     "posted_at": "2020-08-28T00:07:59.098Z",
-    "text": "Excited to be taking part in this! 😊 \n\nWith all of the awesome speakers (not including me), you",
+    "text": "Excited to be taking part in this! 😊 \n\nWith all of the awesome speakers (not including me), you'd be a real Milhouse to skip this one. https://t.co/WvhTNo4ebZ",
     "media": [
       "EgdR0w9XYAMj6Ko.jpg"
     ],
@@ -2255,7 +2288,7 @@
     "tweet_id": "1299169017945444353",
     "url": "https://twitter.com/SimpsonsOps/status/1299169017945444353",
     "posted_at": "2020-08-28T02:16:45.928Z",
-    "text": "What",
+    "text": "What's the point of devops if i can just do everything myself better and faster 🤔",
     "media": [
       "EgePfCBUYAAOy24.jpg"
     ],
@@ -2298,7 +2331,7 @@
     "tweet_id": "1299404104477728770",
     "url": "https://twitter.com/SimpsonsOps/status/1299404104477728770",
     "posted_at": "2020-08-28T17:50:54.925Z",
-    "text": "@IanColdwater @caito_200_OK @mattstratton Tbh I should have ranked by best shitposts and made you #1 \n\nI was a silly billy and ranked by \"most accused of being SimpsonsOps",
+    "text": "@IanColdwater @caito_200_OK @mattstratton Tbh I should have ranked by best shitposts and made you #1 \n\nI was a silly billy and ranked by \"most accused of being SimpsonsOps\"",
     "media": [
       "Eghe2FcVoAI3Gic.jpg",
       "EghfTPeU0AAlQCC.jpg"
@@ -2398,7 +2431,7 @@
     "tweet_id": "1299537299105955840",
     "url": "https://twitter.com/SimpsonsOps/status/1299537299105955840",
     "posted_at": "2020-08-29T02:40:10.999Z",
-    "text": "I know this isn",
+    "text": "I know this isn't DevOps, but I just had to call out every manager that figured more people would read the random blog post they found if they @channel the org https://t.co/0CGNSkIBgx",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20200829024045/https://twitter.com/SimpsonsOps/status/1299537299105955840",
     "has_video": true,
@@ -2408,7 +2441,7 @@
     "tweet_id": "1299903857871314945",
     "url": "https://twitter.com/SimpsonsOps/status/1299903857871314945",
     "posted_at": "2020-08-30T02:56:45.419Z",
-    "text": "We",
+    "text": "We'll deploy now and review the exemptions in 6 months time 🙃🤡 https://t.co/rTaY8HD1BV",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20200830025717/https://twitter.com/SimpsonsOps/status/1299903857871314945",
     "has_video": true,
@@ -2428,7 +2461,7 @@
     "tweet_id": "1300619139854131200",
     "url": "https://twitter.com/SimpsonsOps/status/1300619139854131200",
     "posted_at": "2020-09-01T02:19:01.933Z",
-    "text": "When the pipeline hasn",
+    "text": "When the pipeline hasn't run for 23 months 😰 https://t.co/Lh4wtoAgTu",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20200901021953/https://twitter.com/SimpsonsOps/status/1300619139854131200",
     "has_video": true,
@@ -2476,7 +2509,7 @@
     "tweet_id": "1301348033678860288",
     "url": "https://twitter.com/SimpsonsOps/status/1301348033678860288",
     "posted_at": "2020-09-03T02:35:23.763Z",
-    "text": "Ah it",
+    "text": "\"Ah it's that elasticsearch issue again, tell Bob to run his script\"\n\nHorror stories welcome and encouraged 👏",
     "media": [
       "Eg9QxfgUYAA7-6s.jpg"
     ],
@@ -2528,7 +2561,7 @@
     "tweet_id": "1301733010560020480",
     "url": "https://twitter.com/SimpsonsOps/status/1301733010560020480",
     "posted_at": "2020-09-04T04:05:09.404Z",
-    "text": "Don",
+    "text": "Don't do what @DivineOps says! https://t.co/yLxBQOnvMz",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20200904040621/https://twitter.com/SimpsonsOps/status/1301733010560020480"
   },
@@ -2536,7 +2569,7 @@
     "tweet_id": "1301733232199704577",
     "url": "https://twitter.com/SimpsonsOps/status/1301733232199704577",
     "posted_at": "2020-09-04T04:06:02.247Z",
-    "text": "You",
+    "text": "You're a gem, Corey. https://t.co/CGN6EWVgPw",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20200904040642/https://twitter.com/SimpsonsOps/status/1301733232199704577"
   },
@@ -2645,7 +2678,7 @@
     "tweet_id": "1302445644955566096",
     "url": "https://twitter.com/SimpsonsOps/status/1302445644955566096",
     "posted_at": "2020-09-06T03:16:54.684Z",
-    "text": "@mattstratton (it",
+    "text": "@mattstratton (it's pronounced: 😙👌)",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20200906031735/https://twitter.com/SimpsonsOps/status/1302445644955566096",
     "reply_to": {
@@ -2659,7 +2692,7 @@
     "tweet_id": "1302468495146323968",
     "url": "https://twitter.com/SimpsonsOps/status/1302468495146323968",
     "posted_at": "2020-09-06T04:47:42.594Z",
-    "text": "@beingadityak_ I",
+    "text": "@beingadityak_ I'm sure the answer to that will always be a mystery",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20200906044914/https://twitter.com/SimpsonsOps/status/1302468495146323968",
     "reply_to": {
@@ -2675,7 +2708,7 @@
     "tweet_id": "1302549799225360387",
     "url": "https://twitter.com/SimpsonsOps/status/1302549799225360387",
     "posted_at": "2020-09-06T10:10:46.997Z",
-    "text": "@randomfrequency That",
+    "text": "@randomfrequency That's some meta cross-memeing",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20200906101110/https://twitter.com/SimpsonsOps/status/1302549799225360387",
     "reply_to": {
@@ -2705,7 +2738,7 @@
     "tweet_id": "1302733191447420928",
     "url": "https://twitter.com/SimpsonsOps/status/1302733191447420928",
     "posted_at": "2020-09-06T22:19:31.110Z",
-    "text": "@dashaun @dav1dc @littleidea @bryanl No, DevOps started when 17 dudes went to a snow resort and made a lis- wait nvm I",
+    "text": "@dashaun @dav1dc @littleidea @bryanl No, DevOps started when 17 dudes went to a snow resort and made a lis- wait nvm I'm thinking of something else",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20200906221949/https://twitter.com/SimpsonsOps/status/1302733191447420928",
     "reply_to": {
@@ -2733,7 +2766,7 @@
     "tweet_id": "1302787248853667840",
     "url": "https://twitter.com/SimpsonsOps/status/1302787248853667840",
     "posted_at": "2020-09-07T01:54:19.400Z",
-    "text": "Shhhh don",
+    "text": "Shhhh don't tell them, Moe 😡 https://t.co/Xmakpd5QMZ",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20200907015534/https://twitter.com/SimpsonsOps/status/1302787248853667840",
     "has_video": true,
@@ -2753,7 +2786,7 @@
     "tweet_id": "1303444315033698305",
     "url": "https://twitter.com/SimpsonsOps/status/1303444315033698305",
     "posted_at": "2020-09-08T21:25:16.185Z",
-    "text": "Who are some of your favorite tech shitposters? Let",
+    "text": "Who are some of your favorite tech shitposters? Let's boost some of the underrated ones that need more recognition!\n\nI'll start (I only know well known shitposters)\n@abbyfuller \n@ctrlshifti \n@mattstratton",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20200908212526/https://twitter.com/SimpsonsOps/status/1303444315033698305"
   },
@@ -2792,7 +2825,7 @@
     "tweet_id": "1303445409218527233",
     "url": "https://twitter.com/SimpsonsOps/status/1303445409218527233",
     "posted_at": "2020-09-08T21:29:37.059Z",
-    "text": "@Dixie3Flatline shitposter and esports fan! What",
+    "text": "@Dixie3Flatline shitposter and esports fan! What's not to love https://t.co/mD92b3qp7S",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20200908212957/https://twitter.com/SimpsonsOps/status/1303445409218527233"
   },
@@ -2842,7 +2875,7 @@
     "tweet_id": "1303543192885719042",
     "url": "https://twitter.com/SimpsonsOps/status/1303543192885719042",
     "posted_at": "2020-09-09T03:58:10.502Z",
-    "text": "If there",
+    "text": "If there's anyone snarkier than @QuinnyPig it's @girlgerms! ❤️ https://t.co/N5IAzemEJu",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20200909035823/https://twitter.com/SimpsonsOps/status/1303543192885719042"
   },
@@ -2880,7 +2913,8 @@
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20200911025855/https://twitter.com/SimpsonsOps/status/1304251810018975744",
     "has_video": true,
-    "video": "hxw_Os91p52FBdUF.mp4"
+    "video": "hxw_Os91p52FBdUF.mp4",
+    "likes": 227
   },
   {
     "tweet_id": "1304254479102083072",
@@ -2894,7 +2928,8 @@
       "username": "SimpsonsOps",
       "text": null,
       "snapshot_url": null
-    }
+    },
+    "likes": 0
   },
   {
     "tweet_id": "1304323429458300929",
@@ -2930,7 +2965,7 @@
     "tweet_id": "1304410639192866816",
     "url": "https://twitter.com/SimpsonsOps/status/1304410639192866816",
     "posted_at": "2020-09-11T13:25:05.818Z",
-    "text": "@saeedlog @nixcraft Next you",
+    "text": "@saeedlog @nixcraft Next you're going to tell me that the cloud isn't actually a cloud",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20200911132532/https://twitter.com/SimpsonsOps/status/1304410639192866816",
     "reply_to": {
@@ -2968,7 +3003,7 @@
     "tweet_id": "1304622993105014784",
     "url": "https://twitter.com/SimpsonsOps/status/1304622993105014784",
     "posted_at": "2020-09-12T03:28:54.936Z",
-    "text": "@gleninmpls You",
+    "text": "@gleninmpls You're great!",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20200912033355/https://twitter.com/SimpsonsOps/status/1304622993105014784",
     "reply_to": {
@@ -3015,13 +3050,14 @@
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20200914012708/https://twitter.com/SimpsonsOps/status/1305316889812299776",
     "has_video": true,
-    "video": "ZiyCVxXqs8PlJiMq.mp4"
+    "video": "ZiyCVxXqs8PlJiMq.mp4",
+    "likes": 260
   },
   {
     "tweet_id": "1305321007603834880",
     "url": "https://twitter.com/SimpsonsOps/status/1305321007603834880",
     "posted_at": "2020-09-14T01:42:34.561Z",
-    "text": "@SpyGuysGaming You",
+    "text": "@SpyGuysGaming You're amazing!",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20200914014258/https://twitter.com/SimpsonsOps/status/1305321007603834880",
     "reply_to": {
@@ -3029,7 +3065,8 @@
       "username": "SimpsonsOps",
       "text": null,
       "snapshot_url": null
-    }
+    },
+    "likes": 1
   },
   {
     "tweet_id": "1305321457770094592",
@@ -3079,7 +3116,7 @@
     "tweet_id": "1305688802782932992",
     "url": "https://twitter.com/SimpsonsOps/status/1305688802782932992",
     "posted_at": "2020-09-15T02:04:03.765Z",
-    "text": "You don",
+    "text": "You don't need to understand the code to use the code 😎 https://t.co/PX9MMYz7lU",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20200915020448/https://twitter.com/SimpsonsOps/status/1305688802782932992",
     "has_video": true,
@@ -3089,7 +3126,7 @@
     "tweet_id": "1305726929027227650",
     "url": "https://twitter.com/SimpsonsOps/status/1305726929027227650",
     "posted_at": "2020-09-15T04:35:33.770Z",
-    "text": "@codegumbo Oh, hey Stu 👋 I guess you",
+    "text": "@codegumbo Oh, hey Stu 👋 I guess you'll never know 😈",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20200915043552/https://twitter.com/SimpsonsOps/status/1305726929027227650",
     "reply_to": {
@@ -3103,7 +3140,7 @@
     "tweet_id": "1305748291007643649",
     "url": "https://twitter.com/SimpsonsOps/status/1305748291007643649",
     "posted_at": "2020-09-15T06:00:26.863Z",
-    "text": "This show is great, and if you don",
+    "text": "This show is great, and if you don't watch it you like Shelbyville https://t.co/VdKCmJ0cYL",
     "media": [
       "Eh4xCDwWoAAJtut.png"
     ],
@@ -3188,7 +3225,7 @@
     "tweet_id": "1306355545268314112",
     "url": "https://twitter.com/SimpsonsOps/status/1306355545268314112",
     "posted_at": "2020-09-16T22:13:27.561Z",
-    "text": "What",
+    "text": "What's stopping you from coding like this? https://t.co/66qp11wJ1D",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20200916221340/https://twitter.com/SimpsonsOps/status/1306355545268314112",
     "has_video": true,
@@ -3268,7 +3305,7 @@
     "tweet_id": "1306773051938279424",
     "url": "https://twitter.com/SimpsonsOps/status/1306773051938279424",
     "posted_at": "2020-09-18T01:52:28.908Z",
-    "text": "pls disregard if you",
+    "text": "pls disregard if you're W E B S C A L E",
     "media": [
       "EiKXKS1UMAERSTW.jpg"
     ],
@@ -3302,7 +3339,7 @@
     "tweet_id": "1307126971026100229",
     "url": "https://twitter.com/SimpsonsOps/status/1307126971026100229",
     "posted_at": "2020-09-19T01:18:49.794Z",
-    "text": "Will be taking a break from posting this weekend.\n\nRIP RBG 😓\n\nTake care, y",
+    "text": "Will be taking a break from posting this weekend.\n\nRIP RBG 😓\n\nTake care, y'all.",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20200919011915/https://twitter.com/SimpsonsOps/status/1307126971026100229"
   },
@@ -3310,7 +3347,7 @@
     "tweet_id": "1307860712602046465",
     "url": "https://twitter.com/SimpsonsOps/status/1307860712602046465",
     "posted_at": "2020-09-21T01:54:27.418Z",
-    "text": "I think we",
+    "text": "I think we've all been here.\n\n*cries in shitty bash deployment script* https://t.co/XAjTXwZiYW",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20200921021034/https://twitter.com/SimpsonsOps/status/1307860712602046465",
     "has_video": true,
@@ -3320,7 +3357,7 @@
     "tweet_id": "1308233860069486592",
     "url": "https://twitter.com/SimpsonsOps/status/1308233860069486592",
     "posted_at": "2020-09-22T02:37:12.707Z",
-    "text": "We got hit by a DDoS\" - Followed by a discreet blog post correcting themselves. PR people, take notes 😎 https://t.co/kIx7eEHeLz",
+    "text": "\"We got hit by a DDoS\" - Followed by a discreet blog post correcting themselves. PR people, take notes 😎 https://t.co/kIx7eEHeLz",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20200922023751/https://twitter.com/SimpsonsOps/status/1308233860069486592",
     "has_video": true,
@@ -3334,7 +3371,8 @@
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20200923020857/https://twitter.com/SimpsonsOps/status/1308585380266958851",
     "has_video": true,
-    "video": "LAxfpoKdjassU1fx.mp4"
+    "video": "LAxfpoKdjassU1fx.mp4",
+    "likes": 386
   },
   {
     "tweet_id": "1308605739372404737",
@@ -3348,7 +3386,8 @@
       "username": "SimpsonsOps",
       "text": null,
       "snapshot_url": null
-    }
+    },
+    "likes": 0
   },
   {
     "tweet_id": "1308769342373289984",
@@ -3358,7 +3397,8 @@
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20200923184026/https://twitter.com/SimpsonsOps/status/1308769342373289984",
     "has_video": true,
-    "video": "0T7BqcURXnvYh1dz.mp4"
+    "video": "0T7BqcURXnvYh1dz.mp4",
+    "likes": 67
   },
   {
     "tweet_id": "1308885823954321409",
@@ -3372,7 +3412,8 @@
       "username": "SimpsonsOps",
       "text": null,
       "snapshot_url": null
-    }
+    },
+    "likes": 1
   },
   {
     "tweet_id": "1308948501380902912",
@@ -3382,7 +3423,8 @@
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20200924125359/https://twitter.com/SimpsonsOps/status/1308948501380902912",
     "has_video": true,
-    "video": "XnKYoCP6CmzbwFpZ.mp4"
+    "video": "XnKYoCP6CmzbwFpZ.mp4",
+    "likes": 335
   },
   {
     "tweet_id": "1308958876486701056",
@@ -3397,7 +3439,8 @@
       "posted_at": "2020-09-24T01:56:56.473Z",
       "text": "Talking to that one person who knows how all the microservices in your company work. https://t.co/VJ5MkNDT5s",
       "snapshot_url": "https://web.archive.org/web/20200924125359/https://twitter.com/SimpsonsOps/status/1308948501380902912"
-    }
+    },
+    "likes": 50
   },
   {
     "tweet_id": "1308968944246697986",
@@ -3407,7 +3450,8 @@
     "media": [
       "EimjIadUMAMLW7T.jpg"
     ],
-    "snapshot_url": "https://web.archive.org/web/20200924123500/https://twitter.com/SimpsonsOps/status/1308968944246697986"
+    "snapshot_url": "https://web.archive.org/web/20200924123500/https://twitter.com/SimpsonsOps/status/1308968944246697986",
+    "likes": 80
   },
   {
     "tweet_id": "1309305492628365313",
@@ -3417,19 +3461,21 @@
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20200925040520/https://twitter.com/SimpsonsOps/status/1309305492628365313",
     "has_video": true,
-    "video": "JVY8IZpD14a7xule.mp4"
+    "video": "JVY8IZpD14a7xule.mp4",
+    "likes": 403
   },
   {
     "tweet_id": "1309680398306217984",
     "url": "https://twitter.com/SimpsonsOps/status/1309680398306217984",
     "posted_at": "2020-09-26T02:25:14.298Z",
-    "text": "I",
+    "text": "I've created some monstrosities in my day *shivers* https://t.co/PCHEDdgucY",
     "media": [
       "Eiztx_cVoAA-_G-.jpg"
     ],
     "snapshot_url": "https://web.archive.org/web/20200926033117/https://twitter.com/SimpsonsOps/status/1309680398306217984",
     "has_video": true,
-    "video": "6TnHhqcV--ho6btx.mp4"
+    "video": "6TnHhqcV--ho6btx.mp4",
+    "likes": 31
   },
   {
     "tweet_id": "1309686418713665538",
@@ -3451,7 +3497,7 @@
     "tweet_id": "1310029286896615424",
     "url": "https://twitter.com/SimpsonsOps/status/1310029286896615424",
     "posted_at": "2020-09-27T01:31:35.820Z",
-    "text": "When devs aren",
+    "text": "When devs aren't on-call for their apps, ops write the best post-mortems",
     "media": [
       "Ei4osAQU0AAF3oi.jpg"
     ],
@@ -3465,13 +3511,14 @@
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20200928045118/https://twitter.com/SimpsonsOps/status/1310405250168176645",
     "has_video": true,
-    "video": "XTOHk_FDkf2bsdXj.mp4"
+    "video": "XTOHk_FDkf2bsdXj.mp4",
+    "likes": 91
   },
   {
     "tweet_id": "1310757383375708160",
     "url": "https://twitter.com/SimpsonsOps/status/1310757383375708160",
     "posted_at": "2020-09-29T01:44:47.548Z",
-    "text": "I",
+    "text": "I'm just salty about everything good being turned into marketing jargon 😰 https://t.co/ZGrj7FevI1",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20200929014522/https://twitter.com/SimpsonsOps/status/1310757383375708160",
     "has_video": true,
@@ -3481,7 +3528,7 @@
     "tweet_id": "1310887565038292992",
     "url": "https://twitter.com/SimpsonsOps/status/1310887565038292992",
     "posted_at": "2020-09-29T10:22:05.275Z",
-    "text": "@JordanKueh @that_sam_guy It",
+    "text": "@JordanKueh @that_sam_guy It's a jab at vendors who claim to sell observability.\n\nLisa is the one fed up with their bullshit, of course 👑",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20200929160358/https://twitter.com/SimpsonsOps/status/1310887565038292992",
     "reply_to": {
@@ -3521,7 +3568,7 @@
     "tweet_id": "1311503274067910656",
     "url": "https://twitter.com/SimpsonsOps/status/1311503274067910656",
     "posted_at": "2020-10-01T03:08:41.747Z",
-    "text": "It",
+    "text": "It's literally impossible to write it correctly on the first try https://t.co/CIsNqKt46j",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20201002110914/https://twitter.com/SimpsonsOps/status/1311503274067910656",
     "has_video": true,
@@ -3531,7 +3578,7 @@
     "tweet_id": "1311845673419956224",
     "url": "https://twitter.com/SimpsonsOps/status/1311845673419956224",
     "posted_at": "2020-10-02T01:49:16.114Z",
-    "text": "Getting angry at the shitty code we",
+    "text": "Getting angry at the shitty code we're reading (before running git blame).",
     "media": [
       "EjScq3xU0AAtUNe.jpg"
     ],
@@ -3567,7 +3614,7 @@
     "tweet_id": "1312597209511149568",
     "url": "https://twitter.com/SimpsonsOps/status/1312597209511149568",
     "posted_at": "2020-10-04T03:35:36.281Z",
-    "text": "I",
+    "text": "I'd like one devop please and thankyou.",
     "media": [
       "EjdHT4xU8AAT7qH.jpg",
       "EjdJkFSU8AAUAxw.jpg"
@@ -3626,7 +3673,7 @@
     "tweet_id": "1313640152040796160",
     "url": "https://twitter.com/SimpsonsOps/status/1313640152040796160",
     "posted_at": "2020-10-07T00:39:53.157Z",
-    "text": "*puts on tinfoil hat* It",
+    "text": "*puts on tinfoil hat* It's all a scam invented by tech companies to get us to use their cloud services https://t.co/zJsAZinWZL",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20201007015052/https://twitter.com/SimpsonsOps/status/1313640152040796160",
     "has_video": true,
@@ -3716,7 +3763,7 @@
     "tweet_id": "1314782751589949441",
     "url": "https://twitter.com/SimpsonsOps/status/1314782751589949441",
     "posted_at": "2020-10-10T04:20:10.118Z",
-    "text": "@willthames @mattstratton You",
+    "text": "@willthames @mattstratton You're right, let me fix that.\n\nhow it started                 how it’s going \n    (2009)                                (2020)",
     "media": [
       "Ej8L7q7VkAEvU69.jpg",
       "Ej8L8HWUcAAPayC.jpg",
@@ -3779,7 +3826,7 @@
     "tweet_id": "1315459304615342080",
     "url": "https://twitter.com/SimpsonsOps/status/1315459304615342080",
     "posted_at": "2020-10-12T01:08:32.929Z",
-    "text": "Narrator: \"Building a kubernetes cluster was inevitable",
+    "text": "Narrator: \"Building a kubernetes cluster was inevitable\"",
     "media": [
       "EkFzQ_0VgAASrVQ.jpg"
     ],
@@ -3822,7 +3869,7 @@
     "tweet_id": "1315825765703839745",
     "url": "https://twitter.com/SimpsonsOps/status/1315825765703839745",
     "posted_at": "2020-10-13T01:24:44.061Z",
-    "text": "@mattstratton Prepare yourself for\n\nＤＯＵＢＬＥ ＴＨＥ ＨＯＮＫＳ\n\nＤＯＵＢＬＥ ＴＨＥ ＨＥＬＩＣＯＰＴＥＲＳ\n\nKeep your Kube Clusters hidden; Keep your Kube Clusters safe.\n\n@IanColdwater in \"Look me up baby, you",
+    "text": "@mattstratton Prepare yourself for\n\nＤＯＵＢＬＥ ＴＨＥ ＨＯＮＫＳ\n\nＤＯＵＢＬＥ ＴＨＥ ＨＥＬＩＣＯＰＴＥＲＳ\n\nKeep your Kube Clusters hidden; Keep your Kube Clusters safe.\n\n@IanColdwater in \"Look me up baby, you'll see my name on it\"\n\nSUMMER 2021",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20201013012501/https://twitter.com/SimpsonsOps/status/1315825765703839745",
     "reply_to": {
@@ -3836,7 +3883,7 @@
     "tweet_id": "1315827287338610688",
     "url": "https://twitter.com/SimpsonsOps/status/1315827287338610688",
     "posted_at": "2020-10-13T01:30:46.847Z",
-    "text": "An ideology isn",
+    "text": "An ideology isn't successful until it grows utters.",
     "media": [
       "EkLBx58VcAA6B2m.jpg"
     ],
@@ -3846,7 +3893,7 @@
     "tweet_id": "1315827523591127040",
     "url": "https://twitter.com/SimpsonsOps/status/1315827523591127040",
     "posted_at": "2020-10-13T01:31:43.174Z",
-    "text": "An ideology isn",
+    "text": "An ideology isn't successful until it grows udders.",
     "media": [
       "EkLCGeuUcAIcdLF.jpg"
     ],
@@ -3916,7 +3963,7 @@
     "tweet_id": "1316882242027700224",
     "url": "https://twitter.com/SimpsonsOps/status/1316882242027700224",
     "posted_at": "2020-10-15T23:22:47.645Z",
-    "text": "@jamesurquhart You",
+    "text": "@jamesurquhart You're one of the good ones",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20201015233823/https://twitter.com/SimpsonsOps/status/1316882242027700224",
     "reply_to": {
@@ -3962,7 +4009,7 @@
     "tweet_id": "1316910562996006912",
     "url": "https://twitter.com/SimpsonsOps/status/1316910562996006912",
     "posted_at": "2020-10-16T01:15:19.890Z",
-    "text": "Alright, let",
+    "text": "Alright, let's change things up a bit!\n\nPitch your favorite twitter account as a political ad telling us not to vote for them in the upcoming election https://t.co/C6rsw01NSv",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20201016011556/https://twitter.com/SimpsonsOps/status/1316910562996006912"
   },
@@ -3970,7 +4017,7 @@
     "tweet_id": "1316910890516680704",
     "url": "https://twitter.com/SimpsonsOps/status/1316910890516680704",
     "posted_at": "2020-10-16T01:16:37.977Z",
-    "text": "It hurts me every time I have to misspell \"favourite",
+    "text": "It hurts me every time I have to misspell \"favourite\"",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20201016011707/https://twitter.com/SimpsonsOps/status/1316910890516680704",
     "reply_to": {
@@ -3985,7 +4032,7 @@
     "tweet_id": "1316942841537531907",
     "url": "https://twitter.com/SimpsonsOps/status/1316942841537531907",
     "posted_at": "2020-10-16T03:23:35.694Z",
-    "text": "@existentialmutt You",
+    "text": "@existentialmutt You're definitely right on that one https://t.co/T3DS9i8ECA",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20201016032346/https://twitter.com/SimpsonsOps/status/1316942841537531907",
     "has_video": true,
@@ -4025,7 +4072,7 @@
     "tweet_id": "1317636238816407553",
     "url": "https://twitter.com/SimpsonsOps/status/1317636238816407553",
     "posted_at": "2020-10-18T01:18:54.488Z",
-    "text": "A wise man once told me: \"The ",
+    "text": "A wise man once told me: \"The 'c' in devOps stands for convenience\" 🙏",
     "media": [
       "EkkurCOVkAAMvQ9.jpg"
     ],
@@ -4035,7 +4082,7 @@
     "tweet_id": "1317941386415464448",
     "url": "https://twitter.com/SimpsonsOps/status/1317941386415464448",
     "posted_at": "2020-10-18T21:31:27.345Z",
-    "text": "You",
+    "text": "You're welcome. https://t.co/RkHkVJkGSd",
     "media": [
       "EknsdqeXYAASwNn.jpg"
     ],
@@ -4045,7 +4092,7 @@
     "tweet_id": "1317944713706532864",
     "url": "https://twitter.com/SimpsonsOps/status/1317944713706532864",
     "posted_at": "2020-10-18T21:44:40.633Z",
-    "text": "Seriously though, it just started out as something fun to do as a bit of a distraction. \n\nAll of you have been wonderful, and we",
+    "text": "Seriously though, it just started out as something fun to do as a bit of a distraction. \n\nAll of you have been wonderful, and we're glad you've been enjoying it all 😅",
     "media": [
       "EknsdqeXYAASwNn.jpg"
     ],
@@ -4100,7 +4147,7 @@
     "tweet_id": "1318365123153514496",
     "url": "https://twitter.com/SimpsonsOps/status/1318365123153514496",
     "posted_at": "2020-10-20T01:35:14.056Z",
-    "text": "@varoondev Apologies. We",
+    "text": "@varoondev Apologies. We're looking at adding alt text to these memes as well in future.\n\nWatch this space ☺️",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20201020013534/https://twitter.com/SimpsonsOps/status/1318365123153514496",
     "reply_to": {
@@ -4130,7 +4177,7 @@
     "tweet_id": "1318461815391617025",
     "url": "https://twitter.com/SimpsonsOps/status/1318461815391617025",
     "posted_at": "2020-10-20T07:59:27.282Z",
-    "text": "@jackdcasey Oh don",
+    "text": "@jackdcasey Oh don't worry, we know 😂",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20201020080004/https://twitter.com/SimpsonsOps/status/1318461815391617025",
     "reply_to": {
@@ -4320,7 +4367,7 @@
     "tweet_id": "1319469628616130561",
     "url": "https://twitter.com/SimpsonsOps/status/1319469628616130561",
     "posted_at": "2020-10-23T02:44:08.679Z",
-    "text": "@mattstratton I",
+    "text": "@mattstratton I'd like to think of it as recycling",
     "media": [
       "Ek-ZD5AVMAA6yYR.jpg",
       "EeCuUjOXsAQ2ZzU.jpg"
@@ -4361,7 +4408,7 @@
     "tweet_id": "1319816657007595521",
     "url": "https://twitter.com/SimpsonsOps/status/1319816657007595521",
     "posted_at": "2020-10-24T01:43:06.695Z",
-    "text": "There",
+    "text": "There's no incident if you can't hear or see your pager 😎",
     "media": [
       "ElDtTIcVcAAHBkV.jpg"
     ],
@@ -4371,7 +4418,7 @@
     "tweet_id": "1319850320428552192",
     "url": "https://twitter.com/SimpsonsOps/status/1319850320428552192",
     "posted_at": "2020-10-24T03:56:52.680Z",
-    "text": "@slace You son of a bitch, I",
+    "text": "@slace You son of a bitch, I'm in",
     "media": [
       "ElDhoqGU8AE0L5a.jpg"
     ],
@@ -4387,7 +4434,7 @@
     "tweet_id": "1320169197167521793",
     "url": "https://twitter.com/SimpsonsOps/status/1320169197167521793",
     "posted_at": "2020-10-25T01:03:58.819Z",
-    "text": "@StegerPatrick @ServerlessMom @akosma @Lascorbe @burrsutter @kelseyhightower @sheenbrisals @tmclaughbos @FarrahC32 @jeremy_daly @mipsytipsy @QuinnyPig @thenewstack @ChrisShort @mattstratton @bgracely @patrickdebois Do the opposite of what I post and you",
+    "text": "@StegerPatrick @ServerlessMom @akosma @Lascorbe @burrsutter @kelseyhightower @sheenbrisals @tmclaughbos @FarrahC32 @jeremy_daly @mipsytipsy @QuinnyPig @thenewstack @ChrisShort @mattstratton @bgracely @patrickdebois Do the opposite of what I post and you'll be sweet",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20201025010422/https://twitter.com/SimpsonsOps/status/1320169197167521793",
     "reply_to": {
@@ -4419,12 +4466,13 @@
     "tweet_id": "1320537714014384128",
     "url": "https://twitter.com/SimpsonsOps/status/1320537714014384128",
     "posted_at": "2020-10-26T01:28:20.082Z",
-    "text": "Billing statement: $3.00\n\nWhere is it? What is it? I guess it",
+    "text": "Billing statement: $3.00\n\nWhere is it? What is it? I guess it's lost to the ages.",
     "media": [
       "ElN-CpOXgAArHHC.jpg",
       "ElOFCnIWMAE7WPG.jpg"
     ],
-    "snapshot_url": "https://web.archive.org/web/20201026061257/https://twitter.com/SimpsonsOps/status/1320537714014384128"
+    "snapshot_url": "https://web.archive.org/web/20201026061257/https://twitter.com/SimpsonsOps/status/1320537714014384128",
+    "likes": 423
   },
   {
     "tweet_id": "1320541825866760193",
@@ -4446,7 +4494,7 @@
     "tweet_id": "1320542999986630656",
     "url": "https://twitter.com/SimpsonsOps/status/1320542999986630656",
     "posted_at": "2020-10-26T01:49:20.356Z",
-    "text": "@vtimd I",
+    "text": "@vtimd I'm like 90% sure that @QuinnyPig knows the top cost offenders on personal accounts",
     "media": [
       "ElN-CpOXgAArHHC.jpg"
     ],
@@ -4478,7 +4526,7 @@
     "tweet_id": "1320544304931065856",
     "url": "https://twitter.com/SimpsonsOps/status/1320544304931065856",
     "posted_at": "2020-10-26T01:54:31.479Z",
-    "text": "@QuinnyPig @vtimd We don",
+    "text": "@QuinnyPig @vtimd We don't deserve you ♥️",
     "media": [
       "ElN-CpOXgAArHHC.jpg"
     ],
@@ -4494,7 +4542,7 @@
     "tweet_id": "1320546765745999873",
     "url": "https://twitter.com/SimpsonsOps/status/1320546765745999873",
     "posted_at": "2020-10-26T02:04:18.183Z",
-    "text": "@andrewbrown You",
+    "text": "@andrewbrown You're the hero we need, @andrewbrown",
     "media": [
       "ElN-CpOXgAArHHC.jpg",
       "ElOFCnIWMAE7WPG.jpg"
@@ -4505,7 +4553,8 @@
       "username": "SimpsonsOps",
       "text": null,
       "snapshot_url": null
-    }
+    },
+    "likes": 1
   },
   {
     "tweet_id": "1320589272659812354",
@@ -4554,7 +4603,8 @@
       "snapshot_url": null
     },
     "video": "ElOvdvqUcAEkA_7.mp4",
-    "has_video": true
+    "has_video": true,
+    "likes": 2
   },
   {
     "tweet_id": "1320592054016065536",
@@ -4569,13 +4619,14 @@
       "username": "developerjack",
       "text": null,
       "snapshot_url": null
-    }
+    },
+    "likes": 1
   },
   {
     "tweet_id": "1320680651612323840",
     "url": "https://twitter.com/SimpsonsOps/status/1320680651612323840",
     "posted_at": "2020-10-26T10:56:19.061Z",
-    "text": "To everyone telling me how to access my billing breakdown, it",
+    "text": "To everyone telling me how to access my billing breakdown, it's fine! I just deleted my account and made a new one",
     "media": [
       "ElN-CpOXgAArHHC.jpg"
     ],
@@ -4602,7 +4653,7 @@
     "tweet_id": "1321213670769127425",
     "url": "https://twitter.com/SimpsonsOps/status/1321213670769127425",
     "posted_at": "2020-10-27T22:14:20.731Z",
-    "text": "@RabBrucesSpider Hey Rab, apologies for the lack of image descriptions, we",
+    "text": "@RabBrucesSpider Hey Rab, apologies for the lack of image descriptions, we'll try to do better.\n\nThe joke is referring to how often you try to fix a bug and when you go to verify, it's still there due to caching at some stage in the stack. Unfortunately a little less funny when its explained 😂",
     "media": [
       "ElTF_ARVgAAwtVb.jpg"
     ],
@@ -4618,7 +4669,7 @@
     "tweet_id": "1321247280268148736",
     "url": "https://twitter.com/SimpsonsOps/status/1321247280268148736",
     "posted_at": "2020-10-28T00:27:53.860Z",
-    "text": "Our devs don",
+    "text": "Our devs don't have a working local environment, and have no idea what's breaking in production. Might as well setup a K8s cluster",
     "media": [
       "ElYDZAUVcAAfgzB.jpg"
     ],
@@ -4644,7 +4695,7 @@
     "tweet_id": "1321304976401072131",
     "url": "https://twitter.com/SimpsonsOps/status/1321304976401072131",
     "posted_at": "2020-10-28T04:17:09.690Z",
-    "text": "All memes in image format from now on will have associated alt text, so please do pull us up if you find that it",
+    "text": "All memes in image format from now on will have associated alt text, so please do pull us up if you find that it's missing in future posts. \n\nAlso, does anyone know of a good way to make videos/gifs more accessible on Twitter?",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20201028041733/https://twitter.com/SimpsonsOps/status/1321304976401072131"
   },
@@ -4666,7 +4717,7 @@
     "tweet_id": "1321320553693601792",
     "url": "https://twitter.com/SimpsonsOps/status/1321320553693601792",
     "posted_at": "2020-10-28T05:19:03.606Z",
-    "text": "@atmilo @xkcdComic That",
+    "text": "@atmilo @xkcdComic That's amazing!",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20201028051927/https://twitter.com/SimpsonsOps/status/1321320553693601792",
     "reply_to": {
@@ -4690,7 +4741,7 @@
     "tweet_id": "1322331026157236224",
     "url": "https://twitter.com/SimpsonsOps/status/1322331026157236224",
     "posted_at": "2020-10-31T00:14:19.015Z",
-    "text": "If you",
+    "text": "If you've got a DevOps team you're doing it wrong.\n\nYou can easily just buy DevOps instead.",
     "media": [
       "ElndDl6U4AAnOpr.jpg"
     ],
@@ -4717,7 +4768,7 @@
     "tweet_id": "1322344863472381953",
     "url": "https://twitter.com/SimpsonsOps/status/1322344863472381953",
     "posted_at": "2020-10-31T01:09:18.088Z",
-    "text": "@twoscoopsofpig Y",
+    "text": "@twoscoopsofpig Y'all are getting paid?",
     "media": [
       "ElndDl6U4AAnOpr.jpg"
     ],
@@ -4753,7 +4804,7 @@
     "tweet_id": "1323434981025198081",
     "url": "https://twitter.com/SimpsonsOps/status/1323434981025198081",
     "posted_at": "2020-11-03T01:21:02.366Z",
-    "text": "Not long to go until this fundraiser ends, but please consider donating! It",
+    "text": "Not long to go until this fundraiser ends, but please consider donating! It's a great cause and you get a sweet database shirt out of it.\n\nLove your work, @QuinnyPig ♥️\n\nhttps://t.co/RK4q1cI05W",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20201103012122/https://twitter.com/SimpsonsOps/status/1323434981025198081"
   },
@@ -4775,7 +4826,7 @@
     "tweet_id": "1323718267509248000",
     "url": "https://twitter.com/SimpsonsOps/status/1323718267509248000",
     "posted_at": "2020-11-03T20:06:43.127Z",
-    "text": "@vtimd You",
+    "text": "@vtimd You're way too kind @vtimd ♥️",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20201103200709/https://twitter.com/SimpsonsOps/status/1323718267509248000",
     "reply_to": {
@@ -4789,7 +4840,7 @@
     "tweet_id": "1323718613602193409",
     "url": "https://twitter.com/SimpsonsOps/status/1323718613602193409",
     "posted_at": "2020-11-03T20:08:05.642Z",
-    "text": "Tim says we",
+    "text": "Tim says we're the best parody Devops account ♥️♥️♥️ https://t.co/uYp6ERSovr",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20201103200823/https://twitter.com/SimpsonsOps/status/1323718613602193409"
   },
@@ -4906,7 +4957,7 @@
     "tweet_id": "1323758209476128768",
     "url": "https://twitter.com/SimpsonsOps/status/1323758209476128768",
     "posted_at": "2020-11-03T22:45:26.034Z",
-    "text": "@TheKaterTot Omg they",
+    "text": "@TheKaterTot Omg they're adorable!",
     "media": [
       "El7uP2JVcAEhqKq.jpg",
       "El7uIZ2VkAArZbs.jpg",
@@ -5090,7 +5141,7 @@
     "tweet_id": "1323761798177198083",
     "url": "https://twitter.com/SimpsonsOps/status/1323761798177198083",
     "posted_at": "2020-11-03T22:59:41.647Z",
-    "text": "@guidoilbaldo They",
+    "text": "@guidoilbaldo They're so cute! They must pull those faces a lot, though 😏",
     "media": [
       "El7uP2JVcAEhqKq.jpg",
       "El7uIZ2VkAArZbs.jpg",
@@ -5109,7 +5160,7 @@
     "tweet_id": "1323763155273572352",
     "url": "https://twitter.com/SimpsonsOps/status/1323763155273572352",
     "posted_at": "2020-11-03T23:05:05.204Z",
-    "text": "@ThatTJTelan Such a cheeky look on Fig",
+    "text": "@ThatTJTelan Such a cheeky look on Fig's face",
     "media": [
       "El7uP2JVcAEhqKq.jpg",
       "El7uIZ2VkAArZbs.jpg",
@@ -5130,7 +5181,7 @@
     "tweet_id": "1323763560409788417",
     "url": "https://twitter.com/SimpsonsOps/status/1323763560409788417",
     "posted_at": "2020-11-03T23:06:41.796Z",
-    "text": "@ephelon He",
+    "text": "@ephelon He's the real Chaos Engineer",
     "media": [
       "El7uP2JVcAEhqKq.jpg",
       "El7uIZ2VkAArZbs.jpg",
@@ -5225,7 +5276,7 @@
     "tweet_id": "1323770913905471492",
     "url": "https://twitter.com/SimpsonsOps/status/1323770913905471492",
     "posted_at": "2020-11-03T23:35:55.006Z",
-    "text": "@MikeGAtkinson They",
+    "text": "@MikeGAtkinson They're gorgeous!",
     "media": [
       "El7uP2JVcAEhqKq.jpg",
       "El7uIZ2VkAArZbs.jpg",
@@ -5243,7 +5294,7 @@
     "tweet_id": "1323772208003473408",
     "url": "https://twitter.com/SimpsonsOps/status/1323772208003473408",
     "posted_at": "2020-11-03T23:41:03.543Z",
-    "text": "@WizardIP \"But Willy, that",
+    "text": "@WizardIP \"But Willy, that's not how you deploy containers!\"",
     "media": [
       "El77x2zVoAE-DWt.png",
       "El7uP2JVcAEhqKq.jpg",
@@ -5510,7 +5561,7 @@
     "tweet_id": "1325644928525824000",
     "url": "https://twitter.com/SimpsonsOps/status/1325644928525824000",
     "posted_at": "2020-11-09T03:42:34.909Z",
-    "text": "@scaleoutsavant I",
+    "text": "@scaleoutsavant I'm sold, take my money sir",
     "media": [
       "EmV26buU4AIiP3b.jpg"
     ],
@@ -5526,7 +5577,7 @@
     "tweet_id": "1325986637105430528",
     "url": "https://twitter.com/SimpsonsOps/status/1325986637105430528",
     "posted_at": "2020-11-10T02:20:24.583Z",
-    "text": "FYI @awscloud you really shouldn",
+    "text": "FYI @awscloud you really shouldn't take our posts seriously: https://t.co/C9dhovZYwo https://t.co/9JkMIoGxJ1",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20201110022158/https://twitter.com/SimpsonsOps/status/1325986637105430528"
   },
@@ -5558,7 +5609,7 @@
     "tweet_id": "1326345019712655360",
     "url": "https://twitter.com/SimpsonsOps/status/1326345019712655360",
     "posted_at": "2020-11-11T02:04:29.655Z",
-    "text": "@mcguiresm It",
+    "text": "@mcguiresm It's always DNS",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20201111020518/https://twitter.com/SimpsonsOps/status/1326345019712655360",
     "reply_to": {
@@ -5572,7 +5623,7 @@
     "tweet_id": "1326345058077958144",
     "url": "https://twitter.com/SimpsonsOps/status/1326345058077958144",
     "posted_at": "2020-11-11T02:04:38.802Z",
-    "text": "@mcguiresm You",
+    "text": "@mcguiresm You've got this, Shawn",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20201111020508/https://twitter.com/SimpsonsOps/status/1326345058077958144",
     "reply_to": {
@@ -5596,7 +5647,7 @@
     "tweet_id": "1327010066487152640",
     "url": "https://twitter.com/SimpsonsOps/status/1327010066487152640",
     "posted_at": "2020-11-12T22:07:09.162Z",
-    "text": "@QuinnyPig Hey now, that",
+    "text": "@QuinnyPig Hey now, that's not fucken true at all",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20201112220802/https://twitter.com/SimpsonsOps/status/1327010066487152640",
     "reply_to": {
@@ -5722,7 +5773,7 @@
     "tweet_id": "1327057611791822848",
     "url": "https://twitter.com/SimpsonsOps/status/1327057611791822848",
     "posted_at": "2020-11-13T01:16:04.846Z",
-    "text": "@barnaby_salter @QuinnyPig He",
+    "text": "@barnaby_salter @QuinnyPig He's alright for an American",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20201113011707/https://twitter.com/SimpsonsOps/status/1327057611791822848",
     "reply_to": {
@@ -5744,7 +5795,7 @@
     "tweet_id": "1327061597823504385",
     "url": "https://twitter.com/SimpsonsOps/status/1327061597823504385",
     "posted_at": "2020-11-13T01:31:55.190Z",
-    "text": "@hotgazpacho @QuinnyPig So wholesome! We don",
+    "text": "@hotgazpacho @QuinnyPig So wholesome! We don't deserve him",
     "media": [
       "Emqq2sYXIAIgFsw.jpg"
     ],
@@ -5774,7 +5825,7 @@
     "tweet_id": "1327063603296407553",
     "url": "https://twitter.com/SimpsonsOps/status/1327063603296407553",
     "posted_at": "2020-11-13T01:39:53.332Z",
-    "text": "@bequinning @QuinnyPig Wait, you",
+    "text": "@bequinning @QuinnyPig Wait, you're saying I could have gotten paid?!",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20201113014055/https://twitter.com/SimpsonsOps/status/1327063603296407553",
     "reply_to": {
@@ -5818,7 +5869,7 @@
     "tweet_id": "1327065050725564418",
     "url": "https://twitter.com/SimpsonsOps/status/1327065050725564418",
     "posted_at": "2020-11-13T01:45:38.426Z",
-    "text": "@caskey @QuinnyPig I need an answer to this! It",
+    "text": "@caskey @QuinnyPig I need an answer to this! It's Friday down here already! 👀",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20201113014740/https://twitter.com/SimpsonsOps/status/1327065050725564418",
     "reply_to": {
@@ -5871,7 +5922,7 @@
     "tweet_id": "1327068030413594627",
     "url": "https://twitter.com/SimpsonsOps/status/1327068030413594627",
     "posted_at": "2020-11-13T01:57:28.839Z",
-    "text": "@nicolefv @QuinnyPig Can",
+    "text": "@nicolefv @QuinnyPig Can't compete with that level of snark 😥",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20201113015811/https://twitter.com/SimpsonsOps/status/1327068030413594627",
     "reply_to": {
@@ -6008,7 +6059,7 @@
     "tweet_id": "1327266681459130370",
     "url": "https://twitter.com/SimpsonsOps/status/1327266681459130370",
     "posted_at": "2020-11-13T15:06:50.939Z",
-    "text": "@TheBeardedLlama @IanColdwater It",
+    "text": "@TheBeardedLlama @IanColdwater It's alright. Needs more geese",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20201113162120/https://twitter.com/SimpsonsOps/status/1327266681459130370",
     "reply_to": {
@@ -6088,7 +6139,7 @@
     "tweet_id": "1327272652243828736",
     "url": "https://twitter.com/SimpsonsOps/status/1327272652243828736",
     "posted_at": "2020-11-13T15:30:34.485Z",
-    "text": "@pikesley @IanColdwater @justintstanley I can",
+    "text": "@pikesley @IanColdwater @justintstanley I can't believe you've done this",
     "media": [
       "EmtpAZfVEAAvou4.png"
     ],
@@ -6104,7 +6155,7 @@
     "tweet_id": "1327276092017709056",
     "url": "https://twitter.com/SimpsonsOps/status/1327276092017709056",
     "posted_at": "2020-11-13T15:44:14.591Z",
-    "text": "Alright, I",
+    "text": "Alright, I'm pooped. Goodnight 🥱",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20201113160958/https://twitter.com/SimpsonsOps/status/1327276092017709056",
     "reply_to": {
@@ -6158,7 +6209,7 @@
     "tweet_id": "1327417939683807232",
     "url": "https://twitter.com/SimpsonsOps/status/1327417939683807232",
     "posted_at": "2020-11-14T01:07:53.710Z",
-    "text": "@da_667 Thanks for you",
+    "text": "@da_667 Thanks for you're support, its really helping me cope 🙏",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20201114010849/https://twitter.com/SimpsonsOps/status/1327417939683807232",
     "reply_to": {
@@ -6197,7 +6248,7 @@
     "tweet_id": "1327455116799033346",
     "url": "https://twitter.com/SimpsonsOps/status/1327455116799033346",
     "posted_at": "2020-11-14T03:35:37.425Z",
-    "text": "@jeremybrown @caito_200_OK Ah yes, physical meetups - I",
+    "text": "@jeremybrown @caito_200_OK Ah yes, physical meetups - I've heard legends of those",
     "media": [
       "Eghe2FcVoAI3Gic.jpg",
       "EghfTPeU0AAlQCC.jpg"
@@ -6312,7 +6363,7 @@
     "tweet_id": "1327529964107829249",
     "url": "https://twitter.com/SimpsonsOps/status/1327529964107829249",
     "posted_at": "2020-11-14T08:33:02.414Z",
-    "text": "@breadcentric Look, at least I had it code reviewed. But it was more than 2 lines of code so I got the immediate \"LGTM 👍",
+    "text": "@breadcentric Look, at least I had it code reviewed. But it was more than 2 lines of code so I got the immediate \"LGTM 👍\"",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20201114083337/https://twitter.com/SimpsonsOps/status/1327529964107829249",
     "reply_to": {
@@ -6336,7 +6387,7 @@
     "tweet_id": "1328123815956672513",
     "url": "https://twitter.com/SimpsonsOps/status/1328123815956672513",
     "posted_at": "2020-11-15T23:52:47.728Z",
-    "text": "What",
+    "text": "What's something that feels like shitposting but isn't actually shitposting?",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20201115235307/https://twitter.com/SimpsonsOps/status/1328123815956672513"
   },
@@ -6498,13 +6549,14 @@
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20201116012405/https://twitter.com/SimpsonsOps/status/1328146689375408138",
     "has_video": true,
-    "video": "KYnbHpyAP420unR6.mp4"
+    "video": "KYnbHpyAP420unR6.mp4",
+    "likes": 94
   },
   {
     "tweet_id": "1328148293382070277",
     "url": "https://twitter.com/SimpsonsOps/status/1328148293382070277",
     "posted_at": "2020-11-16T01:30:03.601Z",
-    "text": "@mrmiller1972 Don",
+    "text": "@mrmiller1972 Don't forget the fidget spinners",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20201116013041/https://twitter.com/SimpsonsOps/status/1328148293382070277",
     "reply_to": {
@@ -6532,7 +6584,7 @@
     "tweet_id": "1328446322865651713",
     "url": "https://twitter.com/SimpsonsOps/status/1328446322865651713",
     "posted_at": "2020-11-16T21:14:19.367Z",
-    "text": "@altendo There",
+    "text": "@altendo There's a meme, for that: https://t.co/d7xPmn3ygB",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20201116213114/https://twitter.com/SimpsonsOps/status/1328446322865651713",
     "reply_to": {
@@ -6550,7 +6602,8 @@
     "media": [
       "Em_OaeCVgAA4Ttv.jpg"
     ],
-    "snapshot_url": "https://web.archive.org/web/20201117012828/https://twitter.com/SimpsonsOps/status/1328507373875388416"
+    "snapshot_url": "https://web.archive.org/web/20201117012828/https://twitter.com/SimpsonsOps/status/1328507373875388416",
+    "likes": 326
   },
   {
     "tweet_id": "1328507872678866944",
@@ -6618,11 +6671,12 @@
     "tweet_id": "1328826141109493760",
     "url": "https://twitter.com/SimpsonsOps/status/1328826141109493760",
     "posted_at": "2020-11-17T22:23:35.093Z",
-    "text": "I can",
+    "text": "I can't believe you've done this https://t.co/GCnF6PTSzO",
     "media": [
       "EnCu89sVgAEY61M.jpg"
     ],
-    "snapshot_url": "https://web.archive.org/web/20201117222357/https://twitter.com/SimpsonsOps/status/1328826141109493760"
+    "snapshot_url": "https://web.archive.org/web/20201117222357/https://twitter.com/SimpsonsOps/status/1328826141109493760",
+    "likes": 57
   },
   {
     "tweet_id": "1328827143430631424",
@@ -6644,7 +6698,8 @@
     "posted_at": "2020-11-17T22:31:50.417Z",
     "text": "OnlyFans but for buying undies in the UK.\n\nOnlyPants. https://t.co/Q087V0fGbd",
     "media": [],
-    "snapshot_url": "https://web.archive.org/web/20201117223215/https://twitter.com/SimpsonsOps/status/1328828218648920065"
+    "snapshot_url": "https://web.archive.org/web/20201117223215/https://twitter.com/SimpsonsOps/status/1328828218648920065",
+    "likes": 11
   },
   {
     "tweet_id": "1328829269745696772",
@@ -6659,7 +6714,8 @@
       "posted_at": "2020-11-17T22:31:50.417Z",
       "text": "OnlyFans but for buying undies in the UK.\n\nOnlyPants. https://t.co/Q087V0fGbd",
       "snapshot_url": "https://web.archive.org/web/20201117223215/https://twitter.com/SimpsonsOps/status/1328828218648920065"
-    }
+    },
+    "likes": 17
   },
   {
     "tweet_id": "1328829297599995904",
@@ -6667,7 +6723,8 @@
     "posted_at": "2020-11-17T22:36:07.659Z",
     "text": "OnlyFans, but for Product Managers to share their product roadmaps.\n\nOnlyGantts. https://t.co/9YNIzK72u4",
     "media": [],
-    "snapshot_url": "https://web.archive.org/web/20201117223634/https://twitter.com/SimpsonsOps/status/1328829297599995904"
+    "snapshot_url": "https://web.archive.org/web/20201117223634/https://twitter.com/SimpsonsOps/status/1328829297599995904",
+    "likes": 35
   },
   {
     "tweet_id": "1328831173112471552",
@@ -6719,7 +6776,8 @@
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20201118010821/https://twitter.com/SimpsonsOps/status/1328867465913270274",
     "has_video": true,
-    "video": "w7aXI43wcA_gS2Wu.mp4"
+    "video": "w7aXI43wcA_gS2Wu.mp4",
+    "likes": 86
   },
   {
     "tweet_id": "1329198812720599042",
@@ -6729,7 +6787,8 @@
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20201118230748/https://twitter.com/SimpsonsOps/status/1329198812720599042",
     "has_video": true,
-    "video": "4RW6ru4RhICb5EnF.mp4"
+    "video": "4RW6ru4RhICb5EnF.mp4",
+    "likes": 99
   },
   {
     "tweet_id": "1329221227005632513",
@@ -6756,7 +6815,8 @@
       "EnOijSxVEAMSg-v.jpg",
       "EnOlxQGUcAANVwb.jpg"
     ],
-    "snapshot_url": "https://web.archive.org/web/20201120014337/https://twitter.com/SimpsonsOps/status/1329585047498756096"
+    "snapshot_url": "https://web.archive.org/web/20201120014337/https://twitter.com/SimpsonsOps/status/1329585047498756096",
+    "likes": 189
   },
   {
     "tweet_id": "1329586105637695491",
@@ -6775,13 +6835,14 @@
       "text": "Our last bachelor likes to use their lawyers to sue people for money",
       "snapshot_url": "https://web.archive.org/web/20201120014337/https://twitter.com/SimpsonsOps/status/1329585047498756096"
     },
-    "video": "9TQo1zQxlsCUyIY-.mp4"
+    "video": "9TQo1zQxlsCUyIY-.mp4",
+    "likes": 21
   },
   {
     "tweet_id": "1329586405694001152",
     "url": "https://twitter.com/SimpsonsOps/status/1329586405694001152",
     "posted_at": "2020-11-20T00:44:36.295Z",
-    "text": "@jeffbachtel Please raise a SNOW request for any memes you",
+    "text": "@jeffbachtel Please raise a SNOW request for any memes you'd like me to post",
     "media": [
       "EnOijSxVEAMSg-v.jpg"
     ],
@@ -6809,7 +6870,8 @@
       "posted_at": "2020-11-20T00:39:12.476Z",
       "text": "Our last bachelor likes to use their lawyers to sue people for money",
       "snapshot_url": "https://web.archive.org/web/20201120014337/https://twitter.com/SimpsonsOps/status/1329585047498756096"
-    }
+    },
+    "likes": 138
   },
   {
     "tweet_id": "1329603341765144577",
@@ -6835,7 +6897,8 @@
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20201121004841/https://twitter.com/SimpsonsOps/status/1329945373293461504",
     "has_video": true,
-    "video": "lPeqQrTv7BxMGAMd.mp4"
+    "video": "lPeqQrTv7BxMGAMd.mp4",
+    "likes": 212
   },
   {
     "tweet_id": "1329947869873270784",
@@ -6873,7 +6936,8 @@
     "media": [
       "EnZGoilVkAAlsaI.jpg"
     ],
-    "snapshot_url": "https://web.archive.org/web/20201122015355/https://twitter.com/SimpsonsOps/status/1330328410279858178"
+    "snapshot_url": "https://web.archive.org/web/20201122015355/https://twitter.com/SimpsonsOps/status/1330328410279858178",
+    "likes": 257
   },
   {
     "tweet_id": "1330328636935852032",
@@ -6915,7 +6979,8 @@
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20201123010836/https://twitter.com/SimpsonsOps/status/1330679496891011073",
     "has_video": true,
-    "video": "xbkRhqDjNTiaDGZZ.mp4"
+    "video": "xbkRhqDjNTiaDGZZ.mp4",
+    "likes": 215
   },
   {
     "tweet_id": "1330687920928243712",
@@ -7055,7 +7120,7 @@
     "tweet_id": "1331785703504576512",
     "url": "https://twitter.com/SimpsonsOps/status/1331785703504576512",
     "posted_at": "2020-11-26T02:23:49.754Z",
-    "text": "Companies today: our systems couldn",
+    "text": "Companies today: our systems couldn't handle a single AZ outage, better re-design to handle an entire cloud provider outage https://t.co/YTSqka3jcE https://t.co/VmKtikV8UN",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20201126022554/https://twitter.com/SimpsonsOps/status/1331785703504576512",
     "has_video": true,
@@ -7065,7 +7130,7 @@
     "tweet_id": "1332142380816863232",
     "url": "https://twitter.com/SimpsonsOps/status/1332142380816863232",
     "posted_at": "2020-11-27T02:01:08.252Z",
-    "text": "it has been scheduled\" https://t.co/WBKkUkpI82",
+    "text": "\"it has been scheduled\" https://t.co/WBKkUkpI82",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20201127020142/https://twitter.com/SimpsonsOps/status/1332142380816863232",
     "has_video": true,
@@ -7168,7 +7233,7 @@
     "tweet_id": "1333325003387858944",
     "url": "https://twitter.com/SimpsonsOps/status/1333325003387858944",
     "posted_at": "2020-11-30T08:20:27.445Z",
-    "text": "@davecheney You",
+    "text": "@davecheney You've been splunk'd",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20201130082047/https://twitter.com/SimpsonsOps/status/1333325003387858944",
     "reply_to": {
@@ -7250,7 +7315,7 @@
     "tweet_id": "1334980593067573248",
     "url": "https://twitter.com/SimpsonsOps/status/1334980593067573248",
     "posted_at": "2020-12-04T21:59:10.784Z",
-    "text": "I come back to Twitter after a couple of days, and all of a sudden we",
+    "text": "I come back to Twitter after a couple of days, and all of a sudden we're all @IanColdwater",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20201204220017/https://twitter.com/SimpsonsOps/status/1334980593067573248"
   },
@@ -7278,7 +7343,7 @@
     "tweet_id": "1334982508878864386",
     "url": "https://twitter.com/SimpsonsOps/status/1334982508878864386",
     "posted_at": "2020-12-04T22:06:47.549Z",
-    "text": "@MitchPommers @IanColdwater You",
+    "text": "@MitchPommers @IanColdwater You've got a bit of a Josuke look going",
     "media": [
       "EobPgpZVgAAChnz.jpg"
     ],
@@ -7350,7 +7415,7 @@
     "tweet_id": "1335748128020942851",
     "url": "https://twitter.com/SimpsonsOps/status/1335748128020942851",
     "posted_at": "2020-12-07T00:49:05.377Z",
-    "text": "Friends don",
+    "text": "Friends don't let friends break the law",
     "media": [
       "EomHw2YVoAIuzjN.jpg"
     ],
@@ -7360,7 +7425,7 @@
     "tweet_id": "1335749140018384896",
     "url": "https://twitter.com/SimpsonsOps/status/1335749140018384896",
     "posted_at": "2020-12-07T00:53:06.656Z",
-    "text": "@RAGSdale619 So much for the golden AMI, I can",
+    "text": "@RAGSdale619 So much for the golden AMI, I can't even start my EC2\nI've had every dependency broken, there's anger in my heart",
     "media": [
       "EomHw2YVoAIuzjN.jpg"
     ],
@@ -7404,7 +7469,7 @@
     "tweet_id": "1336466468154720256",
     "url": "https://twitter.com/SimpsonsOps/status/1336466468154720256",
     "posted_at": "2020-12-09T00:23:31.011Z",
-    "text": "Sometimes I like to pretend that I",
+    "text": "Sometimes I like to pretend that I'm important and get annoyed at on call pages giving me something to do",
     "media": [
       "EowVKo2UUAAWhS5.jpg"
     ],
@@ -7478,7 +7543,7 @@
     "tweet_id": "1336662853651058690",
     "url": "https://twitter.com/SimpsonsOps/status/1336662853651058690",
     "posted_at": "2020-12-09T13:23:52.962Z",
-    "text": "I couldn",
+    "text": "I couldn't help but think of this https://t.co/6IuF1bW3tS",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20201209132632/https://twitter.com/SimpsonsOps/status/1336662853651058690",
     "has_video": true,
@@ -7573,7 +7638,7 @@
     "tweet_id": "1337255391084695553",
     "url": "https://twitter.com/SimpsonsOps/status/1337255391084695553",
     "posted_at": "2020-12-11T04:38:24.895Z",
-    "text": "@halderstein @QuinnyPig The podcast will come out in a few days! We",
+    "text": "@halderstein @QuinnyPig The podcast will come out in a few days! We'll tweet the link when it drops ☺️☺️",
     "media": [
       "Eo1rPrtUUAIsXXl.jpg"
     ],
@@ -7589,7 +7654,7 @@
     "tweet_id": "1337560332575772673",
     "url": "https://twitter.com/SimpsonsOps/status/1337560332575772673",
     "posted_at": "2020-12-12T00:50:08.612Z",
-    "text": "Please don",
+    "text": "Please don't leave me, YAML",
     "media": [
       "Eo_3_s0VgAE1Vxh.jpg"
     ],
@@ -7645,7 +7710,7 @@
     "tweet_id": "1338282757978406913",
     "url": "https://twitter.com/SimpsonsOps/status/1338282757978406913",
     "posted_at": "2020-12-14T00:40:48.250Z",
-    "text": "Let",
+    "text": "Let's stick all of the devs in a room for a week and hope for the bit 🤞🏼",
     "media": [
       "EpKJEtGVEAIviLH.jpg"
     ],
@@ -7671,7 +7736,7 @@
     "tweet_id": "1338283486407376896",
     "url": "https://twitter.com/SimpsonsOps/status/1338283486407376896",
     "posted_at": "2020-12-14T00:43:41.921Z",
-    "text": "Let",
+    "text": "Let's stick all of the devs in a room for a week and hope for the best 🤞🏼",
     "media": [
       "EpKJvCeU0AAagXv.jpg"
     ],
@@ -7714,7 +7779,7 @@
     "tweet_id": "1338287349965283330",
     "url": "https://twitter.com/SimpsonsOps/status/1338287349965283330",
     "posted_at": "2020-12-14T00:59:03.065Z",
-    "text": "@Withane_Lindsey @juliancday Pls don",
+    "text": "@Withane_Lindsey @juliancday Pls don't die. We need you to work overtime for the next few weeks to get dark mode shipped before Christmas",
     "media": [
       "EpKJvCeU0AAagXv.jpg"
     ],
@@ -7746,7 +7811,7 @@
     "tweet_id": "1338642431940562946",
     "url": "https://twitter.com/SimpsonsOps/status/1338642431940562946",
     "posted_at": "2020-12-15T00:30:01.205Z",
-    "text": "Make sure you don",
+    "text": "Make sure you don't end up with Lee Carvallo's Deployment Challenge https://t.co/UgFpkJ3Fzn",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20201215003014/https://twitter.com/SimpsonsOps/status/1338642431940562946",
     "has_video": true,
@@ -7756,7 +7821,7 @@
     "tweet_id": "1338670774903734272",
     "url": "https://twitter.com/SimpsonsOps/status/1338670774903734272",
     "posted_at": "2020-12-15T02:22:38.694Z",
-    "text": "@JJCelery I",
+    "text": "@JJCelery I'm sorry",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20201215022321/https://twitter.com/SimpsonsOps/status/1338670774903734272",
     "reply_to": {
@@ -7806,7 +7871,7 @@
     "tweet_id": "1338673862200856576",
     "url": "https://twitter.com/SimpsonsOps/status/1338673862200856576",
     "posted_at": "2020-12-15T02:34:54.763Z",
-    "text": "@IgorBrigadir You",
+    "text": "@IgorBrigadir You're incredible",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20201215023527/https://twitter.com/SimpsonsOps/status/1338673862200856576",
     "reply_to": {
@@ -7925,7 +7990,7 @@
     "tweet_id": "1338698329316716544",
     "url": "https://twitter.com/SimpsonsOps/status/1338698329316716544",
     "posted_at": "2020-12-15T04:12:08.178Z",
-    "text": "@davecheney Mom! Dave",
+    "text": "@davecheney Mom! Dave's swearing!",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20201215041243/https://twitter.com/SimpsonsOps/status/1338698329316716544",
     "reply_to": {
@@ -7939,7 +8004,7 @@
     "tweet_id": "1338705733840293890",
     "url": "https://twitter.com/SimpsonsOps/status/1338705733840293890",
     "posted_at": "2020-12-15T04:41:33.554Z",
-    "text": "@vtimd @davecheney Uh...it",
+    "text": "@vtimd @davecheney Uh...it's only a single player shitposting account",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20201215044146/https://twitter.com/SimpsonsOps/status/1338705733840293890",
     "reply_to": {
@@ -7969,7 +8034,7 @@
     "tweet_id": "1338721758715600896",
     "url": "https://twitter.com/SimpsonsOps/status/1338721758715600896",
     "posted_at": "2020-12-15T05:45:14.182Z",
-    "text": "@RozenMD That mo",
+    "text": "@RozenMD That mo'",
     "media": [
       "EpQRp-rVEAAN7ah.jpg",
       "EpQRrsvUYAIc3h0.jpg",
@@ -8040,7 +8105,7 @@
     "tweet_id": "1338961590582841344",
     "url": "https://twitter.com/SimpsonsOps/status/1338961590582841344",
     "posted_at": "2020-12-15T21:38:14.555Z",
-    "text": "Jojo",
+    "text": "Jojo's Bizarre Adventure Against DevOps https://t.co/3hwJnPsQXp",
     "media": [
       "EpT1EBQVQAEvCJm.png"
     ],
@@ -8067,7 +8132,7 @@
     "tweet_id": "1339145482547810304",
     "url": "https://twitter.com/SimpsonsOps/status/1339145482547810304",
     "posted_at": "2020-12-16T09:48:57.816Z",
-    "text": "@luvpreet33 Oh that",
+    "text": "@luvpreet33 Oh that's good",
     "media": [
       "EpT1ibtXEAMu7f6.png",
       "EpVWAYeVQAI9OWD.jpg"
@@ -8100,7 +8165,7 @@
     "tweet_id": "1339325783047716864",
     "url": "https://twitter.com/SimpsonsOps/status/1339325783047716864",
     "posted_at": "2020-12-16T21:45:24.805Z",
-    "text": "We",
+    "text": "We'll be back to our scheduled programming of overlaying DevOps/tech subtitles over notable Simpsons scenes today.\n\nUnless...\n\nNo no, definitely Simpsons shitposting.\n\nUnless...🤔",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20201216214928/https://twitter.com/SimpsonsOps/status/1339325783047716864"
   },
@@ -8108,7 +8173,7 @@
     "tweet_id": "1339415441878306816",
     "url": "https://twitter.com/SimpsonsOps/status/1339415441878306816",
     "posted_at": "2020-12-17T03:41:41.136Z",
-    "text": "@_jsimonovski @Dixie3Flatline I",
+    "text": "@_jsimonovski @Dixie3Flatline I'll have you know Milhouse is a gentleman and a scholar",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20201217034358/https://twitter.com/SimpsonsOps/status/1339415441878306816",
     "reply_to": {
@@ -8124,7 +8189,7 @@
     "tweet_id": "1339448366846025728",
     "url": "https://twitter.com/SimpsonsOps/status/1339448366846025728",
     "posted_at": "2020-12-17T05:52:31.060Z",
-    "text": "I",
+    "text": "I'm talking about @QuinnyPig of course, just to clear up any confusion",
     "media": [
       "EpaoRjmW8AMJ0zW.jpg"
     ],
@@ -8150,7 +8215,7 @@
     "tweet_id": "1339797377863970816",
     "url": "https://twitter.com/SimpsonsOps/status/1339797377863970816",
     "posted_at": "2020-12-18T04:59:21.771Z",
-    "text": "It",
+    "text": "It's fine. I didn't want to play anything on my break anyway. https://t.co/GYWmfOOnZN",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20201218045959/https://twitter.com/SimpsonsOps/status/1339797377863970816",
     "has_video": true,
@@ -8160,7 +8225,7 @@
     "tweet_id": "1339799808916160513",
     "url": "https://twitter.com/SimpsonsOps/status/1339799808916160513",
     "posted_at": "2020-12-18T05:09:01.379Z",
-    "text": "@jdubm31 I",
+    "text": "@jdubm31 I've been looking for some coffin bearers to let me down one last time.",
     "media": [
       "Epfsbw7VQAANL9F.jpg"
     ],
@@ -8291,7 +8356,7 @@
     "tweet_id": "1341239196002865152",
     "url": "https://twitter.com/SimpsonsOps/status/1341239196002865152",
     "posted_at": "2020-12-22T04:28:38.003Z",
-    "text": "Hey friends! We",
+    "text": "Hey friends! We'll be taking some time off from memeing over the holidays to give ourselves a bit of a break.\n\nWe should be back to our regular memeing from January, but will continue to shitpost random things in the meantime.\n\nThanks for being wonderful! Enjoy your time off!",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20201222042859/https://twitter.com/SimpsonsOps/status/1341239196002865152"
   },
@@ -8375,7 +8440,7 @@
     "tweet_id": "1341594854799802369",
     "url": "https://twitter.com/SimpsonsOps/status/1341594854799802369",
     "posted_at": "2020-12-23T04:01:53.668Z",
-    "text": "@mattstratton You",
+    "text": "@mattstratton You've never let me down, and you weren't about to start today",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20201223040313/https://twitter.com/SimpsonsOps/status/1341594854799802369",
     "reply_to": {
@@ -8411,7 +8476,7 @@
     "tweet_id": "1343033600099282946",
     "url": "https://twitter.com/SimpsonsOps/status/1343033600099282946",
     "posted_at": "2020-12-27T03:18:57.278Z",
-    "text": "Containers did what DevOps didn",
+    "text": "Containers did what DevOps didn't. https://t.co/3gPWYr2Om5",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20201227031913/https://twitter.com/SimpsonsOps/status/1343033600099282946"
   },
@@ -8433,7 +8498,7 @@
     "tweet_id": "1343168254244659201",
     "url": "https://twitter.com/SimpsonsOps/status/1343168254244659201",
     "posted_at": "2020-12-27T12:14:01.328Z",
-    "text": "You",
+    "text": "You've discovered one of our content gold mines though, shhh don't tell anyone 👀 https://t.co/T75N5vRe6M",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20201227121417/https://twitter.com/SimpsonsOps/status/1343168254244659201"
   },
@@ -8465,7 +8530,7 @@
     "tweet_id": "1343337407945396226",
     "url": "https://twitter.com/SimpsonsOps/status/1343337407945396226",
     "posted_at": "2020-12-27T23:26:10.713Z",
-    "text": "@vtimd Hey, that",
+    "text": "@vtimd Hey, that's me!",
     "media": [
       "EqR9bsVVEAAqxRs.jpg"
     ],
@@ -8481,7 +8546,7 @@
     "tweet_id": "1343735225784791043",
     "url": "https://twitter.com/SimpsonsOps/status/1343735225784791043",
     "posted_at": "2020-12-29T01:46:57.877Z",
-    "text": "Don",
+    "text": "Don't get me started on CloudFront deployments https://t.co/iXlJ0gt1S6",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20201229164801/https://twitter.com/SimpsonsOps/status/1343735225784791043",
     "has_video": true,
@@ -8571,7 +8636,7 @@
     "tweet_id": "1346236648623726592",
     "url": "https://twitter.com/SimpsonsOps/status/1346236648623726592",
     "posted_at": "2021-01-04T23:26:43.556Z",
-    "text": "I think we",
+    "text": "I think we've actually covered all of these. Multiple times.",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20210104232657/https://twitter.com/SimpsonsOps/status/1346236648623726592",
     "reply_to": {
@@ -8615,7 +8680,7 @@
     "tweet_id": "1346240268362629121",
     "url": "https://twitter.com/SimpsonsOps/status/1346240268362629121",
     "posted_at": "2021-01-04T23:41:06.569Z",
-    "text": "@vtimd @mattstratton @QuinnyPig I",
+    "text": "@vtimd @mattstratton @QuinnyPig I've found @Dixie3Flatline to be suspiciously quiet 🕵️‍♀️",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20210104234134/https://twitter.com/SimpsonsOps/status/1346240268362629121",
     "reply_to": {
@@ -8670,7 +8735,7 @@
     "tweet_id": "1346318360003313664",
     "url": "https://twitter.com/SimpsonsOps/status/1346318360003313664",
     "posted_at": "2021-01-05T04:51:25.067Z",
-    "text": "If you",
+    "text": "If you're looking for some awesome people to follow in 2021 you should definitely follow Shelby!\n\nFun Fact: Shelbyville was named after Shelby because she's smart and awesome https://t.co/gcJwBBH2Qv",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20210105045140/https://twitter.com/SimpsonsOps/status/1346318360003313664"
   },
@@ -8678,7 +8743,7 @@
     "tweet_id": "1346335296619642881",
     "url": "https://twitter.com/SimpsonsOps/status/1346335296619642881",
     "posted_at": "2021-01-05T05:58:43.071Z",
-    "text": "@shelbyspees I can",
+    "text": "@shelbyspees I can't believe I forgot that this kid was called Shelby",
     "media": [
       "Eq8kz1wVgAAzrMB.png"
     ],
@@ -8720,7 +8785,7 @@
     "tweet_id": "1346608013134598144",
     "url": "https://twitter.com/SimpsonsOps/status/1346608013134598144",
     "posted_at": "2021-01-06T00:02:23.755Z",
-    "text": "🎼 Everything",
+    "text": "🎼 Everything's better, you won't regretta, running Ku-ber-ne-teeees 🎵 https://t.co/Z82OjBSgos",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20210106000238/https://twitter.com/SimpsonsOps/status/1346608013134598144",
     "has_video": true,
@@ -8864,7 +8929,7 @@
     "tweet_id": "1348808614748725254",
     "url": "https://twitter.com/SimpsonsOps/status/1348808614748725254",
     "posted_at": "2021-01-12T01:46:48.065Z",
-    "text": "@vtimd Aw noes, don",
+    "text": "@vtimd Aw noes, don't cry! 😥",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20210112032443/https://twitter.com/SimpsonsOps/status/1348808614748725254",
     "reply_to": {
@@ -8947,7 +9012,7 @@
     "tweet_id": "1349662339444822018",
     "url": "https://twitter.com/SimpsonsOps/status/1349662339444822018",
     "posted_at": "2021-01-14T10:19:11.894Z",
-    "text": "That",
+    "text": "That's quite an analysis of a meme account.",
     "media": [
       "Err2vinVgAARFeP.jpg",
       "Err2fCTUwAATuIk.jpg"
@@ -8975,7 +9040,7 @@
     "tweet_id": "1349881349692219392",
     "url": "https://twitter.com/SimpsonsOps/status/1349881349692219392",
     "posted_at": "2021-01-15T00:49:28.006Z",
-    "text": "Fuck yeah, can",
+    "text": "Fuck yeah, can't wait. 2021 is lit 🔥",
     "media": [
       "Eru97OmUwAIiPLk.jpg"
     ],
@@ -9042,7 +9107,7 @@
     "tweet_id": "1350226998149320704",
     "url": "https://twitter.com/SimpsonsOps/status/1350226998149320704",
     "posted_at": "2021-01-15T23:42:57.020Z",
-    "text": "@ahidalgosre @Mat__Savage @killedbygoogle Yeah, it",
+    "text": "@ahidalgosre @Mat__Savage @killedbygoogle Yeah, it's @mattstratton",
     "media": [
       "Erz2J7FVoAESQgr.jpg"
     ],
@@ -9107,7 +9172,7 @@
     "tweet_id": "1350236497920679936",
     "url": "https://twitter.com/SimpsonsOps/status/1350236497920679936",
     "posted_at": "2021-01-16T00:20:41.942Z",
-    "text": "@mattstratton @elchefe @Dixie3Flatline @QuinnyPig @cassidoo @austinlparker @jessicaewest @IanColdwater Everyone here is definitely way smarter and funnier than us, but we",
+    "text": "@mattstratton @elchefe @Dixie3Flatline @QuinnyPig @cassidoo @austinlparker @jessicaewest @IanColdwater Everyone here is definitely way smarter and funnier than us, but we'll do our best! 😳",
     "media": [
       "Erz_3TEW4AoU0sF.png"
     ],
@@ -9151,7 +9216,7 @@
     "tweet_id": "1350247183275048960",
     "url": "https://twitter.com/SimpsonsOps/status/1350247183275048960",
     "posted_at": "2021-01-16T01:03:09.529Z",
-    "text": "They",
+    "text": "They're all pretty neat. https://t.co/KgXW9kmeNJ",
     "media": [
       "Er0KmH1VQAAPue2.png"
     ],
@@ -9187,7 +9252,7 @@
     "tweet_id": "1350285880720646145",
     "url": "https://twitter.com/SimpsonsOps/status/1350285880720646145",
     "posted_at": "2021-01-16T03:36:55.719Z",
-    "text": "@xrayattack Can I still raise my hand if I don",
+    "text": "@xrayattack Can I still raise my hand if I don't have friends? 🙋‍♂️🙋‍♀️",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20210116033724/https://twitter.com/SimpsonsOps/status/1350285880720646145",
     "reply_to": {
@@ -9201,7 +9266,7 @@
     "tweet_id": "1350604365678039044",
     "url": "https://twitter.com/SimpsonsOps/status/1350604365678039044",
     "posted_at": "2021-01-17T00:42:28.450Z",
-    "text": "We now have 4 ways of deploying your service to prod, and haven",
+    "text": "We now have 4 ways of deploying your service to prod, and haven't bothered to migrate you off any of the previous ones. You're welcome.",
     "media": [
       "Er5PgnVVgAAn4Az.jpg"
     ],
@@ -9227,7 +9292,7 @@
     "tweet_id": "1350605774288916480",
     "url": "https://twitter.com/SimpsonsOps/status/1350605774288916480",
     "posted_at": "2021-01-17T00:48:04.289Z",
-    "text": "@ctrl_alt_kaveet I",
+    "text": "@ctrl_alt_kaveet I'm not saying inline image support in @buildkite was the main reason I picked it, but it played a big part in the decision 🙈",
     "media": [
       "Er5PgnVVgAAn4Az.jpg"
     ],
@@ -9243,7 +9308,7 @@
     "tweet_id": "1350606167488176128",
     "url": "https://twitter.com/SimpsonsOps/status/1350606167488176128",
     "posted_at": "2021-01-17T00:49:38.035Z",
-    "text": "@donjpetersen We",
+    "text": "@donjpetersen We've all got our turds to polish",
     "media": [
       "Er5PgnVVgAAn4Az.jpg"
     ],
@@ -9285,7 +9350,7 @@
     "tweet_id": "1351013315858886660",
     "url": "https://twitter.com/SimpsonsOps/status/1351013315858886660",
     "posted_at": "2021-01-18T03:47:29.771Z",
-    "text": "They",
+    "text": "They're still trying. https://t.co/zWX66DkDyu https://t.co/sJVTRXZrdi",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20210118034737/https://twitter.com/SimpsonsOps/status/1351013315858886660",
     "has_video": true,
@@ -9337,7 +9402,7 @@
     "tweet_id": "1351331543801753602",
     "url": "https://twitter.com/SimpsonsOps/status/1351331543801753602",
     "posted_at": "2021-01-19T00:52:01.225Z",
-    "text": "@QuinnyPig Now you",
+    "text": "@QuinnyPig Now you're just saying words",
     "media": [
       "EsDjw2CVoAIIam1.jpg"
     ],
@@ -9369,7 +9434,7 @@
     "tweet_id": "1351352506123599872",
     "url": "https://twitter.com/SimpsonsOps/status/1351352506123599872",
     "posted_at": "2021-01-19T02:15:19.032Z",
-    "text": "@ETchalakov No, you",
+    "text": "@ETchalakov No, you're great Elena! ✨",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20210119021538/https://twitter.com/SimpsonsOps/status/1351352506123599872",
     "reply_to": {
@@ -9383,7 +9448,7 @@
     "tweet_id": "1351356539945144320",
     "url": "https://twitter.com/SimpsonsOps/status/1351356539945144320",
     "posted_at": "2021-01-19T02:31:20.770Z",
-    "text": "@__neocom__ Phew, at least you didn",
+    "text": "@__neocom__ Phew, at least you didn't say Rust",
     "media": [
       "EsDjw2CVoAIIam1.jpg"
     ],
@@ -9433,7 +9498,7 @@
     "tweet_id": "1351407106449002496",
     "url": "https://twitter.com/SimpsonsOps/status/1351407106449002496",
     "posted_at": "2021-01-19T05:52:16.764Z",
-    "text": "@ChloeCondon That",
+    "text": "@ChloeCondon That's three more celebrities than I initially thought! 🥳",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20210119055239/https://twitter.com/SimpsonsOps/status/1351407106449002496",
     "reply_to": {
@@ -9555,7 +9620,7 @@
     "tweet_id": "1352382153854574594",
     "url": "https://twitter.com/SimpsonsOps/status/1352382153854574594",
     "posted_at": "2021-01-21T22:26:46.181Z",
-    "text": "BREAKING Biden just signed an executive order that bans the \"tell me that you",
+    "text": "BREAKING Biden just signed an executive order that bans the \"tell me that you're X without telling me that you're X\" meme format.",
     "media": [
       "EsSgSD0UYAEY9sg.jpg"
     ],
@@ -9650,7 +9715,7 @@
     "tweet_id": "1352440804996857858",
     "url": "https://twitter.com/SimpsonsOps/status/1352440804996857858",
     "posted_at": "2021-01-22T02:19:49.703Z",
-    "text": "@killedbygoogle I really wanted to like this, but I couldn",
+    "text": "@killedbygoogle I really wanted to like this, but I couldn't bring myself to do it.",
     "media": [
       "EsTVsznVEAILlKy.png",
       "EsTC9H9XUAAW2uK.jpg"
@@ -9725,7 +9790,7 @@
     "tweet_id": "1352750596609220608",
     "url": "https://twitter.com/SimpsonsOps/status/1352750596609220608",
     "posted_at": "2021-01-22T22:50:49.779Z",
-    "text": "Architecture influenced by Dante",
+    "text": "Architecture influenced by Dante's Inferno https://t.co/J6sPc2WTSg",
     "media": [
       "EsXfZl2UwAEOdxa.jpg"
     ],
@@ -9850,7 +9915,7 @@
     "tweet_id": "1353180667006210048",
     "url": "https://twitter.com/SimpsonsOps/status/1353180667006210048",
     "posted_at": "2021-01-24T03:19:46.552Z",
-    "text": "@slace I",
+    "text": "@slace I'm not giving up my coffee for that 😔",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20210124033932/https://twitter.com/SimpsonsOps/status/1353180667006210048",
     "reply_to": {
@@ -9906,7 +9971,7 @@
     "tweet_id": "1353193492348952578",
     "url": "https://twitter.com/SimpsonsOps/status/1353193492348952578",
     "posted_at": "2021-01-24T04:10:44.352Z",
-    "text": "@garethgreenaway @pczarkowski @mattstratton @Dixie3Flatline @DivineOps Get in Banana Breads, we",
+    "text": "@garethgreenaway @pczarkowski @mattstratton @Dixie3Flatline @DivineOps Get in Banana Breads, we're going shopping!",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20210124050846/https://twitter.com/SimpsonsOps/status/1353193492348952578",
     "reply_to": {
@@ -9920,7 +9985,7 @@
     "tweet_id": "1353193670896312321",
     "url": "https://twitter.com/SimpsonsOps/status/1353193670896312321",
     "posted_at": "2021-01-24T04:11:26.921Z",
-    "text": "@pczarkowski @DivineOps @mattstratton @Dixie3Flatline That",
+    "text": "@pczarkowski @DivineOps @mattstratton @Dixie3Flatline That's a blast from the past",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20210124050125/https://twitter.com/SimpsonsOps/status/1353193670896312321",
     "reply_to": {
@@ -9934,7 +9999,7 @@
     "tweet_id": "1353193970315063296",
     "url": "https://twitter.com/SimpsonsOps/status/1353193970315063296",
     "posted_at": "2021-01-24T04:12:38.308Z",
-    "text": "@pczarkowski @DivineOps @mattstratton @Dixie3Flatline Well my mum",
+    "text": "@pczarkowski @DivineOps @mattstratton @Dixie3Flatline Well my mum's making Continental Creamy Mushroom Chicken",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20210124042702/https://twitter.com/SimpsonsOps/status/1353193970315063296",
     "reply_to": {
@@ -9986,7 +10051,7 @@
     "tweet_id": "1353528023350317057",
     "url": "https://twitter.com/SimpsonsOps/status/1353528023350317057",
     "posted_at": "2021-01-25T02:20:02.758Z",
-    "text": "@mlbiam 100%, it",
+    "text": "@mlbiam 100%, it's just worse when it's the manager because they can tell people what to do :(",
     "media": [
       "EsieFcnUwAAvuAu.jpg"
     ],
@@ -10002,7 +10067,7 @@
     "tweet_id": "1353816025024741376",
     "url": "https://twitter.com/SimpsonsOps/status/1353816025024741376",
     "posted_at": "2021-01-25T21:24:27.708Z",
-    "text": "@crayzeigh It",
+    "text": "@crayzeigh It's full of dumb meme accounts trying to be funny",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20210125212445/https://twitter.com/SimpsonsOps/status/1353816025024741376",
     "reply_to": {
@@ -10093,7 +10158,7 @@
     "tweet_id": "1354293466314862595",
     "url": "https://twitter.com/SimpsonsOps/status/1354293466314862595",
     "posted_at": "2021-01-27T05:01:38.582Z",
-    "text": "This was such a fun stream! Everyone was super funny, and smart, and charismatic, and cool. Worth checking out when the VOD is out if you didn",
+    "text": "This was such a fun stream! Everyone was super funny, and smart, and charismatic, and cool. Worth checking out when the VOD is out if you didn't get a chance to jump into the twitch stream https://t.co/JgpmzXtcpt",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20210127050155/https://twitter.com/SimpsonsOps/status/1354293466314862595"
   },
@@ -10101,7 +10166,7 @@
     "tweet_id": "1354513545438715905",
     "url": "https://twitter.com/SimpsonsOps/status/1354513545438715905",
     "posted_at": "2021-01-27T19:36:09.534Z",
-    "text": "🎵 we",
+    "text": "🎵 we're in the money 🎵\n\n🎵 we're in the money 🎵 https://t.co/vnaXIN7NT5",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20210127193837/https://twitter.com/SimpsonsOps/status/1354513545438715905",
     "has_video": true,
@@ -10111,7 +10176,7 @@
     "tweet_id": "1354578016991502340",
     "url": "https://twitter.com/SimpsonsOps/status/1354578016991502340",
     "posted_at": "2021-01-27T23:52:20.750Z",
-    "text": "I heard y",
+    "text": "I heard y'all liked\nｃｕｒｓｅｄ  ｓｉｍｐｓｏｎｓ https://t.co/EruHdfpPXV",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20210127235229/https://twitter.com/SimpsonsOps/status/1354578016991502340",
     "has_video": true,
@@ -10151,7 +10216,7 @@
     "tweet_id": "1354908755700326401",
     "url": "https://twitter.com/SimpsonsOps/status/1354908755700326401",
     "posted_at": "2021-01-28T21:46:35.003Z",
-    "text": "Follow @rothgar for some really awesome content like posting pictures of egg yolks and pretending they",
+    "text": "Follow @rothgar for some really awesome content like posting pictures of egg yolks and pretending they're trackballs. You won't be disappointed! https://t.co/OjUlAyEsAL",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20210128214647/https://twitter.com/SimpsonsOps/status/1354908755700326401"
   },
@@ -10173,7 +10238,7 @@
     "tweet_id": "1354955479139577859",
     "url": "https://twitter.com/SimpsonsOps/status/1354955479139577859",
     "posted_at": "2021-01-29T00:52:14.739Z",
-    "text": "@bryanl It says that I",
+    "text": "@bryanl It says that I'm only considered funny because I overlay already funny SImpsons scenes with relatable/hurtful realities about our industry.",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20210129005226/https://twitter.com/SimpsonsOps/status/1354955479139577859",
     "reply_to": {
@@ -10254,7 +10319,7 @@
     "tweet_id": "1355040777512992776",
     "url": "https://twitter.com/SimpsonsOps/status/1355040777512992776",
     "posted_at": "2021-01-29T06:31:11.456Z",
-    "text": "@emmerynjane It",
+    "text": "@emmerynjane It's acceptable, if you found emacs intuitive on the other hand, I'd be worried",
     "media": [
       "Es3Ic0jUUAMhmJV.jpg"
     ],
@@ -10450,7 +10515,7 @@
     "tweet_id": "1356410108385714179",
     "url": "https://twitter.com/SimpsonsOps/status/1356410108385714179",
     "posted_at": "2021-02-02T01:12:25.377Z",
-    "text": "Ok, so I",
+    "text": "Ok, so I've figured out a way to game the AWS free tier https://t.co/f5SsQJkKjA",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20210202011237/https://twitter.com/SimpsonsOps/status/1356410108385714179",
     "has_video": true,
@@ -10474,7 +10539,7 @@
     "tweet_id": "1356413018091872257",
     "url": "https://twitter.com/SimpsonsOps/status/1356413018091872257",
     "posted_at": "2021-02-02T01:23:59.105Z",
-    "text": "@davecheney \"works\" is a bit generous, don",
+    "text": "@davecheney \"works\" is a bit generous, don't you think?",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20210202012416/https://twitter.com/SimpsonsOps/status/1356413018091872257",
     "reply_to": {
@@ -10530,7 +10595,7 @@
     "tweet_id": "1356725374755852291",
     "url": "https://twitter.com/SimpsonsOps/status/1356725374755852291",
     "posted_at": "2021-02-02T22:05:10.737Z",
-    "text": "@theworstdev Heyyyy VSauce Michael here. Does anyone really know what they",
+    "text": "@theworstdev Heyyyy VSauce Michael here. Does anyone really know what they're doing with z-index?",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20210202220529/https://twitter.com/SimpsonsOps/status/1356725374755852291",
     "reply_to": {
@@ -10564,7 +10629,7 @@
     "tweet_id": "1356803106462265349",
     "url": "https://twitter.com/SimpsonsOps/status/1356803106462265349",
     "posted_at": "2021-02-03T03:14:03.420Z",
-    "text": "Also yes I know this isn",
+    "text": "Also yes I know this isn't a Simpsons reference, but how fucking good is Aunty Donna?!",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20210203031601/https://twitter.com/SimpsonsOps/status/1356803106462265349",
     "reply_to": {
@@ -10595,7 +10660,7 @@
     "tweet_id": "1356806614179745792",
     "url": "https://twitter.com/SimpsonsOps/status/1356806614179745792",
     "posted_at": "2021-02-03T03:27:59.725Z",
-    "text": "@RAGSdale619 You",
+    "text": "@RAGSdale619 You're beautiful",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20210203033015/https://twitter.com/SimpsonsOps/status/1356806614179745792",
     "reply_to": {
@@ -10625,7 +10690,7 @@
     "tweet_id": "1356816093680005120",
     "url": "https://twitter.com/SimpsonsOps/status/1356816093680005120",
     "posted_at": "2021-02-03T04:05:39.814Z",
-    "text": "I would suggest @AuntyDonnaBoys Against DevOps but that",
+    "text": "I would suggest @AuntyDonnaBoys Against DevOps but that's a liiiiittle niche.",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20210203040812/https://twitter.com/SimpsonsOps/status/1356816093680005120"
   },
@@ -10702,7 +10767,7 @@
     "tweet_id": "1357188748904075267",
     "url": "https://twitter.com/SimpsonsOps/status/1357188748904075267",
     "posted_at": "2021-02-04T04:46:27.743Z",
-    "text": "@sheldon_hull @richstokes @AuntyDonnaBoys Powershell is good too! We don",
+    "text": "@sheldon_hull @richstokes @AuntyDonnaBoys Powershell is good too! We don't gatekeep in these parts",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20210204044637/https://twitter.com/SimpsonsOps/status/1357188748904075267",
     "reply_to": {
@@ -10716,7 +10781,7 @@
     "tweet_id": "1357221724723376128",
     "url": "https://twitter.com/SimpsonsOps/status/1357221724723376128",
     "posted_at": "2021-02-04T06:57:29.791Z",
-    "text": "@SwiftOnSecurity That",
+    "text": "@SwiftOnSecurity That's kinda hot ngl",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20210204065842/https://twitter.com/SimpsonsOps/status/1357221724723376128",
     "reply_to": {
@@ -10776,7 +10841,7 @@
     "tweet_id": "1357274660610560002",
     "url": "https://twitter.com/SimpsonsOps/status/1357274660610560002",
     "posted_at": "2021-02-04T10:27:50.690Z",
-    "text": "@dalziel @AuntyDonnaBoys \"Devs are on call and it makes me chuffed, we",
+    "text": "@dalziel @AuntyDonnaBoys \"Devs are on call and it makes me chuffed, we're having less outages and it makes me chuffed\"",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20210204102756/https://twitter.com/SimpsonsOps/status/1357274660610560002",
     "reply_to": {
@@ -10790,7 +10855,7 @@
     "tweet_id": "1357903586038931457",
     "url": "https://twitter.com/SimpsonsOps/status/1357903586038931457",
     "posted_at": "2021-02-06T04:06:58.197Z",
-    "text": "Explain what this week at work was like for you in one Simpsons gif - I",
+    "text": "Explain what this week at work was like for you in one Simpsons gif - I'll start: https://t.co/7XElJYk0iq",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20210206040709/https://twitter.com/SimpsonsOps/status/1357903586038931457",
     "has_video": true,
@@ -10844,7 +10909,7 @@
     "tweet_id": "1357934597296648192",
     "url": "https://twitter.com/SimpsonsOps/status/1357934597296648192",
     "posted_at": "2021-02-06T06:10:11.857Z",
-    "text": "Y",
+    "text": "Y'all need hugs or what",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20210206061034/https://twitter.com/SimpsonsOps/status/1357934597296648192",
     "reply_to": {
@@ -10887,7 +10952,7 @@
     "tweet_id": "1359305790062948357",
     "url": "https://twitter.com/SimpsonsOps/status/1359305790062948357",
     "posted_at": "2021-02-10T00:58:49.688Z",
-    "text": "Hello friends 👋\n\nRich and I have been super busy with work stuff lately, but we",
+    "text": "Hello friends 👋\n\nRich and I have been super busy with work stuff lately, but we'll be back as soon as we can",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20210210005904/https://twitter.com/SimpsonsOps/status/1359305790062948357"
   },
@@ -10911,7 +10976,7 @@
     "tweet_id": "1359307376826847233",
     "url": "https://twitter.com/SimpsonsOps/status/1359307376826847233",
     "posted_at": "2021-02-10T01:05:08.002Z",
-    "text": "@davecheney The hero we don",
+    "text": "@davecheney The hero we don't deserve",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20210210010524/https://twitter.com/SimpsonsOps/status/1359307376826847233",
     "reply_to": {
@@ -10953,7 +11018,7 @@
     "tweet_id": "1359309979446956032",
     "url": "https://twitter.com/SimpsonsOps/status/1359309979446956032",
     "posted_at": "2021-02-10T01:15:28.515Z",
-    "text": "@slace Nice! I",
+    "text": "@slace Nice! I'm glad it doesn't show up when you type it",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20210210011556/https://twitter.com/SimpsonsOps/status/1359309979446956032",
     "reply_to": {
@@ -10999,7 +11064,7 @@
     "tweet_id": "1359962450519461893",
     "url": "https://twitter.com/SimpsonsOps/status/1359962450519461893",
     "posted_at": "2021-02-11T20:28:09.741Z",
-    "text": "Whaaaat! No way @nicolefv, you",
+    "text": "Whaaaat! No way @nicolefv, you're the best! https://t.co/oXMMMkXz6b",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20210211202821/https://twitter.com/SimpsonsOps/status/1359962450519461893"
   },
@@ -11037,7 +11102,7 @@
     "tweet_id": "1359965035724820481",
     "url": "https://twitter.com/SimpsonsOps/status/1359965035724820481",
     "posted_at": "2021-02-11T20:38:26.102Z",
-    "text": "@ahidalgosre It",
+    "text": "@ahidalgosre It's closer to a stew than a curry imo",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20210211203840/https://twitter.com/SimpsonsOps/status/1359965035724820481",
     "reply_to": {
@@ -11065,7 +11130,7 @@
     "tweet_id": "1359980756836044800",
     "url": "https://twitter.com/SimpsonsOps/status/1359980756836044800",
     "posted_at": "2021-02-11T21:40:54.307Z",
-    "text": "@rothgar Well aren",
+    "text": "@rothgar Well aren't I a stupid moron with an ugly face and a big butt and my butt smells and I like to kiss my own butt 😔",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20210211214133/https://twitter.com/SimpsonsOps/status/1359980756836044800",
     "reply_to": {
@@ -11093,17 +11158,18 @@
     "tweet_id": "1360019726722715655",
     "url": "https://twitter.com/SimpsonsOps/status/1360019726722715655",
     "posted_at": "2021-02-12T00:15:45.452Z",
-    "text": "Get in loser, we",
+    "text": "Get in loser, we're going meme-ing https://t.co/gMt8X6NNta",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20210212001611/https://twitter.com/SimpsonsOps/status/1360019726722715655",
     "has_video": true,
-    "video": "PBijyOvzDMycT1rY.mp4"
+    "video": "PBijyOvzDMycT1rY.mp4",
+    "likes": 236
   },
   {
     "tweet_id": "1360020052800458752",
     "url": "https://twitter.com/SimpsonsOps/status/1360020052800458752",
     "posted_at": "2021-02-12T00:17:03.195Z",
-    "text": "We",
+    "text": "We're back, bitches!",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20210212001727/https://twitter.com/SimpsonsOps/status/1360020052800458752",
     "reply_to": {
@@ -11112,7 +11178,8 @@
       "posted_at": "2021-02-12T00:15:45.452Z",
       "text": "Get in loser, we",
       "snapshot_url": "https://web.archive.org/web/20210212001611/https://twitter.com/SimpsonsOps/status/1360019726722715655"
-    }
+    },
+    "likes": 39
   },
   {
     "tweet_id": "1360021029251289089",
@@ -11126,13 +11193,14 @@
       "username": "SimpsonsOps",
       "text": null,
       "snapshot_url": null
-    }
+    },
+    "likes": 1
   },
   {
     "tweet_id": "1360021508697956353",
     "url": "https://twitter.com/SimpsonsOps/status/1360021508697956353",
     "posted_at": "2021-02-12T00:22:50.308Z",
-    "text": "@cloudbart Wasn",
+    "text": "@cloudbart Wasn't even any good tech Twitter drama this week",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20210212002305/https://twitter.com/SimpsonsOps/status/1360021508697956353",
     "reply_to": {
@@ -11146,7 +11214,7 @@
     "tweet_id": "1360023691111714820",
     "url": "https://twitter.com/SimpsonsOps/status/1360023691111714820",
     "posted_at": "2021-02-12T00:31:30.636Z",
-    "text": "Austin writes a very good book.\n\nNot only is he smart and handsome, but he",
+    "text": "Austin writes a very good book.\n\nNot only is he smart and handsome, but he's also literate. https://t.co/5riN9nwdxQ",
     "media": [
       "Et_EWc5XEAAPj3c.jpg"
     ],
@@ -11156,7 +11224,7 @@
     "tweet_id": "1360027886837587968",
     "url": "https://twitter.com/SimpsonsOps/status/1360027886837587968",
     "posted_at": "2021-02-12T00:48:10.975Z",
-    "text": "@bphogan You",
+    "text": "@bphogan You're the best one ♥️",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20210212004841/https://twitter.com/SimpsonsOps/status/1360027886837587968",
     "reply_to": {
@@ -11170,7 +11238,7 @@
     "tweet_id": "1360043898240786435",
     "url": "https://twitter.com/SimpsonsOps/status/1360043898240786435",
     "posted_at": "2021-02-12T01:51:48.391Z",
-    "text": "At 20k followers we",
+    "text": "At 20k followers we'll let your favorite Twitter shitposters take over the account for a week.\n\nGot anyone in mind?",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20210212015213/https://twitter.com/SimpsonsOps/status/1360043898240786435"
   },
@@ -11178,7 +11246,7 @@
     "tweet_id": "1360044157427806209",
     "url": "https://twitter.com/SimpsonsOps/status/1360044157427806209",
     "posted_at": "2021-02-12T01:52:50.186Z",
-    "text": "@vtimd @QuinnyPig I was going to say @vtimd but yeah if you want to give it away to Corey that",
+    "text": "@vtimd @QuinnyPig I was going to say @vtimd but yeah if you want to give it away to Corey that's up to you",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20210212015307/https://twitter.com/SimpsonsOps/status/1360044157427806209",
     "reply_to": {
@@ -11220,7 +11288,7 @@
     "tweet_id": "1360044941271961605",
     "url": "https://twitter.com/SimpsonsOps/status/1360044941271961605",
     "posted_at": "2021-02-12T01:55:57.069Z",
-    "text": "@developerjack @QuinnyPig @slace I",
+    "text": "@developerjack @QuinnyPig @slace I'm worried @slace might do too good of a job",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20210212015609/https://twitter.com/SimpsonsOps/status/1360044941271961605",
     "reply_to": {
@@ -11234,7 +11302,7 @@
     "tweet_id": "1360045006921162753",
     "url": "https://twitter.com/SimpsonsOps/status/1360045006921162753",
     "posted_at": "2021-02-12T01:56:12.721Z",
-    "text": "@IanColdwater @renehr9102 You don",
+    "text": "@IanColdwater @renehr9102 You don't have to ask me twice",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20210212015621/https://twitter.com/SimpsonsOps/status/1360045006921162753",
     "reply_to": {
@@ -11248,7 +11316,7 @@
     "tweet_id": "1360045369183195137",
     "url": "https://twitter.com/SimpsonsOps/status/1360045369183195137",
     "posted_at": "2021-02-12T01:57:39.091Z",
-    "text": "@da_667 @farewell_ladmin @MisterGlass I",
+    "text": "@da_667 @farewell_ladmin @MisterGlass I'm honoured you think I'm smart 🤗",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20210212015757/https://twitter.com/SimpsonsOps/status/1360045369183195137",
     "reply_to": {
@@ -11262,7 +11330,7 @@
     "tweet_id": "1360045848248258563",
     "url": "https://twitter.com/SimpsonsOps/status/1360045848248258563",
     "posted_at": "2021-02-12T01:59:33.309Z",
-    "text": "@ahidalgosre @rikedski @_jsimonovski Burn rate on your friend budget isn",
+    "text": "@ahidalgosre @rikedski @_jsimonovski Burn rate on your friend budget isn't looking good",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20210212015952/https://twitter.com/SimpsonsOps/status/1360045848248258563",
     "reply_to": {
@@ -11312,7 +11380,7 @@
     "tweet_id": "1360046662618546176",
     "url": "https://twitter.com/SimpsonsOps/status/1360046662618546176",
     "posted_at": "2021-02-12T02:02:47.470Z",
-    "text": "@RobotTaylor @ReinH I",
+    "text": "@RobotTaylor @ReinH I'd be honoured 😍",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20210212020309/https://twitter.com/SimpsonsOps/status/1360046662618546176",
     "reply_to": {
@@ -11384,7 +11452,7 @@
     "tweet_id": "1360049405068341250",
     "url": "https://twitter.com/SimpsonsOps/status/1360049405068341250",
     "posted_at": "2021-02-12T02:13:41.321Z",
-    "text": "@mattstratton @pczarkowski I",
+    "text": "@mattstratton @pczarkowski I'm not opposed to the idea of SimpsonsOps becoming a foodporn account",
     "media": [
       "Et_df_dXUAIQbbN.jpg"
     ],
@@ -11526,7 +11594,7 @@
     "tweet_id": "1360081249839116290",
     "url": "https://twitter.com/SimpsonsOps/status/1360081249839116290",
     "posted_at": "2021-02-12T04:20:13.706Z",
-    "text": "@film_girl @QuinnyPig @killedbygoogle We",
+    "text": "@film_girl @QuinnyPig @killedbygoogle We've no doubt fucked up in the past, but we really appreciate it when we're kept accountable.\n\nAt the end of the day, this account is here to hopefully make people laugh and if we're pissing people off we've failed.",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20210212042034/https://twitter.com/SimpsonsOps/status/1360081249839116290",
     "reply_to": {
@@ -11540,7 +11608,7 @@
     "tweet_id": "1360082019070267398",
     "url": "https://twitter.com/SimpsonsOps/status/1360082019070267398",
     "posted_at": "2021-02-12T04:23:17.105Z",
-    "text": "@film_girl @killedbygoogle @QuinnyPig You",
+    "text": "@film_girl @killedbygoogle @QuinnyPig You're all lovely people ❤️",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20210212042328/https://twitter.com/SimpsonsOps/status/1360082019070267398",
     "reply_to": {
@@ -11678,7 +11746,7 @@
     "tweet_id": "1360180009776807936",
     "url": "https://twitter.com/SimpsonsOps/status/1360180009776807936",
     "posted_at": "2021-02-12T10:52:39.910Z",
-    "text": "I",
+    "text": "I'm keen to get organise account takeovers with a few of the shitposters mentioned previously if they're interested (including you @slace)\n\nThanks for being awesome, everyone ❤️ https://t.co/t7okeKfGXc",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20210212105258/https://twitter.com/SimpsonsOps/status/1360180009776807936"
   },
@@ -11828,7 +11896,7 @@
     "tweet_id": "1360507387308740609",
     "url": "https://twitter.com/SimpsonsOps/status/1360507387308740609",
     "posted_at": "2021-02-13T08:33:32.796Z",
-    "text": "@landownunda Apparently if you ship your logs in a trace it",
+    "text": "@landownunda Apparently if you ship your logs in a trace it's called observability",
     "media": [
       "EuF7hY4VgAA7U_2.jpg"
     ],
@@ -11844,7 +11912,7 @@
     "tweet_id": "1360802677391691780",
     "url": "https://twitter.com/SimpsonsOps/status/1360802677391691780",
     "posted_at": "2021-02-14T04:06:55.438Z",
-    "text": "@annerajb I believe that at any point in time there is a >= 13.5% chance that you",
+    "text": "@annerajb I believe that at any point in time there is a >= 13.5% chance that you're experiencing a DNS outage",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20210214040714/https://twitter.com/SimpsonsOps/status/1360802677391691780",
     "reply_to": {
@@ -11852,13 +11920,14 @@
       "username": "SimpsonsOps",
       "text": null,
       "snapshot_url": null
-    }
+    },
+    "likes": 0
   },
   {
     "tweet_id": "1360817519167115266",
     "url": "https://twitter.com/SimpsonsOps/status/1360817519167115266",
     "posted_at": "2021-02-14T05:05:53.993Z",
-    "text": "Happy Valentine",
+    "text": "Happy Valentine's Day 🤗♥️ if you don't have one I'll be your Valentine https://t.co/eFqGpN3iMS",
     "media": [
       "EuI8-NpVkAEvHbr.jpg",
       "EuI8-NnVoAA1J6e.jpg"
@@ -11869,7 +11938,7 @@
     "tweet_id": "1360818866671079426",
     "url": "https://twitter.com/SimpsonsOps/status/1360818866671079426",
     "posted_at": "2021-02-14T05:11:15.263Z",
-    "text": "Can we start a thread of disgustingly beautiful DevOps Valentine",
+    "text": "Can we start a thread of disgustingly beautiful DevOps Valentine's card phrases, I'll start:\n\n\"Let's kubectl 🤗\"",
     "media": [
       "EuI8-NpVkAEvHbr.jpg",
       "EuI8-NnVoAA1J6e.jpg"
@@ -11939,7 +12008,7 @@
     "tweet_id": "1361479874246938624",
     "url": "https://twitter.com/SimpsonsOps/status/1361479874246938624",
     "posted_at": "2021-02-16T00:57:51.750Z",
-    "text": "Serious question: do any of y",
+    "text": "Serious question: do any of y'all purposefully bar prod access to prioritise CI usage?\nAsking for a friend.",
     "media": [
       "EuTyuY3VoAAvMuF.jpg"
     ],
@@ -11979,7 +12048,7 @@
     "tweet_id": "1361481988759166976",
     "url": "https://twitter.com/SimpsonsOps/status/1361481988759166976",
     "posted_at": "2021-02-16T01:06:15.889Z",
-    "text": "@DJCrabhat It",
+    "text": "@DJCrabhat It's only a matter of time until you need to write some kind of repo to team binding and assume a locked down role based on that 😔",
     "media": [
       "EuTyuY3VoAAvMuF.jpg"
     ],
@@ -12027,7 +12096,7 @@
     "tweet_id": "1361594145316343808",
     "url": "https://twitter.com/SimpsonsOps/status/1361594145316343808",
     "posted_at": "2021-02-16T08:31:56.096Z",
-    "text": "@killedbygoogle You",
+    "text": "@killedbygoogle You'll kill it 🔥🔥🔥\n\n(Not in the Google sense tho)",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20210216083211/https://twitter.com/SimpsonsOps/status/1361594145316343808",
     "reply_to": {
@@ -12055,7 +12124,7 @@
     "tweet_id": "1361834382646857733",
     "url": "https://twitter.com/SimpsonsOps/status/1361834382646857733",
     "posted_at": "2021-02-17T00:26:33.139Z",
-    "text": "Debugging prod when you have NFI what you",
+    "text": "Debugging prod when you have NFI what you're doing https://t.co/K119Bf3Zrw",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20210217002646/https://twitter.com/SimpsonsOps/status/1361834382646857733",
     "has_video": true,
@@ -12092,7 +12161,7 @@
     "tweet_id": "1362212383469395970",
     "url": "https://twitter.com/SimpsonsOps/status/1362212383469395970",
     "posted_at": "2021-02-18T01:28:35.558Z",
-    "text": "@PrincessPeachey This one",
+    "text": "@PrincessPeachey This one's for @killedbygoogle \n\nI assume we can't add news sites on Facebook in Australia to the list",
     "media": [
       "Eud2ChpUYAQmrvE.jpg"
     ],
@@ -12186,17 +12255,18 @@
     "tweet_id": "1364015329723097091",
     "url": "https://twitter.com/SimpsonsOps/status/1364015329723097091",
     "posted_at": "2021-02-23T00:52:51.442Z",
-    "text": "DNS @ your infra: aww that",
+    "text": "DNS @ your infra: aww that's cute.",
     "media": [
       "Eu30toBUYAQ9-7v.jpg"
     ],
-    "snapshot_url": "https://web.archive.org/web/20210223005302/https://twitter.com/SimpsonsOps/status/1364015329723097091"
+    "snapshot_url": "https://web.archive.org/web/20210223005302/https://twitter.com/SimpsonsOps/status/1364015329723097091",
+    "likes": 1132
   },
   {
     "tweet_id": "1364341669621952514",
     "url": "https://twitter.com/SimpsonsOps/status/1364341669621952514",
     "posted_at": "2021-02-23T22:29:36.937Z",
-    "text": "@elchefe \"what",
+    "text": "@elchefe \"what'd you say about my cluster?\" vibes",
     "media": [
       "Eu8IQAXXUAYpU2E.jpg"
     ],
@@ -12222,17 +12292,18 @@
     "tweet_id": "1364744699676819459",
     "url": "https://twitter.com/SimpsonsOps/status/1364744699676819459",
     "posted_at": "2021-02-25T01:11:06.790Z",
-    "text": "When someone runs\n\nhistory\n\nOn a machine I recently SSH",
+    "text": "When someone runs\n\nhistory\n\nOn a machine I recently SSH'd into https://t.co/RXzDvz6eCM",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20210225011120/https://twitter.com/SimpsonsOps/status/1364744699676819459",
     "has_video": true,
-    "video": "EvCMC5SUcAA-iHW.mp4"
+    "video": "EvCMC5SUcAA-iHW.mp4",
+    "likes": 398
   },
   {
     "tweet_id": "1364744702793191426",
     "url": "https://twitter.com/SimpsonsOps/status/1364744702793191426",
     "posted_at": "2021-02-25T01:11:07.533Z",
-    "text": "echo \"pls don",
+    "text": "echo \"pls don't judge me\"",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20210225011119/https://twitter.com/SimpsonsOps/status/1364744702793191426",
     "reply_to": {
@@ -12269,7 +12340,8 @@
       "username": "SimpsonsOps",
       "text": null,
       "snapshot_url": null
-    }
+    },
+    "likes": 3
   },
   {
     "tweet_id": "1364881856382918658",
@@ -12289,7 +12361,7 @@
     "tweet_id": "1365090138947153922",
     "url": "https://twitter.com/SimpsonsOps/status/1365090138947153922",
     "posted_at": "2021-02-26T00:03:45.930Z",
-    "text": "Can",
+    "text": "Can't wait to paywall our memes 🙄 https://t.co/hvEUb8sKDI",
     "media": [
       "EvF4_EPWgAMpqgM.jpg"
     ],
@@ -12368,7 +12440,7 @@
     "tweet_id": "1365093200638058499",
     "url": "https://twitter.com/SimpsonsOps/status/1365093200638058499",
     "posted_at": "2021-02-26T00:15:55.894Z",
-    "text": "Subscribe to my OnlyFans if you",
+    "text": "Subscribe to my OnlyFans if you'd like to see me SSH into production nodes and do dirty things. https://t.co/fOs8gsTQBF",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20210226001626/https://twitter.com/SimpsonsOps/status/1365093200638058499"
   },
@@ -12376,7 +12448,7 @@
     "tweet_id": "1365093607485501442",
     "url": "https://twitter.com/SimpsonsOps/status/1365093607485501442",
     "posted_at": "2021-02-26T00:17:32.894Z",
-    "text": "Watch me rimraff * on this node. That",
+    "text": "Watch me rimraff * on this node. That's NSFW, right? Props to @Dixie3Flatline for teaching us the correct pronunciation",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20210226001750/https://twitter.com/SimpsonsOps/status/1365093607485501442",
     "reply_to": {
@@ -12405,7 +12477,7 @@
     "tweet_id": "1365094232424255488",
     "url": "https://twitter.com/SimpsonsOps/status/1365094232424255488",
     "posted_at": "2021-02-26T00:20:01.891Z",
-    "text": "@vtimd I",
+    "text": "@vtimd I'll choose to think that you're excited about this development",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20210226002031/https://twitter.com/SimpsonsOps/status/1365094232424255488",
     "reply_to": {
@@ -12489,7 +12561,7 @@
     "tweet_id": "1365138397505851393",
     "url": "https://twitter.com/SimpsonsOps/status/1365138397505851393",
     "posted_at": "2021-02-26T03:15:31.667Z",
-    "text": "@hkrob You",
+    "text": "@hkrob You're naughty",
     "media": [
       "EvHKR5DUYAAuLqv.png"
     ],
@@ -12505,7 +12577,7 @@
     "tweet_id": "1365434398368092160",
     "url": "https://twitter.com/SimpsonsOps/status/1365434398368092160",
     "posted_at": "2021-02-26T22:51:43.772Z",
-    "text": "@petermmccool There",
+    "text": "@petermmccool There's a line Peter smh",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20210226225151/https://twitter.com/SimpsonsOps/status/1365434398368092160",
     "reply_to": {
@@ -12626,7 +12698,7 @@
     "tweet_id": "1366896897198325769",
     "url": "https://twitter.com/SimpsonsOps/status/1366896897198325769",
     "posted_at": "2021-03-02T23:43:10.665Z",
-    "text": "@mattstratton @pczarkowski They hate us cause they ain",
+    "text": "@mattstratton @pczarkowski They hate us cause they ain't us",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20210302234601/https://twitter.com/SimpsonsOps/status/1366896897198325769",
     "reply_to": {
@@ -12888,7 +12960,7 @@
     "tweet_id": "1369084428434120705",
     "url": "https://twitter.com/SimpsonsOps/status/1369084428434120705",
     "posted_at": "2021-03-09T00:35:38.754Z",
-    "text": "@vaficionado I don",
+    "text": "@vaficionado I don't even wear socks anymore 😞",
     "media": [
       "Ev_0CvIVkAAdrvs.jpg"
     ],
@@ -13012,7 +13084,7 @@
     "tweet_id": "1369090985850937348",
     "url": "https://twitter.com/SimpsonsOps/status/1369090985850937348",
     "posted_at": "2021-03-09T01:01:42.164Z",
-    "text": "I",
+    "text": "I'd like to see @IAmJerdog and @mattstratton do DevOps Party Games live 🥺",
     "media": [
       "Ev_0CvIVkAAdrvs.jpg"
     ],
@@ -13077,7 +13149,7 @@
     "tweet_id": "1369137782610792450",
     "url": "https://twitter.com/SimpsonsOps/status/1369137782610792450",
     "posted_at": "2021-03-09T04:07:39.381Z",
-    "text": "@bkbooth11 Nah I",
+    "text": "@bkbooth11 Nah I'll just unfollow you if I need to make room",
     "media": [
       "EwAd3ZsVIAEE80E.png"
     ],
@@ -13139,7 +13211,7 @@
     "tweet_id": "1369439675786661899",
     "url": "https://twitter.com/SimpsonsOps/status/1369439675786661899",
     "posted_at": "2021-03-10T00:07:16.323Z",
-    "text": "It",
+    "text": "It's me, your friendly neighbourhood shitposter reminding you to figure out how much work you've got left to do this quarter 😰",
     "media": [
       "EwE5jB3XYActZLw.jpg"
     ],
@@ -13209,7 +13281,7 @@
     "tweet_id": "1369553197690327041",
     "url": "https://twitter.com/SimpsonsOps/status/1369553197690327041",
     "posted_at": "2021-03-10T07:38:22.054Z",
-    "text": "@olesovhcom I",
+    "text": "@olesovhcom I'm glad everyone is safe ♥️",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20210310073842/https://twitter.com/SimpsonsOps/status/1369553197690327041",
     "reply_to": {
@@ -13261,7 +13333,7 @@
     "tweet_id": "1370125457228582915",
     "url": "https://twitter.com/SimpsonsOps/status/1370125457228582915",
     "posted_at": "2021-03-11T21:32:19.360Z",
-    "text": "My favourite and most wholesome conf is coming back! 🥳\nYou probably have an awesome talk you",
+    "text": "My favourite and most wholesome conf is coming back! 🥳\nYou probably have an awesome talk you've been planning, and you should definitely submit it! https://t.co/OrhGJqXaNA",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20210311213230/https://twitter.com/SimpsonsOps/status/1370125457228582915"
   },
@@ -13285,7 +13357,7 @@
     "tweet_id": "1370183159187316740",
     "url": "https://twitter.com/SimpsonsOps/status/1370183159187316740",
     "posted_at": "2021-03-12T01:21:36.579Z",
-    "text": "I",
+    "text": "I've got some error budget to use, so you know what that means 🔥",
     "media": [
       "EwPeUZBVIAMydsT.jpg"
     ],
@@ -13313,7 +13385,7 @@
     "tweet_id": "1370479817032757248",
     "url": "https://twitter.com/SimpsonsOps/status/1370479817032757248",
     "posted_at": "2021-03-12T21:00:25.321Z",
-    "text": "@_ediri Had this meme backlogged so I",
+    "text": "@_ediri Had this meme backlogged so I'll just chalk it up to bad timing 👀",
     "media": [
       "EwPeUZBVIAMydsT.jpg"
     ],
@@ -13329,7 +13401,7 @@
     "tweet_id": "1370529953121398785",
     "url": "https://twitter.com/SimpsonsOps/status/1370529953121398785",
     "posted_at": "2021-03-13T00:19:38.696Z",
-    "text": "When that bug is fixed but you didn",
+    "text": "When that bug is fixed but you didn't change anything https://t.co/s6FwbIq7d0",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20210313001956/https://twitter.com/SimpsonsOps/status/1370529953121398785",
     "has_video": true,
@@ -13353,7 +13425,7 @@
     "tweet_id": "1370531881138094085",
     "url": "https://twitter.com/SimpsonsOps/status/1370531881138094085",
     "posted_at": "2021-03-13T00:27:18.371Z",
-    "text": "@catcarbn Can",
+    "text": "@catcarbn Can't relate, definitely not the entire premise of this account https://t.co/xGv9HlkTfK",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20210313002727/https://twitter.com/SimpsonsOps/status/1370531881138094085",
     "has_video": true,
@@ -13369,7 +13441,7 @@
     "tweet_id": "1371257666022961152",
     "url": "https://twitter.com/SimpsonsOps/status/1371257666022961152",
     "posted_at": "2021-03-15T00:31:18.972Z",
-    "text": "*Kube logo breaks down the wall* \"OHHH YEAHHHHHH",
+    "text": "*Kube logo breaks down the wall* \"OHHH YEAHHHHHH\"",
     "media": [
       "Ewevk9gVcAEHPyu.jpg"
     ],
@@ -13413,7 +13485,7 @@
     "tweet_id": "1371636834921418753",
     "url": "https://twitter.com/SimpsonsOps/status/1371636834921418753",
     "posted_at": "2021-03-16T01:37:59.882Z",
-    "text": "We want you to hack this project out in a couple of days, but the project which will win is the one where the team obviously cheated and worked on for months",
+    "text": "\"We want you to hack this project out in a couple of days, but the project which will win is the one where the team obviously cheated and worked on for months\"",
     "media": [
       "EwkHRhtVIBcUwY7.jpg"
     ],
@@ -13483,7 +13555,7 @@
     "tweet_id": "1372351846631677956",
     "url": "https://twitter.com/SimpsonsOps/status/1372351846631677956",
     "posted_at": "2021-03-18T00:59:11.958Z",
-    "text": "Oh no, he doesn",
+    "text": "Oh no, he doesn't know... 😬🕐🕑🕒🕓🕔🕕 https://t.co/oWqGMIcQkC",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20210318005935/https://twitter.com/SimpsonsOps/status/1372351846631677956",
     "has_video": true,
@@ -13507,7 +13579,7 @@
     "tweet_id": "1372713974316212229",
     "url": "https://twitter.com/SimpsonsOps/status/1372713974316212229",
     "posted_at": "2021-03-19T00:58:09.926Z",
-    "text": "Haven",
+    "text": "Haven't seen this tech Twitter plot in a while.",
     "media": [
       "EwzcFNLU8AEbr-A.jpg"
     ],
@@ -13613,7 +13685,7 @@
     "tweet_id": "1374233446747238400",
     "url": "https://twitter.com/SimpsonsOps/status/1374233446747238400",
     "posted_at": "2021-03-23T05:36:00.384Z",
-    "text": "@QuinnyPig The caption feature is very janky, but at least it",
+    "text": "@QuinnyPig The caption feature is very janky, but at least it's there.",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20210323053612/https://twitter.com/SimpsonsOps/status/1374233446747238400",
     "reply_to": {
@@ -13708,7 +13780,7 @@
     "tweet_id": "1374530344351797249",
     "url": "https://twitter.com/SimpsonsOps/status/1374530344351797249",
     "posted_at": "2021-03-24T01:15:46.289Z",
-    "text": "@cloudbart I",
+    "text": "@cloudbart I'd kick your aaS",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20210324011556/https://twitter.com/SimpsonsOps/status/1374530344351797249",
     "reply_to": {
@@ -13734,7 +13806,8 @@
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20210324084848/https://twitter.com/SimpsonsOps/status/1374644298239516673",
     "has_video": true,
-    "video": "ExO3sg1VoAEohFf.mp4"
+    "video": "ExO3sg1VoAEohFf.mp4",
+    "likes": 17
   },
   {
     "tweet_id": "1374733165642752004",
@@ -13750,7 +13823,8 @@
       "username": "SimpsonsOps",
       "text": null,
       "snapshot_url": null
-    }
+    },
+    "likes": 0
   },
   {
     "tweet_id": "1374845884995751936",
@@ -13758,7 +13832,8 @@
     "posted_at": "2021-03-24T22:09:37.041Z",
     "text": "Stan Tim Every Monday https://t.co/ygb1JvIKWy",
     "media": [],
-    "snapshot_url": "https://web.archive.org/web/20210324221000/https://twitter.com/SimpsonsOps/status/1374845884995751936"
+    "snapshot_url": "https://web.archive.org/web/20210324221000/https://twitter.com/SimpsonsOps/status/1374845884995751936",
+    "likes": 2
   },
   {
     "tweet_id": "1374906263440515075",
@@ -13768,17 +13843,19 @@
     "media": [
       "ExSlE_gVgAcu1_O.jpg"
     ],
-    "snapshot_url": "https://web.archive.org/web/20210325020942/https://twitter.com/SimpsonsOps/status/1374906263440515075"
+    "snapshot_url": "https://web.archive.org/web/20210325020942/https://twitter.com/SimpsonsOps/status/1374906263440515075",
+    "likes": 314
   },
   {
     "tweet_id": "1375229206645272578",
     "url": "https://twitter.com/SimpsonsOps/status/1375229206645272578",
     "posted_at": "2021-03-25T23:32:48.044Z",
-    "text": "The mainstream media doesn",
+    "text": "The mainstream media doesn't want you to know that it's Knightboat https://t.co/KgvvFhgqED",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20210326001544/https://twitter.com/SimpsonsOps/status/1375229206645272578",
     "has_video": true,
-    "video": "ezuQERpvVhz5RSrg.mp4"
+    "video": "ezuQERpvVhz5RSrg.mp4",
+    "likes": 60
   },
   {
     "tweet_id": "1375272547135053824",
@@ -13794,7 +13871,8 @@
       "username": "vtimd",
       "text": null,
       "snapshot_url": null
-    }
+    },
+    "likes": 0
   },
   {
     "tweet_id": "1375272732640747521",
@@ -13808,7 +13886,8 @@
       "username": "ellenkorbes",
       "text": null,
       "snapshot_url": null
-    }
+    },
+    "likes": 3
   },
   {
     "tweet_id": "1375273004297412608",
@@ -13822,7 +13901,8 @@
       "username": "ellenkorbes",
       "text": null,
       "snapshot_url": null
-    }
+    },
+    "likes": 1
   },
   {
     "tweet_id": "1375611753162174467",
@@ -13838,7 +13918,7 @@
     "tweet_id": "1375969711482019841",
     "url": "https://twitter.com/SimpsonsOps/status/1375969711482019841",
     "posted_at": "2021-03-28T00:35:18.155Z",
-    "text": "ⁿᵒ ʸᵒᵘ ʷᵒⁿ",
+    "text": "ⁿᵒ ʸᵒᵘ ʷᵒⁿ'ᵗ...",
     "media": [
       "ExhtJp9U4AAgc9p.jpg"
     ],
@@ -13888,7 +13968,7 @@
     "tweet_id": "1376344838539374592",
     "url": "https://twitter.com/SimpsonsOps/status/1376344838539374592",
     "posted_at": "2021-03-29T01:25:55.415Z",
-    "text": "Which buzzword annoys you the most?\nI",
+    "text": "Which buzzword annoys you the most?\nI'll start: NoOps",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20210329012615/https://twitter.com/SimpsonsOps/status/1376344838539374592"
   },
@@ -13971,7 +14051,8 @@
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20210329234153/https://twitter.com/SimpsonsOps/status/1376680916966248451",
     "has_video": true,
-    "video": "-SyGYg9-mvsOFl9S.mp4"
+    "video": "-SyGYg9-mvsOFl9S.mp4",
+    "likes": 447
   },
   {
     "tweet_id": "1376685288701841411",
@@ -13993,7 +14074,7 @@
     "tweet_id": "1376733207014506496",
     "url": "https://twitter.com/SimpsonsOps/status/1376733207014506496",
     "posted_at": "2021-03-30T03:09:09.675Z",
-    "text": "@harrisj you",
+    "text": "@harrisj you're welcome",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20210330030932/https://twitter.com/SimpsonsOps/status/1376733207014506496",
     "reply_to": {
@@ -14015,7 +14096,8 @@
       "username": "SimpsonsOps",
       "text": null,
       "snapshot_url": null
-    }
+    },
+    "likes": 1
   },
   {
     "tweet_id": "1376735574350917633",
@@ -14035,7 +14117,7 @@
     "tweet_id": "1376736869971423235",
     "url": "https://twitter.com/SimpsonsOps/status/1376736869971423235",
     "posted_at": "2021-03-30T03:23:42.992Z",
-    "text": "@QuinnyPig I can",
+    "text": "@QuinnyPig I can't believe you've done this",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20210330032356/https://twitter.com/SimpsonsOps/status/1376736869971423235",
     "reply_to": {
@@ -14103,7 +14185,7 @@
     "tweet_id": "1377401796159672321",
     "url": "https://twitter.com/SimpsonsOps/status/1377401796159672321",
     "posted_at": "2021-03-31T23:25:53.749Z",
-    "text": "We thought about it long and hard, and decided the world is too surreal to bother posting any April Fool",
+    "text": "We thought about it long and hard, and decided the world is too surreal to bother posting any April Fool's content today.\n\nUnless?\n\nNo no, a @IanColdwater and @Dixie3Flatline stan account would never work.\n\nUnless? 🤔",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20210331232626/https://twitter.com/SimpsonsOps/status/1377401796159672321"
   },
@@ -14156,7 +14238,7 @@
     "tweet_id": "1377412055024562176",
     "url": "https://twitter.com/SimpsonsOps/status/1377412055024562176",
     "posted_at": "2021-04-01T00:06:39.653Z",
-    "text": "@richburroughs @IanColdwater @Dixie3Flatline That",
+    "text": "@richburroughs @IanColdwater @Dixie3Flatline That's the best!",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20210401000711/https://twitter.com/SimpsonsOps/status/1377412055024562176",
     "reply_to": {
@@ -14279,7 +14361,7 @@
     "tweet_id": "1377415649576673284",
     "url": "https://twitter.com/SimpsonsOps/status/1377415649576673284",
     "posted_at": "2021-04-01T00:20:56.661Z",
-    "text": "@bdimcheff @IanColdwater @Dixie3Flatline IT",
+    "text": "@bdimcheff @IanColdwater @Dixie3Flatline IT'S CHANGING",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20210401002122/https://twitter.com/SimpsonsOps/status/1377415649576673284",
     "reply_to": {
@@ -14345,7 +14427,7 @@
     "tweet_id": "1377421037671837696",
     "url": "https://twitter.com/SimpsonsOps/status/1377421037671837696",
     "posted_at": "2021-04-01T00:42:21.283Z",
-    "text": "@JPinTech @IanColdwater @Dixie3Flatline That is the most satisfying Conair gif I",
+    "text": "@JPinTech @IanColdwater @Dixie3Flatline That is the most satisfying Conair gif I've ever seen",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20210401004225/https://twitter.com/SimpsonsOps/status/1377421037671837696",
     "reply_to": {
@@ -14359,7 +14441,7 @@
     "tweet_id": "1377422012289708035",
     "url": "https://twitter.com/SimpsonsOps/status/1377422012289708035",
     "posted_at": "2021-04-01T00:46:13.650Z",
-    "text": "@MonkeySalad You make a very good point, fixed it for y",
+    "text": "@MonkeySalad You make a very good point, fixed it for y'all",
     "media": [
       "Ex2WBTFVIAMYIPU.jpg",
       "Ex2TrCUVoAAtoqP.jpg"
@@ -14392,7 +14474,7 @@
     "tweet_id": "1377762826522034176",
     "url": "https://twitter.com/SimpsonsOps/status/1377762826522034176",
     "posted_at": "2021-04-01T23:20:30.095Z",
-    "text": "@sake_92 Nah mate, just having some fun for April Fool",
+    "text": "@sake_92 Nah mate, just having some fun for April Fool's 😄",
     "media": [
       "Ex5vGKXWQAIJZfz.jpg"
     ],
@@ -14418,7 +14500,7 @@
     "tweet_id": "1377771816148631555",
     "url": "https://twitter.com/SimpsonsOps/status/1377771816148631555",
     "posted_at": "2021-04-01T23:56:13.389Z",
-    "text": "@IanColdwater That",
+    "text": "@IanColdwater That's some bullshit.",
     "media": [
       "Ex6dhQEUYAEQW_Z.jpg"
     ],
@@ -14444,7 +14526,7 @@
     "tweet_id": "1377817998023528451",
     "url": "https://twitter.com/SimpsonsOps/status/1377817998023528451",
     "posted_at": "2021-04-02T02:59:44.006Z",
-    "text": "Psh,\n\"Action\": \"*\",\n\"Resource\": \"*",
+    "text": "Psh,\n\"Action\": \"*\",\n\"Resource\": \"*\"",
     "media": [
       "Ex7-KiYVIAEIGQj.jpg"
     ],
@@ -14492,7 +14574,7 @@
     "tweet_id": "1378204963201982465",
     "url": "https://twitter.com/SimpsonsOps/status/1378204963201982465",
     "posted_at": "2021-04-03T04:37:23.694Z",
-    "text": "Saturday: I",
+    "text": "Saturday: I'm really close to finishing this, I'll just wrap it up real quick\n\nMonday: Alright just these last 3 bugs and I'll be done 🤡 https://t.co/iLsRxAvxDT",
     "media": [
       "EyBZAmOXIAIFWyC.jpg"
     ],
@@ -14502,7 +14584,7 @@
     "tweet_id": "1379244296289742848",
     "url": "https://twitter.com/SimpsonsOps/status/1379244296289742848",
     "posted_at": "2021-04-06T01:27:20.012Z",
-    "text": "Oracle",
+    "text": "Oracle's lawyers are getting @killedbygoogle",
     "media": [
       "EyQPYI0UcAAjwzh.jpg"
     ],
@@ -14512,7 +14594,7 @@
     "tweet_id": "1379246064331411458",
     "url": "https://twitter.com/SimpsonsOps/status/1379246064331411458",
     "posted_at": "2021-04-06T01:34:21.546Z",
-    "text": "@neil_h_watson @killedbygoogle You",
+    "text": "@neil_h_watson @killedbygoogle You're right, I shouldn't have done him dirty like this 😭",
     "media": [
       "EyQPYI0UcAAjwzh.jpg"
     ],
@@ -14528,7 +14610,7 @@
     "tweet_id": "1379294557464981509",
     "url": "https://twitter.com/SimpsonsOps/status/1379294557464981509",
     "posted_at": "2021-04-06T04:47:03.210Z",
-    "text": "It",
+    "text": "It's happening!",
     "media": [
       "EyQ9FbIVoAMqnQK.png"
     ],
@@ -14538,7 +14620,7 @@
     "tweet_id": "1379295318160838656",
     "url": "https://twitter.com/SimpsonsOps/status/1379295318160838656",
     "posted_at": "2021-04-06T04:50:04.574Z",
-    "text": "@killedbygoogle If this account actually got verified I",
+    "text": "@killedbygoogle If this account actually got verified I'd just sell it to @IanColdwater",
     "media": [
       "EyQ9FbIVoAMqnQK.png"
     ],
@@ -14687,7 +14769,7 @@
     "tweet_id": "1381028286948499461",
     "url": "https://twitter.com/SimpsonsOps/status/1381028286948499461",
     "posted_at": "2021-04-10T23:36:16.530Z",
-    "text": "hey isn",
+    "text": "\"hey isn't this ingredient super toxic? How do I prepare it to be safe for eating?\"\n\n\"edit - nvm I found the solution\" https://t.co/eWmZY9qdZy",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20210410233631/https://twitter.com/SimpsonsOps/status/1381028286948499461"
   },
@@ -14715,7 +14797,7 @@
     "tweet_id": "1381734103184146432",
     "url": "https://twitter.com/SimpsonsOps/status/1381734103184146432",
     "posted_at": "2021-04-12T22:20:56.234Z",
-    "text": "That wasn",
+    "text": "That wasn't supposed to happen. https://t.co/8wTCQzoOJJ",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20210412222149/https://twitter.com/SimpsonsOps/status/1381734103184146432"
   },
@@ -14723,7 +14805,7 @@
     "tweet_id": "1381793291125977088",
     "url": "https://twitter.com/SimpsonsOps/status/1381793291125977088",
     "posted_at": "2021-04-13T02:16:07.739Z",
-    "text": "@IanColdwater that",
+    "text": "@IanColdwater that's a fuckin' galaxy brain take",
     "media": [
       "Ey0doMQVoAIYWpL.png",
       "EyyhoxBVoAIWBPZ.jpg"
@@ -14740,7 +14822,7 @@
     "tweet_id": "1384310949742407682",
     "url": "https://twitter.com/SimpsonsOps/status/1384310949742407682",
     "posted_at": "2021-04-20T01:00:24.329Z",
-    "text": "I",
+    "text": "I'm pronouncing kubernetes as cube-er-netes from now on kthx",
     "media": [
       "EzYPeBpVcAEVMps.jpg"
     ],
@@ -14750,7 +14832,7 @@
     "tweet_id": "1384311649201315842",
     "url": "https://twitter.com/SimpsonsOps/status/1384311649201315842",
     "posted_at": "2021-04-20T01:03:11.093Z",
-    "text": "@killedbygoogle \"key-you-boourns-etes",
+    "text": "@killedbygoogle \"key-you-boourns-etes\"",
     "media": [
       "EzYPeBpVcAEVMps.jpg"
     ],
@@ -14766,7 +14848,7 @@
     "tweet_id": "1384312154719850497",
     "url": "https://twitter.com/SimpsonsOps/status/1384312154719850497",
     "posted_at": "2021-04-20T01:05:11.618Z",
-    "text": "@killedbygoogle @IanColdwater That",
+    "text": "@killedbygoogle @IanColdwater That's the unverified pronunciation 😏",
     "media": [
       "EzYPeBpVcAEVMps.jpg"
     ],
@@ -14798,7 +14880,7 @@
     "tweet_id": "1384348310484385794",
     "url": "https://twitter.com/SimpsonsOps/status/1384348310484385794",
     "posted_at": "2021-04-20T03:28:51.824Z",
-    "text": "Okay, @killedbygoogle. Read me a bedtime story\" https://t.co/dhX92ntqth",
+    "text": "\"Okay, @killedbygoogle. Read me a bedtime story\" https://t.co/dhX92ntqth",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20210420032946/https://twitter.com/SimpsonsOps/status/1384348310484385794"
   },
@@ -14866,13 +14948,14 @@
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20210422013441/https://twitter.com/SimpsonsOps/status/1385044311075655681",
     "video": "cwUXX0_vS5Lx3gy7.mp4",
-    "has_video": true
+    "has_video": true,
+    "likes": 3799
   },
   {
     "tweet_id": "1385047802405801984",
     "url": "https://twitter.com/SimpsonsOps/status/1385047802405801984",
     "posted_at": "2021-04-22T01:48:23.694Z",
-    "text": "@davecheney I should",
+    "text": "@davecheney I should've included that. Edits to the video welcome ♥️",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20210422014850/https://twitter.com/SimpsonsOps/status/1385047802405801984",
     "reply_to": {
@@ -14880,7 +14963,8 @@
       "username": "SimpsonsOps",
       "text": null,
       "snapshot_url": null
-    }
+    },
+    "likes": 5
   },
   {
     "tweet_id": "1385050923928481793",
@@ -14894,7 +14978,8 @@
       "username": "SimpsonsOps",
       "text": null,
       "snapshot_url": null
-    }
+    },
+    "likes": 12
   },
   {
     "tweet_id": "1385400308105302018",
@@ -15045,7 +15130,7 @@
     "tweet_id": "1390261740235935745",
     "url": "https://twitter.com/SimpsonsOps/status/1390261740235935745",
     "posted_at": "2021-05-06T11:06:43.343Z",
-    "text": "You",
+    "text": "You're all up for Kubecon anyway.",
     "media": [
       "E0szoE1VgAI1yyd.jpg"
     ],
@@ -15078,7 +15163,7 @@
     "tweet_id": "1390264533864771584",
     "url": "https://twitter.com/SimpsonsOps/status/1390264533864771584",
     "posted_at": "2021-05-06T11:17:49.396Z",
-    "text": "@KaiPMDH It",
+    "text": "@KaiPMDH It's almost bedtime for me 😭",
     "media": [
       "E0szoE1VgAI1yyd.jpg"
     ],
@@ -15098,7 +15183,8 @@
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20210507015800/https://twitter.com/SimpsonsOps/status/1390466229635145729",
     "video": "vTbchvUspjjTcnnt.mp4",
-    "has_video": true
+    "has_video": true,
+    "likes": 62
   },
   {
     "tweet_id": "1390473469029093383",
@@ -15158,13 +15244,14 @@
     "media": [
       "E009-r5VcAY_OJ5.jpg"
     ],
-    "snapshot_url": "https://web.archive.org/web/20210508211021/https://twitter.com/SimpsonsOps/status/1390836018341765122"
+    "snapshot_url": "https://web.archive.org/web/20210508211021/https://twitter.com/SimpsonsOps/status/1390836018341765122",
+    "likes": 1122
   },
   {
     "tweet_id": "1390844489166508032",
     "url": "https://twitter.com/SimpsonsOps/status/1390844489166508032",
     "posted_at": "2021-05-08T01:42:21.515Z",
-    "text": "@buymelunchplz You",
+    "text": "@buymelunchplz You're too kind",
     "media": [
       "E009-r5VcAY_OJ5.jpg"
     ],
@@ -15174,7 +15261,8 @@
       "username": "SimpsonsOps",
       "text": null,
       "snapshot_url": null
-    }
+    },
+    "likes": 0
   },
   {
     "tweet_id": "1390876953553489921",
@@ -15190,7 +15278,8 @@
       "username": "SimpsonsOps",
       "text": null,
       "snapshot_url": null
-    }
+    },
+    "likes": 2
   },
   {
     "tweet_id": "1390885050057596938",
@@ -15207,7 +15296,8 @@
       "username": "davecheney",
       "text": null,
       "snapshot_url": null
-    }
+    },
+    "likes": 3
   },
   {
     "tweet_id": "1390889715935580163",
@@ -15215,17 +15305,19 @@
     "posted_at": "2021-05-08T04:42:04.417Z",
     "text": "Monorepos are great. Change my mind. https://t.co/WyAXJQefI6",
     "media": [],
-    "snapshot_url": "https://web.archive.org/web/20210509001711/https://twitter.com/SimpsonsOps/status/1390889715935580163"
+    "snapshot_url": "https://web.archive.org/web/20210509001711/https://twitter.com/SimpsonsOps/status/1390889715935580163",
+    "likes": 44
   },
   {
     "tweet_id": "1391201286628859906",
     "url": "https://twitter.com/SimpsonsOps/status/1391201286628859906",
     "posted_at": "2021-05-09T01:20:08.659Z",
-    "text": "Name one thing about your job that feels better than sex. \n\nI",
+    "text": "Name one thing about your job that feels better than sex. \n\nI'll start. Finishing your on-call shift. https://t.co/9KJTDvtES3",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20210509012658/https://twitter.com/SimpsonsOps/status/1391201286628859906",
     "video": "dY-wCm1Nj1_APRZt.mp4",
-    "has_video": true
+    "has_video": true,
+    "likes": 41
   },
   {
     "tweet_id": "1391201535074336769",
@@ -15240,7 +15332,8 @@
       "posted_at": "2021-05-09T01:20:08.659Z",
       "text": "Name one thing about your job that feels better than sex. \n\nI",
       "snapshot_url": "https://web.archive.org/web/20210509012658/https://twitter.com/SimpsonsOps/status/1391201286628859906"
-    }
+    },
+    "likes": 23
   },
   {
     "tweet_id": "1391201677068300294",
@@ -15268,13 +15361,14 @@
       "username": "SimpsonsOps",
       "text": null,
       "snapshot_url": null
-    }
+    },
+    "likes": 1
   },
   {
     "tweet_id": "1391202871912271873",
     "url": "https://twitter.com/SimpsonsOps/status/1391202871912271873",
     "posted_at": "2021-05-09T01:26:26.620Z",
-    "text": "@topofthehill Can",
+    "text": "@topofthehill Can't relate",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20210509013535/https://twitter.com/SimpsonsOps/status/1391202871912271873",
     "reply_to": {
@@ -15302,7 +15396,7 @@
     "tweet_id": "1391577927460941824",
     "url": "https://twitter.com/SimpsonsOps/status/1391577927460941824",
     "posted_at": "2021-05-10T02:16:46.831Z",
-    "text": "It",
+    "text": "It's a rollercoaster of emotions 🤧",
     "media": [
       "E0_gv9ZUUAIHMKH.jpg"
     ],
@@ -15312,7 +15406,7 @@
     "tweet_id": "1391585222152523777",
     "url": "https://twitter.com/SimpsonsOps/status/1391585222152523777",
     "posted_at": "2021-05-10T02:45:46.021Z",
-    "text": "@ballpointcarrot It",
+    "text": "@ballpointcarrot It's me today though, so I win (or lose?)",
     "media": [
       "E0_gv9ZUUAIHMKH.jpg"
     ],
@@ -15322,7 +15416,8 @@
       "username": "ballpointcarrot",
       "text": null,
       "snapshot_url": null
-    }
+    },
+    "likes": 1
   },
   {
     "tweet_id": "1391587277193711619",
@@ -15367,7 +15462,8 @@
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20210511020812/https://twitter.com/SimpsonsOps/status/1391930970601779200",
     "video": "dgZ_rHyYMGjjTtGh.mp4",
-    "has_video": true
+    "has_video": true,
+    "likes": 47
   },
   {
     "tweet_id": "1391931111249387520",
@@ -15382,7 +15478,8 @@
       "posted_at": "2021-05-11T01:39:38.875Z",
       "text": "DevRel is just travelling and confs, right? 😛 https://t.co/iZcNIdxQH1",
       "snapshot_url": "https://web.archive.org/web/20210511020812/https://twitter.com/SimpsonsOps/status/1391930970601779200"
-    }
+    },
+    "likes": 7
   },
   {
     "tweet_id": "1391932241337409542",
@@ -15396,7 +15493,8 @@
       "username": "SimpsonsOps",
       "text": null,
       "snapshot_url": null
-    }
+    },
+    "likes": 0
   },
   {
     "tweet_id": "1391933905201074182",
@@ -15470,13 +15568,14 @@
       "username": "davecheney",
       "text": null,
       "snapshot_url": null
-    }
+    },
+    "likes": 12
   },
   {
     "tweet_id": "1392283887087144964",
     "url": "https://twitter.com/SimpsonsOps/status/1392283887087144964",
     "posted_at": "2021-05-12T01:02:00.722Z",
-    "text": "This port-mortem is gonna be bussin",
+    "text": "This port-mortem is gonna be bussin' 🔥",
     "media": [
       "E1JiBi5UYAAbBpV.jpg"
     ],
@@ -15507,7 +15606,8 @@
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20210514232245/https://twitter.com/SimpsonsOps/status/1393345950563803137",
     "video": "w41R7kR90-firyya.mp4",
-    "has_video": true
+    "has_video": true,
+    "likes": 507
   },
   {
     "tweet_id": "1393349365494738945",
@@ -15547,7 +15647,8 @@
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20210524163813/https://twitter.com/SimpsonsOps/status/1396609344486051844",
     "video": "WeNId05VGD2HZZI0.mp4",
-    "has_video": true
+    "has_video": true,
+    "likes": 53
   },
   {
     "tweet_id": "1397379413587623941",
@@ -15607,7 +15708,7 @@
     "tweet_id": "1400585079441608709",
     "url": "https://twitter.com/SimpsonsOps/status/1400585079441608709",
     "posted_at": "2021-06-03T22:47:59.208Z",
-    "text": "@killedbygoogle Kim",
+    "text": "@killedbygoogle Kim's Convenience",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20210603225324/https://twitter.com/SimpsonsOps/status/1400585079441608709",
     "reply_to": {
@@ -15635,7 +15736,7 @@
     "tweet_id": "1400666592237658116",
     "url": "https://twitter.com/SimpsonsOps/status/1400666592237658116",
     "posted_at": "2021-06-04T04:11:53.373Z",
-    "text": "@editingemily a big box surrounding all of those labelled \"shitposting",
+    "text": "@editingemily a big box surrounding all of those labelled \"shitposting\"",
     "media": [
       "E3AEEatUcAUDtuN.jpg"
     ],
@@ -15661,7 +15762,7 @@
     "tweet_id": "1401481058525224961",
     "url": "https://twitter.com/SimpsonsOps/status/1401481058525224961",
     "posted_at": "2021-06-06T10:08:17.268Z",
-    "text": "I",
+    "text": "I'll cop the blame for this https://t.co/2xQ8tmjhgD",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20210606100829/https://twitter.com/SimpsonsOps/status/1401481058525224961"
   },
@@ -15669,7 +15770,7 @@
     "tweet_id": "1402207488200511488",
     "url": "https://twitter.com/SimpsonsOps/status/1402207488200511488",
     "posted_at": "2021-06-08T10:14:51.599Z",
-    "text": "Y",
+    "text": "Y'all got any book recommendations? 👀 https://t.co/go3cV6uGf3",
     "media": [
       "E3VqWeUVoBcI2BI.jpg"
     ],
@@ -15717,13 +15818,14 @@
     "posted_at": "2021-06-13T03:26:36.041Z",
     "text": "Unpopular opinion: the best thing young people can do is start a meme account early in their careers. https://t.co/Om371rl0lO",
     "media": [],
-    "snapshot_url": "https://web.archive.org/web/20210613064325/https://twitter.com/SimpsonsOps/status/1403916685711601672"
+    "snapshot_url": "https://web.archive.org/web/20210613064325/https://twitter.com/SimpsonsOps/status/1403916685711601672",
+    "likes": 66
   },
   {
     "tweet_id": "1404026362583674880",
     "url": "https://twitter.com/SimpsonsOps/status/1404026362583674880",
     "posted_at": "2021-06-13T10:42:25.045Z",
-    "text": "That",
+    "text": "That's a big yike. Don't do this 🤦🏻‍♂️ https://t.co/Nz06ZRZhOd https://t.co/nN3hiIO4RU",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20210613104246/https://twitter.com/SimpsonsOps/status/1404026362583674880",
     "video": "E3wahtMVcAUxDad.mp4",
@@ -15771,7 +15873,7 @@
     "tweet_id": "1405708435992186881",
     "url": "https://twitter.com/SimpsonsOps/status/1405708435992186881",
     "posted_at": "2021-06-18T02:06:22.597Z",
-    "text": "@mattstratton @medus4_cdc You",
+    "text": "@mattstratton @medus4_cdc You're not?",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20210618020626/https://twitter.com/SimpsonsOps/status/1405708435992186881",
     "reply_to": {
@@ -15795,13 +15897,14 @@
     "tweet_id": "1407486078513139716",
     "url": "https://twitter.com/SimpsonsOps/status/1407486078513139716",
     "posted_at": "2021-06-22T23:50:05.601Z",
-    "text": "The empathy you feel when you",
+    "text": "The empathy you feel when you're talking to a sales person and you can tell they haven't consulted their developers about what they're selling you 😩 https://t.co/4MHualfrSj",
     "media": [
       "E4hnbFnVgAMvZyJ.jpg"
     ],
     "snapshot_url": "https://web.archive.org/web/20210623024054/https://twitter.com/SimpsonsOps/status/1407486078513139716",
     "video": "EUBGXMK7_GNaO-Sr.mp4",
-    "has_video": true
+    "has_video": true,
+    "likes": 151
   },
   {
     "tweet_id": "1407492326377738240",
@@ -15817,7 +15920,8 @@
       "username": "SimpsonsOps",
       "text": null,
       "snapshot_url": null
-    }
+    },
+    "likes": 8
   },
   {
     "tweet_id": "1407587935684239360",
@@ -15849,7 +15953,7 @@
     "tweet_id": "1410843475709288449",
     "url": "https://twitter.com/SimpsonsOps/status/1410843475709288449",
     "posted_at": "2021-07-02T06:11:11.470Z",
-    "text": "Tech CEOs everywhere are trembling in their boots. It",
+    "text": "Tech CEOs everywhere are trembling in their boots. It's over. https://t.co/35EfFqFAaY",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20210702061131/https://twitter.com/SimpsonsOps/status/1410843475709288449",
     "has_video": true,
@@ -15913,7 +16017,7 @@
     "tweet_id": "1418334641417637888",
     "url": "https://twitter.com/SimpsonsOps/status/1418334641417637888",
     "posted_at": "2021-07-22T22:18:24.554Z",
-    "text": "@killedbygoogle Look at me. I",
+    "text": "@killedbygoogle Look at me. I'm the DNS now.",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20210722221837/https://twitter.com/SimpsonsOps/status/1418334641417637888",
     "reply_to": {
@@ -15993,7 +16097,7 @@
     "tweet_id": "1423068313265967105",
     "url": "https://twitter.com/SimpsonsOps/status/1423068313265967105",
     "posted_at": "2021-08-04T23:48:19.870Z",
-    "text": "Roll your own auth, they said.\nIt",
+    "text": "Roll your own auth, they said.\nIt'd be fun, they said. https://t.co/QyeCh1VTAY",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20210804235122/https://twitter.com/SimpsonsOps/status/1423068313265967105",
     "has_video": true,
@@ -16046,7 +16150,7 @@
     "tweet_id": "1423446491385917441",
     "url": "https://twitter.com/SimpsonsOps/status/1423446491385917441",
     "posted_at": "2021-08-06T00:51:04.560Z",
-    "text": "@RozenMD We don",
+    "text": "@RozenMD We don't deploy on days which end in \"day\"",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20210806005146/https://twitter.com/SimpsonsOps/status/1423446491385917441",
     "reply_to": {
@@ -16308,7 +16412,7 @@
     "tweet_id": "1430652180353093638",
     "url": "https://twitter.com/SimpsonsOps/status/1430652180353093638",
     "posted_at": "2021-08-25T22:03:54.685Z",
-    "text": "Get @ahidalgosre to the top of this thread and I",
+    "text": "Get @ahidalgosre to the top of this thread and I'll give my account to @QuinnyPig for 24 hours https://t.co/un5NFTgaWW",
     "media": [
       "E9ppey0XoAAQI-w.jpg"
     ],
@@ -16318,7 +16422,7 @@
     "tweet_id": "1430652273563037699",
     "url": "https://twitter.com/SimpsonsOps/status/1430652273563037699",
     "posted_at": "2021-08-25T22:04:16.908Z",
-    "text": "What",
+    "text": "What's the worst that could happen?",
     "media": [
       "E9ppey0XoAAQI-w.jpg"
     ],
@@ -16403,7 +16507,7 @@
     "tweet_id": "1442277200326119428",
     "url": "https://twitter.com/SimpsonsOps/status/1442277200326119428",
     "posted_at": "2021-09-26T23:57:35.429Z",
-    "text": "@harrisj Lockdowns definitely haven",
+    "text": "@harrisj Lockdowns definitely haven't been helping the mood, but I definitely want to get people laughing again at some point 😔",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20210926235744/https://twitter.com/SimpsonsOps/status/1442277200326119428",
     "reply_to": {
@@ -16447,7 +16551,7 @@
     "tweet_id": "1445195293054566401",
     "url": "https://twitter.com/SimpsonsOps/status/1445195293054566401",
     "posted_at": "2021-10-05T01:13:02.951Z",
-    "text": "@Mat__Savage @killedbygoogle @mattstratton I can",
+    "text": "@Mat__Savage @killedbygoogle @mattstratton I can't believe you've done this",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20211005023103/https://twitter.com/SimpsonsOps/status/1445195293054566401",
     "reply_to": {
@@ -16517,7 +16621,7 @@
     "tweet_id": "1465192192020914179",
     "url": "https://twitter.com/SimpsonsOps/status/1465192192020914179",
     "posted_at": "2021-11-29T05:33:35.189Z",
-    "text": "@killedbygoogle I",
+    "text": "@killedbygoogle I'm very much here for this! Loving the new Cody! ❤️",
     "media": [
       "FFVPhStWQAoDyha.png"
     ],
@@ -16533,7 +16637,7 @@
     "tweet_id": "1468332746388881413",
     "url": "https://twitter.com/SimpsonsOps/status/1468332746388881413",
     "posted_at": "2021-12-07T21:33:01.699Z",
-    "text": "@harrisj Have hope! I have a feeling we",
+    "text": "@harrisj Have hope! I have a feeling we'll be back in the near future 👀 \n\nTimes have been weird for everyone 😩",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20211207213812/https://twitter.com/SimpsonsOps/status/1468332746388881413",
     "reply_to": {
@@ -16795,7 +16899,7 @@
     "tweet_id": "1499915073556725765",
     "url": "https://twitter.com/SimpsonsOps/status/1499915073556725765",
     "posted_at": "2022-03-05T01:09:55.267Z",
-    "text": "FYI there",
+    "text": "FYI there's a cringe crypto/nft account tagging us and making it look like we're collabing with them on a giveaway. I'm not going to link the post because that's probably what they want, but rest assured we're not part of their fuckery. Thanks for listening to my ted talk ♥️",
     "media": [],
     "snapshot_url": "https://web.archive.org/web/20220305011442/https://twitter.com/SimpsonsOps/status/1499915073556725765"
   },

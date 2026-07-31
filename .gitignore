@@ -106,3 +106,8 @@ dist
 
 env
 *_scrape_cache.json
+# macOS finder metadata
+.DS_Store
+
+# dry-run report from scripts/rescrape_text.py
+posts/text_scrape_diff.json

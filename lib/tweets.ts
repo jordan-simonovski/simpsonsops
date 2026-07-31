@@ -20,6 +20,9 @@ export interface Tweet {
   has_video?: boolean;
   video?: string;
   reply_to?: ReplyTo;
+  // Engagement at snapshot time, from scripts/scrape_likes.py. Absent on posts
+  // whose snapshot predates any engagement.
+  likes?: number;
 }
 
 let cache: Tweet[] | null = null;

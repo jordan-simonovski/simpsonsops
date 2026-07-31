@@ -9,7 +9,7 @@ import ShareDelegate from "@/app/components/ShareDelegate";
 import MediaLightbox from "@/app/components/MediaLightbox";
 import VideoAutoPause from "@/app/components/VideoAutoPause";
 import ThemeToggle from "@/app/components/ThemeToggle";
-import { BackArrow, ShareIcon } from "@/app/components/icons";
+import { BackArrow, ShareIcon, ShuffleIcon } from "@/app/components/icons";
 
 type Params = { id: string };
 
@@ -95,6 +95,13 @@ export default async function StatusPage({
             <ShareIcon width={18} height={18} />
             Copy link to this post
           </button>
+          {/* Plain <a>: /random is a redirect, and a client-side Link can serve
+              it from the router cache — the same post twice. Also the only way
+              to keep rolling on mobile, where the left nav is hidden. */}
+          <a className="copy-link-btn" href="/random">
+            <ShuffleIcon width={18} height={18} />
+            Another random meme
+          </a>
         </div>
       </main>
 
