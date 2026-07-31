@@ -53,7 +53,7 @@ export default function Timeline({ tweets }: { tweets: TweetType[] }) {
 
   const filtered = useMemo(() => {
     const q = filters.query.trim().toLowerCase();
-    return indexed.filter((it) => {
+    const out = indexed.filter((it) => {
       switch (filters.view) {
         case "posts":
           if (it.isReply || it.isQuote) return false;
@@ -67,11 +67,21 @@ export default function Timeline({ tweets }: { tweets: TweetType[] }) {
         case "media":
           if (!it.hasMedia) return false;
           break;
+        case "top":
+          // Best of all time. `!= null` not truthiness: a recovered 0 is real
+          // data ("nobody liked it") and belongs in the ranking, while a post
+          // with no usable capture has no count at all and stays out.
+          if (it.tweet.likes == null) return false;
+          break;
       }
       if (filters.activeTag && !it.tags.includes(filters.activeTag)) return false;
       if (q && !it.search.includes(q)) return false;
       return true;
     });
+    if (filters.view === "top") {
+      out.sort((a, b) => (b.tweet.likes ?? 0) - (a.tweet.likes ?? 0));
+    }
+    return out;
   }, [indexed, filters]);
 
   const [visibleCount, setVisibleCount] = useState(BATCH);
@@ -116,6 +126,16 @@ export default function Timeline({ tweets }: { tweets: TweetType[] }) {
           {querying
             ? "No posts match your search."
             : "No posts match these filters."}
+        </p>
+      ) : null}
+
+      {filters.view === "top" && !isEmpty ? (
+        <p className="feed-note">
+          Ranked by likes recovered from archive snapshots. Most posts were
+          archived within minutes of going up, so only{" "}
+          {indexed.filter((it) => it.tweet.likes != null).length} of{" "}
+          {indexed.length}{" "}
+          have a count at all.
         </p>
       ) : null}
 

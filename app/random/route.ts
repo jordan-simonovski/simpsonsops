@@ -6,7 +6,10 @@ import { loadTweets } from "@/lib/tweets";
 export const dynamic = "force-dynamic";
 
 export async function GET(request: Request) {
-  const tweets = await loadTweets();
+  // Memes only — a random text-only reply is a dud landing page.
+  const tweets = (await loadTweets()).filter(
+    (t) => t.media.length > 0 || t.has_video
+  );
   if (tweets.length === 0) {
     return NextResponse.redirect(new URL("/", request.url));
   }

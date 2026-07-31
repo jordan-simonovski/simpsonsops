@@ -8,7 +8,7 @@ import { useSyncExternalStore } from "react";
 // the page's grid layout or prop-drilling across siblings.
 // Single-select timeline view. Each value maps to a disjoint subset of the
 // archive that the data can actually back — no decorative tabs.
-export type FeedView = "posts" | "replies" | "quotes" | "media";
+export type FeedView = "posts" | "replies" | "quotes" | "media" | "top";
 
 export interface FeedFilters {
   query: string;
@@ -18,7 +18,7 @@ export interface FeedFilters {
 
 const INITIAL: FeedFilters = {
   query: "",
-  view: "posts",
+  view: "top",
   activeTag: null,
 };
 

@@ -5,6 +5,7 @@ import { useFeedFilters, setFilters, type FeedView } from "@/lib/feedStore";
 // The profile tab bar doubles as the timeline's view selector. Single-select,
 // mutually exclusive — replaces the old decorative tabs and the checkbox bar.
 const TABS: { label: string; view: FeedView }[] = [
+  { label: "Top", view: "top" },
   { label: "Posts", view: "posts" },
   { label: "Replies", view: "replies" },
   { label: "Quotes", view: "quotes" },
